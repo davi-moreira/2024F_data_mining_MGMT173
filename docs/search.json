@@ -1,0 +1,32 @@
+[
+  {
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "MGMT 17300: Data Mining Lab",
+    "section": "Course Description",
+    "text": "Course Description\nXXX\nClass: Section XX: MWF (9:30 am – 10:20 am), RAWL 3082\nCourse Website: https://davi-moreira.github.io/2024F_business_statistics_purdue_MGMT305\n\nInstructor: Professor Davi Moreira\n\nEmail: dmoreira@purdue.edu\nVirtual Office hours - Zoom link in your Course Brightspace Page\n\nSection 13: M/W from 10:45 am to 11:45 am, and by appointment.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#learning-outcomes",
+    "href": "index.html#learning-outcomes",
+    "title": "MGMT 17300: Data Mining Lab",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nBy the end of this course, students will be able to:\n\nUnderstand the basic statistical principles and their applications in the area of management and business.\nUnderstand fundamental issues in business and management.\nDescribe and use the commonly used statistical techniques for analyzing business data.\nUnderstand the impacts of recent developments in big data and AI in business and management.\nBe proficient in using Excel to carry out statistical and analytics methods covered in the course.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#objective",
+    "href": "index.html#objective",
+    "title": "MGMT 17300: Data Mining Lab",
+    "section": "Objective",
+    "text": "Objective\nOur main goal is to instill the basic quantitative and data analysis skills needed by managers in modern business, where Business Analytics and Data Science have become important. These skills will help managers to understand and carry out data-based decision making, risk assessments, and policy making and to work effectively with data analysis teams to improve all aspects of business performance.\nModern data analysis is done using computers and various types of sophisticated software. Therefore, to most effectively introduce management candidates to its techniques, we will also emphasize software applications (with Microsoft Excel, R, or Python) in this course.\n\nCourse Materials\nThe following are learning materials:\n\nText book: Anderson, Sweeney, Williams, Camn, Cochran, Fry, and Ohlmann: Modern Business Statistics with Microsoft Excel, 7th edition, 2018, Cengage Learning, Inc. (Required) This text is also used in STAT 30301.\nHandouts: Lecture Slides and Supplementary Materials. (Posted in this page and on Brightspace: Brightspace -&gt; Content -&gt; Table of Contents -&gt; ….)\n\n\n\nCourse Infra-structure\nBrightspace: The Course Brightspace Page https://purdue.brightspace.com/ should be checked on a regular basis for announcements and course material.\nSoftware: Microsoft Excel will be used for in-class demonstrations and instruction. The main tool is Data Analysis under Tools. If you don’t see this tool, follow the following steps to add in:\n\nFile -&gt; Options -&gt; Add-ins -&gt; Select Analysis ToolPak and Analysis ToolPak-VBA (also select StatTools 7.5, if available) -&gt; Go -&gt; Data -&gt; Data Analysis (to conduct analyses)\n\nCourse Website: This class website will be used throughout the course, but it does not replace the Course Brightspace Page.",
+    "crumbs": [
+      "Home"
+    ]
+  }
+]
