@@ -18,5 +18,7 @@ _00_py4ps_install_guide/
 _handouts/
 # figs/
 # images/
+_old_files/
+old_files/
 _homework/
 _lecture_notes/
