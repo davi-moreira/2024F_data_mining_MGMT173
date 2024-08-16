@@ -4,7 +4,7 @@
     "href": "index.html#course-description",
     "title": "MGMT 17300: Data Mining Lab",
     "section": "Course Description",
-    "text": "Course Description\nXXX\nClass: Section XX: MWF (9:30 am – 10:20 am), RAWL 3082\nCourse Website: https://davi-moreira.github.io/2024F_business_statistics_purdue_MGMT305\n\nInstructor: Professor Davi Moreira\n\nEmail: dmoreira@purdue.edu\nVirtual Office hours - Zoom link in your Course Brightspace Page\n\nSection 13: M/W from 10:45 am to 11:45 am, and by appointment.",
+    "text": "Course Description\nThis course is tailored for students who are either new to the dynamic field of business analytics or possess a strong interest in establishing a foundational understanding of modern data-driven decision-making. In contrast to a sole focus on areas like data mining, machine learning, or information management systems, this course aims to furnish students with a holistic grasp of the multifaceted roles performed by diverse data and analytics disciplines within the intricate landscape of business decision-making. By reviewing numerous real world business cases and engaging in the exploration of two data mining case studies, the course facilitates an experiential learning process. This process emphasizes the interconnected nature of these disciplines, contributing to the cultivation of a thorough comprehension of data-driven decision-making. This heightened understanding empowers students to thoughtfully select their advanced analytics courses and strategically navigate their individual paths toward specialized or advanced training in fields aligned with data analytics.\nClass: Mondays (2:30 pm to 3:20 pm), HAMP 3144\nCourse Website: https://davi-moreira.github.io/2024F_data_mining_MGMT173/\n\nInstructor: Professor Davi Moreira\n\nEmail: dmoreira@purdue.edu\nVirtual Office hours - Zoom link in your Course Brightspace Page\n\nMondays 4-5:00pm, and by appointment.",
     "crumbs": [
       "Home"
     ]
@@ -14,7 +14,7 @@
     "href": "index.html#learning-outcomes",
     "title": "MGMT 17300: Data Mining Lab",
     "section": "Learning Outcomes",
-    "text": "Learning Outcomes\nBy the end of this course, students will be able to:\n\nUnderstand the basic statistical principles and their applications in the area of management and business.\nUnderstand fundamental issues in business and management.\nDescribe and use the commonly used statistical techniques for analyzing business data.\nUnderstand the impacts of recent developments in big data and AI in business and management.\nBe proficient in using Excel to carry out statistical and analytics methods covered in the course.",
+    "text": "Learning Outcomes\nBy the end of this course, students will be able to:\n\nGrasp a holistic view of the three technical pillars that support contemporary data-driven decision-making: data management, business analytics, and data science.\nAcknowledge the vital role of structured business data and enterprise data management/analytics infrastructure in facilitating efficient data-driven decision-making.\nGain foundational knowledge in utilizing powerful analytics tools like R and RStudio.\nMake informed decisions in navigating advanced business information management and analytics proficiency developments.\n\n\nCourse Materials\nThe following are learning materials:\n\nText book: e-textbook: “Modern Data-Driven Decision Making: with practices in data mining and R”, by Zhiwei Zhu, Copyright Digital and AI Literacies 2023. (Draft version available in the course Brightspace page).\nHandouts: Lecture Slides and Supplementary Materials. (Posted in this page and on Brightspace: Brightspace -&gt; Content -&gt; Table of Contents -&gt; ….)\n\n\n\nCourse Infra-structure\nBrightspace: The Course Brightspace Page https://purdue.brightspace.com/ should be checked on a regular basis for announcements and course material.\nHardware: A laptop or desktop with internet access and the capability to install and run R and RStudio.\nSoftware: R and RStudio\nCourse Website: This class website will be used throughout the course, but it does not replace the Course Brightspace Page.",
     "crumbs": [
       "Home"
     ]
@@ -28,5 +28,272 @@
     "crumbs": [
       "Home"
     ]
+  },
+  {
+    "objectID": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#overview",
+    "href": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#overview",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Overview",
+    "text": "Overview\n\n\n\n\nIntroductions\nCourse Overview and Logistics\nMotivation\nCourse Objectives\n\n\n\nKey Topics\n\nM3DM and other approaches.\n\nKey terms.\nM3DM three technical pillars."
+  },
+  {
+    "objectID": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#instructor",
+    "href": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#instructor",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Instructor",
+    "text": "Instructor\n\n\n\n\n\n\n\n\n\n\n\ndmoreira@purdue.edu\nhttps://davi-moreira.github.io/\n\n\nClinical Assistant Professor in the Management Department at Purdue University;\n\n\n\nMy academic work addresses Political Communication, Data Science, Text as Data, Artificial Intelligence, and Comparative Politics.\n\n\n\nM&E Specialist consultant - World Bank (Brazil, Mozambique, Angola, and DRC)"
+  },
+  {
+    "objectID": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#instructors-passions",
+    "href": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#instructors-passions",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Instructor’s Passions",
+    "text": "Instructor’s Passions\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Most Exciting Game in History - Video"
+  },
+  {
+    "objectID": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#instructors-passions-1",
+    "href": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#instructors-passions-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Instructor’s Passions",
+    "text": "Instructor’s Passions\n\n\nNYT - How John Travolta Became the Star of Carnival-Video."
+  },
+  {
+    "objectID": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#students",
+    "href": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#students",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Students",
+    "text": "Students\n\n\nIt is your turn! - 5 minutes\n\n\n\nPresent yourself to your left/right colleague and tell her/him what are the current two main passions in your life."
+  },
+  {
+    "objectID": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#course-overview-and-logistics-1",
+    "href": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#course-overview-and-logistics-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Course Overview and Logistics",
+    "text": "Course Overview and Logistics\n\nMaterials:\n\nBrightspace\nCourse Webpage\n\nSyllabus\nSchedule"
+  },
+  {
+    "objectID": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#motivation-1",
+    "href": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#motivation-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Motivation",
+    "text": "Motivation\n\n\n\n\n\n\n\n“Without data, you’re just another person with an opinion.” – W. Edwards Deming\n\n\n\n\n\n\n\n\n\n\n\nW. Edwards Deming\nWiki"
+  },
+  {
+    "objectID": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#xxxxx",
+    "href": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#xxxxx",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "XXXXX",
+    "text": "XXXXX"
+  },
+  {
+    "objectID": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#study-design-1",
+    "href": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#study-design-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Study Design",
+    "text": "Study Design\n\n\nObservational\nIn observational studies, no attempt is made to control or influence the variables of interest. A survey is a good example.\n  \n\nAn example of an observational study is researchers observing a randomly selected group of customers that enter a Walmart Supercenter to collect data on variables such as time spent in the store, gender of the customer, and the amount spent.\n\n\nExperimental\nAn experimental study involves the active manipulation of one or more independent variables to observe their effect on a dependent variable, while controlling for confounding factors. Participants are typically randomly assigned to groups (e.g., treatment vs. control), and outcomes are compared to determine causal relationships. This design provides strong evidence for cause-and-effect due to the controlled environment and random assignment.\n\n\nThe largest experimental study ever conducted is believed to be the 1954 Public Health Service experiment for the Salk polio vaccine. Nearly two million U.S. children (grades 1 through 3) were selected."
+  },
+  {
+    "objectID": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#study-design-random-assignment-vs.-random-sampling",
+    "href": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#study-design-random-assignment-vs.-random-sampling",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Study Design: Random Assignment vs. Random Sampling",
+    "text": "Study Design: Random Assignment vs. Random Sampling"
+  },
+  {
+    "objectID": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#study-design-2",
+    "href": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#study-design-2",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Study Design",
+    "text": "Study Design"
+  },
+  {
+    "objectID": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#summarizing-and-presenting-data",
+    "href": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#summarizing-and-presenting-data",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Summarizing and Presenting Data",
+    "text": "Summarizing and Presenting Data\n\n\n\n\nJune 9th Apple CEO Steve Jobs - Post"
+  },
+  {
+    "objectID": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#summarizing-and-presenting-data-1",
+    "href": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#summarizing-and-presenting-data-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Summarizing and Presenting Data",
+    "text": "Summarizing and Presenting Data\n\n\n\n\nJune 9th Apple CEO Steve Jobs - Post"
+  },
+  {
+    "objectID": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#statistical-inference-1",
+    "href": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#statistical-inference-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Statistical Inference",
+    "text": "Statistical Inference\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPopulation: the set of all elements of interest in a particular study.\nSample: a subset of the population.\nDescriptive Statistics: Tabular, graphical, and numerical summaries of data.\nInferential Statistics: The process of using data from the sample to make estimates or test hypotheses about the characteristics of a population\nEstimation: Using sample data to approximate population parameters.\nHypotheses Testing: Determining if there is enough evidence in a sample to support a claim about a population.\nPrediction: Forecasting future events based on historical data."
+  },
+  {
+    "objectID": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#data-science-big-data-and-data-mining---definitions",
+    "href": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#data-science-big-data-and-data-mining---definitions",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Data Science, Big Data, and Data Mining - Definitions",
+    "text": "Data Science, Big Data, and Data Mining - Definitions\n\n\nData Science:\n\nThe interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data.\n\nBig Data:\n\nExtremely large datasets that may be analyzed computationally to reveal patterns, trends, and associations, especially relating to human behavior and interactions.\n\nData Mining:\n\nThe practice of examining large databases to generate new information, involving methods at the intersection of machine learning, statistics, and database systems."
+  },
+  {
+    "objectID": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#how-data-science-big-data-and-data-mining-are-used",
+    "href": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#how-data-science-big-data-and-data-mining-are-used",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "How Data Science, Big Data, and Data Mining are Used",
+    "text": "How Data Science, Big Data, and Data Mining are Used\n\n\n\nData Science:\n\nPersonalizing marketing efforts by analyzing customer data to predict preferences and buying behavior.\nOptimizing supply chain management through predictive analytics.\n\nBig Data:\n\nAnalyzing customer feedback and social media interactions to improve customer service and develop new products.\nEnhancing risk management in financial institutions by monitoring transaction patterns and detecting fraudulent activities.\n\nData Mining:\n\nIdentifying potential leads and sales opportunities by analyzing past sales data and customer demographics.\nEnhancing customer retention by understanding churn patterns and developing targeted retention strategies."
+  },
+  {
+    "objectID": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#summary-1",
+    "href": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#summary-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Summary",
+    "text": "Summary\n\n\nModern Data Driven Decision Making (M3DM):\n\nM3DM is essential in leveraging data to guide business decisions.\nThe approach integrates statistics, machine learning, and data management to inform and optimize strategies.\n\nTechnical Pillars:\n\nData Acquisition: Gathering relevant and high-quality data.\nData Processing: Cleaning, transforming, and organizing data for analysis.\nData Analysis: Using statistical and machine learning techniques to extract insights.\n\nPractical Application:\n\nReal-world applications of M3DM include predictive analytics, customer segmentation, and operational optimization.\nData-driven decisions can significantly enhance business performance and competitive advantage."
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Date\nTopic\nAssignment (due dates on Brightspace)\nSlides**\nSupplementary Materials\n\n\n\n\n8/19/24\nLesson 1: Technical Enablers of Modern Data-Driven Decision Making\nQuiz #1Exercise #1\nslides\n- Video: The NBA Data Scientist- Video: Hans Rosling’s 200 Countries, 200 Years\n\n\n8/26/24\nLesson 2: Data Organization for Using Data to Drive Decisions\nQuiz #2Exercise #2\n\n\n\n\n9/2/24\nNo class* - Labor Day - Lesson 3: Tools for Using Data to Drive Decisions\nQuiz #3Exercise #3\n\n\n\n\n9/9/24\nLesson 4: Introduction to R and RStudio\nQuiz #4Exercise #4\n\n\n\n\n9/16/24\nLesson 5: Installing Packages and Importing Data in R\nQuiz #5Exercise #5\n\n\n\n\n9/23/24\nLesson 6: Data Types and Viewing Data Types in R\nQuiz #6Exercise #6\n\n\n\n\n9/30/24\nLesson 7: Key Steps of Performing Data Mining in R\nQuiz #7Exercise #7\n\n\n\n\n10/7/24\nNo class* - Fall Break - Lesson 8: Most Applied Data Mining Techniques\nQuiz #8Exercise #8\n\n\n\n\n10/14/24\nLesson 9: Exploratory Data Analysis in R: Summary Statistics\nQuiz #9Exercise #9\n\n\n\n\n10/21/24\nLesson 10: Exploratory Data Analysis in R: Visualization and Dashboarding\nQuiz #10Exercise #10\n\n\n\n\n10/28/24\nLesson 11: Mine Data through Predictive Modeling in R\nQuiz #11Exercise #11\n\n\n\n\n11/4/24\nLesson 12: Identifying Significant Predictors\nQuiz #12Exercise #12\n\n\n\n\n11/11/24\nLesson 13: Predictive Model Interpretations and Predictions\nQuiz #13Exercise #13\n\n\n\n\n11/18/24\nLesson 14: Evaluating Predictive Model Performance\nQuiz #14Exercise #14\n\n\n\n\n11/25/24\nLesson 15: Bringing It All Together: From Data to Insights to Decisions\nQuiz #15Exercise #15\n\n\n\n\n12/2/24\nProject presentation and report due\nProject presentation submission\n\n\n\n\n12/9/24\nFinal Exam (online) 4:00 PM - 6:00 PM\n\n\n\n\n\n\n*Please note that for the two classes missed due to holidays and breaks, there will be no make-up sessions. However, students are expected to independently complete the assigned readings and exercises during these periods. While class discussions won’t take place, engaging with the materials and teammates will ensure you stay on track with the course content.\n** Course material adapted from the textbook and previous course editions to better fit our curriculum. Thanks to Professor Zhiwei Zhu, Dr. Z.Z, for guidance and for generously sharing the materials.",
+    "crumbs": [
+      "Schedule and Material"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#course-description",
+    "href": "syllabus.html#course-description",
+    "title": "Syllabus: MGMT 17300: Data Mining Lab",
+    "section": "Course Description",
+    "text": "Course Description\nThis course is tailored for students who are either new to the dynamic field of business analytics or possess a strong interest in establishing a foundational understanding of modern data-driven decision-making. In contrast to a sole focus on areas like data mining, machine learning, or information management systems, this course aims to furnish students with a holistic grasp of the multifaceted roles performed by diverse data and analytics disciplines within the intricate landscape of business decision-making. By reviewing numerous real world business cases and engaging in the exploration of two data mining case studies, the course facilitates an experiential learning process. This process emphasizes the interconnected nature of these disciplines, contributing to the cultivation of a thorough comprehension of data-driven decision-making. This heightened understanding empowers students to thoughtfully select their advanced analytics courses and strategically navigate their individual paths toward specialized or advanced training in fields aligned with data analytics.\nClass: Mondays (2:30 pm to 3:20 pm), HAMP 3144\nCourse Website: https://davi-moreira.github.io/2024F_data_mining_MGMT173/\n\nInstructor: Professor Davi Moreira\n\nEmail: dmoreira@purdue.edu\nVirtual Office hours - Zoom link in your Course Brightspace Page\n\nMondays 4-5:00pm, and by appointment.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#learning-outcomes",
+    "href": "syllabus.html#learning-outcomes",
+    "title": "Syllabus: MGMT 17300: Data Mining Lab",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nBy the end of this course, students will be able to:\n\nGrasp a holistic view of the three technical pillars that support contemporary data-driven decision-making: data management, business analytics, and data science.\nAcknowledge the vital role of structured business data and enterprise data management/analytics infrastructure in facilitating efficient data-driven decision-making.\nGain foundational knowledge in utilizing powerful analytics tools like R and RStudio.\nMake informed decisions in navigating advanced business information management and analytics proficiency developments.\n\n\nCourse Materials\nThe following are learning materials:\n\nText book: e-textbook: “Modern Data-Driven Decision Making: with practices in data mining and R”, by Zhiwei Zhu, Copyright Digital and AI Literacies 2023. (Draft version available in the course Brightspace page).\nHandouts: Lecture Slides and Supplementary Materials. (Posted in this page and on Brightspace: Brightspace -&gt; Content -&gt; Table of Contents -&gt; ….)\n\n\n\nCourse Infra-structure\nBrightspace: The Course Brightspace Page https://purdue.brightspace.com/ should be checked on a regular basis for announcements and course material.\nHardware: A laptop or desktop with internet access and the capability to install and run R and RStudio.\nSoftware: R and RStudio\nCourse Website: This class website will be used throughout the course, but it does not replace the Course Brightspace Page.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#assessments",
+    "href": "syllabus.html#assessments",
+    "title": "Syllabus: MGMT 17300: Data Mining Lab",
+    "section": "Assessments",
+    "text": "Assessments\n\nGrading\nThe final grade will not hinge on a mere point count or percentage. Per the School of Business Undergraduate Grading Policy, the target grade distribution for elective courses culminates in an average GPA of 3.3. To comply with this policy, the final course letter grades will be based on the curved class final course percentages. The final course percentage is based on a weighted percentage computed using the weights shown in the table below:\n\n\n\nAssignment\nPercentage\n\n\n\n\nAttendance\n7%\n\n\nQuizzes.\n18%\n\n\nExercises\n25%\n\n\nProject\n25%\n\n\nVirtual Final Exam\n25%\n\n\n\n\n\nAttendance\nAttend your classes, pay attention and participate. If you do not attend class, you will likely not succeed. According to the University regulations, “Scheduled courses allow students to avoid conflicts and reflect the University’s expectation that students should be present for every meeting of a class/laboratory for which they are registered.” The instructor will take random attendance and keep the attendance record. Your attendance grade will be based on this record.\n\n\nQuizzes\nIndividual timely completion of pre-class readings will be covered by quizzes questions to be submitted before each class (starting before the second class).\n\n\nExercises\nIndividual post-class exercises demonstrating your engagement with the course content (starting after the first class).\n\n\nProject\nIn initially random assigned groups (up to 6 members and no less than 5 members), students must submit a team’s project report presentation on Brightspace, showcasing a practical application of the learned concepts. A guideline document will be shared by the instructor after before lesson 10.\n\n\nVirtual Final Exam\nA one and a half hours of online final exam hosted on Brightspace to assess your overall understanding of the course material.\n\n\n\n\n\n\nNote\n\n\n\nPlease note that: - The final exam will be conducted individually, online and is open book. - It will take place on the date assigned in the schedule. You must start your exam between the starting time and ending times. At or after the ending time, the exam will not be available for starting. - The duration of the exam is one hour. Once you begin the exam, it must be completed within 1.5 hours. - The exam will conclude at the end of your 90 minutes by an automatic submission. - It is your responsibility to ensure you have a functional computer, a reliable network connection, and follow exam schedule. - During the exam time I will be available in the Office Hours link to answer any content-related questions you may have.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#course-policies",
+    "href": "syllabus.html#course-policies",
+    "title": "Syllabus: MGMT 17300: Data Mining Lab",
+    "section": "Course Policies",
+    "text": "Course Policies\n\nAbide by Purdue University’s academic regulations, consulting your academic advisor for precise details.\nPromptly engage with the instructor for any inquiries, suggestions, or requests for assignment extensions in the event of necessary absence.\nEnsure the punctual submission of all assignments using the designated platform and adhering to the specified format. Late submissions will not be entertained without a pre-approved extension.\nActively participate in all course-related activities, encompassing class sessions, discussions, and team projects. Stay informed by keeping an eye on emails and on announcements posted on Brightspace.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#ai-policy",
+    "href": "syllabus.html#ai-policy",
+    "title": "Syllabus: MGMT 17300: Data Mining Lab",
+    "section": "AI policy",
+    "text": "AI policy\nI encourage you to use AI tools you believe will enhance your individual or group learning performance. Learning to use AI is a valuable and emerging skill, and I am available to provide support and assistance with these tools during office hours or by appointment.\nBe aware of the following guidelines:\n\nYou are not allowed to use AI tools during the exams.\nProviding low-effort prompts will result in low-quality outputs. You must refine your prompts to achieve desirable outcomes. Use the course knowledge for that!\nMake the AI tool help you in your learning process. Do not ask for solutions, ask for explanations, for examples, present your doubts about a topic, and interact and with it!\nDo not blindly trust the information provided by the output. Any errors or omissions resulting from using the AI tool will be your responsibility. Remember, the AI tool works better for topics that you already understand.\nWhile AI is a tool, you must acknowledge its use. Always cite! Include a short note at the end of any document to mention that you used AI in its development.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#academic-integrity",
+    "href": "syllabus.html#academic-integrity",
+    "title": "Syllabus: MGMT 17300: Data Mining Lab",
+    "section": "Academic Integrity",
+    "text": "Academic Integrity\nPlease refer the University Policies on Brightspace.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#accessibility-and-accommodations",
+    "href": "syllabus.html#accessibility-and-accommodations",
+    "title": "Syllabus: MGMT 17300: Data Mining Lab",
+    "section": "Accessibility and Accommodations:",
+    "text": "Accessibility and Accommodations:\nPurdue University strives to make learning experiences as accessible as possible. If you anticipate or experience physical or academic barriers based on disability, please let me know so that we can discuss options. You are also encouraged to contact the Disability Resource Center at: drc@purdue.edu or by phone: 765-494-1247.\n\nCAPS Information: Purdue University is committed to advancing the mental health and well-being of its students. If you or someone you know is feeling overwhelmed, depressed, and/or in need of support, services are available. For help, such individuals should contact Counseling and Psychological Services (CAPS) at 765-494-6995 and http://www.purdue.edu/caps/ during and after hours, on weekends and holidays, or through its counselors physically located in the Purdue University Student Health Center (PUSH) during business hours.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#non-discrimination-statement",
+    "href": "syllabus.html#non-discrimination-statement",
+    "title": "Syllabus: MGMT 17300: Data Mining Lab",
+    "section": "Non-Discrimination Statement:",
+    "text": "Non-Discrimination Statement:\nPlease refer to the Nondiscrimination Statement on Brightspace.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#emergency-situations",
+    "href": "syllabus.html#emergency-situations",
+    "title": "Syllabus: MGMT 17300: Data Mining Lab",
+    "section": "Emergency Situation(s):",
+    "text": "Emergency Situation(s):\nPlease refer to the Emergency Preparedness on Brightspace.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#subject-to-change-policy",
+    "href": "syllabus.html#subject-to-change-policy",
+    "title": "Syllabus: MGMT 17300: Data Mining Lab",
+    "section": "Subject to Change Policy",
+    "text": "Subject to Change Policy\nWhile I will try to adhere to the course schedule as much as possible, I also want to adapt to your learning pace and style. The syllabus and course plan may change in the semester.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#schedule",
+    "href": "syllabus.html#schedule",
+    "title": "Syllabus: MGMT 17300: Data Mining Lab",
+    "section": "Schedule",
+    "text": "Schedule",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#text-book",
+    "href": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#text-book",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Text Book",
+    "text": "Text Book"
+  },
+  {
+    "objectID": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#modern-data-driven-decision-making-1",
+    "href": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#modern-data-driven-decision-making-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Modern Data Driven Decision Making",
+    "text": "Modern Data Driven Decision Making"
+  },
+  {
+    "objectID": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#modern-data-driven-decision-making-2",
+    "href": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#modern-data-driven-decision-making-2",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Modern Data Driven Decision Making",
+    "text": "Modern Data Driven Decision Making"
+  },
+  {
+    "objectID": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#summarizing-and-presenting-data-2",
+    "href": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#summarizing-and-presenting-data-2",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Summarizing and Presenting Data",
+    "text": "Summarizing and Presenting Data\n\n\n\nProblems with pie charts - Post"
   }
 ]

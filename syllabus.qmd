@@ -1,7 +1,7 @@
 ---
-title: "Syllabus: MGMT 30500: Business Statistics"
+title: "Syllabus: MGMT 17300: Data Mining Lab"
 subtitle: "Mitchell E. Daniels, Jr. School of Business, Purdue University"
-date-modified: "last-modified"
+#date-modified: "last-modified"
 date: "2024-08-01"
 date-format: "MMM D, YYYY"
 #listing:
@@ -31,41 +31,33 @@ _This document does not replace the official syllabus in the course brightspace 
 
 ## Course Description
 
-This course is designed to introduce students to basic data analysis techniques.  Coverage will include the application of probability distributions such as the normal, the $t$, and the binomial; sampling distributions, basic statistical inference methods, analysis of variance, applied linear regression techniques, logistic regression time series analysis, statistical quality control, and decision analysis.
+This course is tailored for students who are either new to the dynamic field of business analytics or possess a strong interest in establishing a foundational understanding of modern data-driven decision-making. In contrast to a sole focus on areas like data mining, machine learning, or information management systems, this course aims to furnish students with a holistic grasp of the multifaceted roles performed by diverse data and analytics disciplines within the intricate landscape of business decision-making. By reviewing numerous real world business cases and engaging in the exploration of two data mining case studies, the course facilitates an experiential learning process. This process emphasizes the interconnected nature of these disciplines, contributing to the cultivation of a thorough comprehension of data-driven decision-making. This heightened understanding empowers students to thoughtfully select their advanced analytics courses and strategically navigate their individual paths toward specialized or advanced training in fields aligned with data analytics.
 
-**Class:** Section 13:  MWF (9:30 am – 10:20 am), RAWL 3082	
+**Class:** Mondays (2:30 pm to 3:20 pm), HAMP 3144	
 
-**Course Website**: <https://davi-moreira.github.io/2024F_business_statistics_purdue_MGMT305>{target="_blank"}
-
-## Instructor 
+**Course Website**: <https://davi-moreira.github.io/2024F_data_mining_MGMT173/>{target="_blank"}
 
 ### Instructor: [Professor Davi Moreira](https://davi-moreira.github.io)
 
 -   Email: [dmoreira\@purdue.edu](mailto:dmoreira@purdue.edu)
+-   Virtual Office hours - _Zoom link in your Course Brightspace Page_ 
 
--   Virtual Office hours - _Zoom link in your Course Brightspace Page_: 
+    -   Mondays 4-5:00pm, and by appointment.
 
 ## Learning Outcomes
 
 By the end of this course, students will be able to:
 
-1.	Understand the basic statistical principles and their applications in the area of management and business.
-2.	Understand fundamental issues in business and management.
-3.	Describe and use the commonly used statistical techniques for analyzing business data.
-4.	Understand the impacts of recent developments in big data and AI in business and management.
-5.	Be proficient in using Excel to carry out statistical and analytics methods covered in the course.
-
-## Objectives
-
-Our main goal is to instill the basic quantitative and data analysis skills needed by managers in modern business, where Business Analytics and Data Science have become important. These skills will help managers to understand and carry out data-based decision making, risk assessments, and policy making and to work effectively with data analysis teams to improve all aspects of business performance.
-	
-Modern data analysis is done using computers and various types of sophisticated software. Therefore, to most effectively introduce management candidates to its techniques, we will also emphasize software applications (with Microsoft Excel, R, or Python) in this course.   
+1. Grasp a holistic view of the three technical pillars that support contemporary data-driven decision-making: data management, business analytics, and data science.
+2. Acknowledge the vital role of structured business data and enterprise data management/analytics infrastructure in facilitating efficient data-driven decision-making.
+3. Gain foundational knowledge in utilizing powerful analytics tools like R and RStudio.
+4. Make informed decisions in navigating advanced business information management and analytics proficiency developments.
 
 ### Course Materials
 
 The following are learning materials:
 
-1. Text book:  Anderson, Sweeney, Williams, Camn, Cochran, Fry, and Ohlmann: Modern Business Statistics with Microsoft Excel, 7th edition, 2018, Cengage Learning, Inc. (Required)  This text is also used in STAT 30301.
+1. Text book:  e-textbook: “Modern Data-Driven Decision Making: with practices in data mining and R”, by Zhiwei Zhu, Copyright Digital and AI Literacies 2023. (Draft version available in the course Brightspace page). 
 
 2. Handouts:  Lecture Slides and Supplementary Materials. (Posted in this page and on Brightspace: Brightspace -> Content -> Table of Contents -> ….)
 
@@ -73,8 +65,9 @@ The following are learning materials:
 
 **Brightspace:** The Course Brightspace Page <https://purdue.brightspace.com/> should be checked on a regular basis for announcements and course material.
 
-**Software:** Microsoft Excel will be used for in-class demonstrations and instruction. The main tool is Data Analysis under Tools.  If you don’t see this tool, follow the following steps to add in:
--   File > Options -> Add-ins -> Select Analysis ToolPak and Analysis ToolPak-VBA (also select StatTools 7.5, if available) -> Go -> Data -> Data Analysis (to conduct analyses)
+**Hardware:** A laptop or desktop with internet access and the capability to install and run [R](https://cran.r-project.org/){target="_blank"} and [RStudio](https://posit.co/downloads/){target="_blank"}.
+
+**Software:** [R](https://cran.r-project.org/){target="_blank"} and [RStudio](https://posit.co/downloads/){target="_blank"}
 
 **Course Website:** This class website will be used throughout the course, but it does not replace the Course Brightspace Page.
 
@@ -82,100 +75,58 @@ The following are learning materials:
 
 ### Grading 
 
-Following a university-wide initiative, the School has adopted an Official Grading Policy for core courses such as MGMT 30500.  Under this policy, the overall GPA for this class can be no higher than 3.0. To comply with this course policy, final course letter grades will be based on the curved class final course percentages. The final course percentage is based on a weighted percentage computed using the weights shown in the table below:
+The final grade will not hinge on a mere point count or percentage. Per the School of Business Undergraduate Grading Policy, the target grade distribution for elective courses culminates in an average GPA of 3.3. To comply with this policy, the final course letter grades will be based on the curved class final course percentages. The final course percentage is based on a weighted percentage computed using the weights shown in the table below:
+
 
 | **Assignment**             | **Percentage** |
 |----------------------------|:--------------:|
-| Homework*                  |      40%       |
-| Quizzes**                  |      15%       |
-| Midterms***                |      15%       |
-| Attendance/Participation   |       7%       |
-| Final****                  |      13%       |
+| Attendance                 |      7%       |
+| Quizzes.                   |      18%       |
+| Exercises                  |      25%       |
+| Project                    |      25%       |
+| Virtual Final Exam         |      25%       |
 
-\*There are eight homework assignments. No homework assignment is dropped. The final homework score is calculated using aggregated points.
 
-\** There are three quizzes worth 5% each. Quizzes 2 and 3 are not cumulative. 
+### Attendance
 
-\***There are two midterms: each is worth 7.5%. Midterms are not cumulative.
-
-\**** Final is cumulative.
-
-### Homework 
-
-There are eight Homework Assignments – check the due dates in the schedule. Each Homework Assignment contains 
-
-- Part A: Exercise problems from the text;
-
-- Part B: Supplementary problems.
-      
-      _Please note:  Homework is accepted only by being properly and timely uploaded to Brightspace.  Homework is not accepted late or in any other way, including by email, for any reason. Also, all students must be assessed on the same work so ad-hoc extra-credit or makeup assignments will not be given._ 
-      
-Brightspace will be set to allow you 2 chances to submit the assignment.  If you submit twice, only your second submission will be graded.  The first will not be looked at. 
-
-**Make sure to upload only one file (pdf) for each homework assignment**. No supplements, attachments, or appendices can be used.  
-
-**Important**: You must include all relevant software output that addresses the homework questions and reference it clearly where appropriate. Copy and paste all software output that addresses the homework questions into your homework papers, and reference it clearly where appropriate, but do not copy and paste any datasets into your homework papers.
-
-If an exercise instructs you to do a computation by hand, you do not have to include the by-hand work in your homework paper.  This makes it easier to turn your work in online to Brightspace.  However, you should make sure that you can do the by-hand computation by checking your answer against Excel’s result.  You will need to do the by-hand computations on exams so, again, make sure you know how to do them.  
-
-In your submissions, homework problems must be clearly identified by their respective chapter and problem numbers.
-
-Your proficiency in this course will improve if these problems are done faithfully and in a timely fashion. Try not to wait until the last minute to do your homework.  
-
-You may discuss the homework problems with classmates, but DO NOT COPY. You are expected to write your homework individually. Duplicate papers are considered cheating.   
-
-Your homework submissions are graded by the course graders. If you have any issues about the grading, please refer to the paragraph, Grade Challenges, below.
+Attend your classes, pay attention and participate. If you do not attend class, you will likely not succeed. According to the University regulations, “Scheduled courses allow students to avoid conflicts and reflect the University’s expectation that students should be present for every meeting of a class/laboratory for which they are registered.” The instructor will take random attendance and keep the attendance record. Your attendance grade will be based on this record.
 
 ### Quizzes
 
-To encourage students to work steadily through the materials, three quizzes are given. Quizzes 2 and 3 are not cumulative. The quizzes will each count for 5% of the final course percentage and none are dropped. Only under exceptional circumstances, when legitimate and verifiable reasons are provided, will make-ups be given. “Exceptional circumstances” means a death in the family, a serious personal medical emergency, participation in a conflicting NCAA athletic event, or as otherwise required by University policies.  Except for emergencies, requests for a makeup must be made by email with supporting documentation no later than 7 days before the scheduled quiz.
+Individual timely completion of pre-class readings will be covered by quizzes questions to be submitted before each class (starting before the second class).
 
-### Exams
+### Exercises
+Individual post-class exercises demonstrating your engagement with the course content (starting after the first class).
 
-Exams will test both technical abilities to carry out standard calculations and your understanding of important concepts. Exams are closely based on homework exercises and sample exams. Exams and homework are designed to assess different types and levels of understanding. There will be two Midterms (each is worth 7.5% of the total grade) and a Final (23% of the total grade), all given in-person. The second Midterm is not cumulative. The Final is cumulative.  You will need a calculator for taking exams. Calculators that have USB ports or can access the internet are not permitted nor are you allowed to use a smart phone or watch as a calculator.  You are required to take all exams.  (None are dropped.)  Only under exceptional circumstances, when legitimate and verifiable reasons are provided, will make-ups be given. “Exceptional circumstances” means a death in the family, a serious personal medical emergency, participation in a conflicting NCAA athletic event, or as otherwise required by University policies.  Except for emergencies, requests for a makeup must be made by email with supporting documentation no later than 7 days before the scheduled exam.
+### Project
 
-Attendance and Participation: Attend your classes, pay attention and participate.  If you do not attend class, you will likely not succeed. According to the University regulations (<https://catalog.purdue.edu/content.php?catoid=15&navoid=18634#classes>), “Scheduled courses allow students to avoid conflicts and reflect the University’s expectation that students should be present for every meeting of a class/laboratory for which they are registered.” The instructor will take random attendance and keep the attendance record. Your attendance/participation grade will be based on this record.
+In initially random assigned groups (up to 6 members and no less than 5 members), students must submit a team's project report presentation on Brightspace, showcasing a practical application of the learned concepts. A guideline document will be shared by the instructor after before lesson 10. 
 
-### Grade Challenges  
+### Virtual Final Exam
 
-When grades are posted in the Brightspace Grade Center, an announcement will be posted on Brightspace. Any challenge to any grade must be made within 7 calendar days of the posting of the announcement. There is one exception: to facilitate the computation of final course grades, the last homework assignment must be challenged within three days of the posting of grades.  Grade challenges must be based on good faith disputes about mathematical or statistical principles.  They cannot be based on post-hoc legalistic arguments.
+A one and a half hours of online final exam hosted on Brightspace to assess your overall understanding of the course material.
 
-To challenge a homework score, quiz score or exam score, you must send the instructor an email describing your challenge.  Include your name, ID, and Assignment Number. Please note: General grade reviews for homework are not done. For homework, the challenge must cite the instructor to a specific deduction and provide a reason it is believed to be incorrect. Please check the Homework Solutions on Brightspace before submitting a homework grade challenge. Most often, the Homework Solutions will provide the basis for the deduction(s). Grades will not be discussed in the classroom during, between, or after classes.   
+::: {.callout-note}
 
-**After the 7 day challenge period, all grades are final for purposes of calculating the final course grade.**   
+**Please note that:**
+- The final exam will be conducted individually, online and is open book.
+- It will take place on the date assigned in the schedule. You must start your exam between the starting time and ending times. At or after the ending time, the exam will not be available for starting.
+- The duration of the exam is one hour. Once you begin the exam, it must be completed within 1.5 hours.
+- The exam will conclude at the end of your 90 minutes by an automatic submission.
+- It is your responsibility to ensure you have a functional computer, a reliable network connection, and follow exam schedule.
+- During the exam time I will be available in the Office Hours link to answer any content-related questions you may have.
 
-## KEYS TO SUCCESS 
+:::
 
-You will succeed in this course if you adhere to the following:
+## Course Policies
 
-1.	Consistent Effort: Follow the schedule outlined in the Course Outline diligently.
-2.	Pre-Class Preparation: 
-    a. Read the lecture material and annotations before your scheduled class. Refer to the Course Schedule to determine the appropriate chapter to read. The readings are typically brief, especially considering the included tables and figures.
-    b. Review the homework exercises for the relevant chapter before class. These exercises will be the primary focus during class sessions.
-3.	Class Materials: 
-    a. Either print the readings, annotations, and homework exercises, or ensure you have them accessible on your laptop or tablet. This will allow you to take notes directly on the materials during class.
-4.	Engagement with Problems:
-    a. Understanding statistics and data analysis requires exposure to numerous examples and practice with many problems. It is crucial to recognize that this course may differ from others: even if you comprehend the lectures and readings, you may initially struggle with the problems.
-    b. Make an effort to solve the assigned homework problems independently. Continuously work on the chapter problems as the course progresses. Regular practice, particularly after each chapter lecture, will help you master the problems.
-5.	Active Learning:
-    a. Adhering to these procedures is essential for success in this class. Relying solely on in-class presentations without engaging with the course materials will likely result in difficulties.   
+- Abide by Purdue University's academic regulations, consulting your academic advisor for precise details.
 
-<!---
-## Grading
+- Promptly engage with the instructor for any inquiries, suggestions, or requests for assignment extensions in the event of necessary absence.
 
-Each student’s final grade will be based on the following after rounding up to the nearest point:
+- Ensure the punctual submission of all assignments using the designated platform and adhering to the specified format. Late submissions will not be entertained without a pre-approved extension.
 
-| Grade | Range       |
-|-------|-------------|
-| A     | 95% -- 100% |
-| A-    | 90% -- 94%  |
-| B+    | 85% -- 89%  |
-| B     | 80% -- 84%  |
-| B-    | 75% -- 79%  |
-| C     | 65% -- 74%  |
-| D     | 60% -- 64%  |
-| F     | \< 60%      |
---->
+- Actively participate in all course-related activities, encompassing class sessions, discussions, and team projects. Stay informed by keeping an eye on emails and on announcements posted on Brightspace.
 
 ## AI policy
 
@@ -192,10 +143,6 @@ Be aware of the following guidelines:
 - Do not blindly trust the information provided by the output. Any errors or omissions resulting from using the AI tool will be your responsibility. Remember, the AI tool works better for topics that you already understand.
 
 - While AI is a tool, you must acknowledge its use. Always cite! Include a short note at the end of any document to mention that you used AI in its development.
-
-## Deadlines 
-
-The Registrar's add, drop, and modify deadline dates for this semester are at the following website: <http://www.purdue.edu/Registrar/>
 
 ## Academic Integrity  
 
