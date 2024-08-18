@@ -129,7 +129,7 @@ knitr::include_graphics("figs/carnaval_olinda.jpg")
 
 # Motivation {background-color="#cfb991"}
 
-# Why are you here? {background-color="#cfb991"}
+# What motivated you to enroll in the Data Mining Lab course? {background-color="#cfb991"}
 
 ## Motivation
 
