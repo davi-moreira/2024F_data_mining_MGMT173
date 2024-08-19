@@ -183,7 +183,7 @@
     "href": "syllabus.html#assessments",
     "title": "Syllabus: MGMT 17300: Data Mining Lab",
     "section": "Assessments",
-    "text": "Assessments\n\nGrading\nThe final grade will not hinge on a mere point count or percentage. Per the School of Business Undergraduate Grading Policy, the target grade distribution for elective courses culminates in an average GPA of 3.3. To comply with this policy, the final course letter grades will be based on the curved class final course percentages. The final course percentage is based on a weighted percentage computed using the weights shown in the table below:\n\n\n\nAssignment\nPercentage\n\n\n\n\nAttendance\n7%\n\n\nQuizzes.\n18%\n\n\nExercises\n25%\n\n\nProject\n25%\n\n\nVirtual Final Exam\n25%\n\n\n\n\n\nAttendance\nAttend your classes, pay attention and participate. If you do not attend class, you will likely not succeed. According to the University regulations, “Scheduled courses allow students to avoid conflicts and reflect the University’s expectation that students should be present for every meeting of a class/laboratory for which they are registered.” The instructor will take random attendance and keep the attendance record. Your attendance grade will be based on this record.\n\n\nQuizzes\nIndividual timely completion of pre-class readings will be covered by quizzes questions to be submitted before each class (starting before the second class).\n\n\nExercises\nIndividual post-class exercises demonstrating your engagement with the course content (starting after the first class).\n\n\nProject\nIn groups up to 6 members (no less than 5 members), students must submit a team’s project report presentation on Brightspace, showcasing a practical application of the learned concepts. A guideline document will be shared by the instructor after Lesson 10.\n\n\nVirtual Final Exam\nA one and a half hours of online final exam hosted on Brightspace to assess your overall understanding of the course material.\n\n\n\n\n\n\nNote\n\n\n\nPlease note that: - The final exam will be conducted individually, online and is open book. - It will take place on the date assigned in the schedule. You must start your exam between the starting time and ending times. At or after the ending time, the exam will not be available for starting. - The duration of the exam is one hour. Once you begin the exam, it must be completed within 1.5 hours. - The exam will conclude at the end of your 90 minutes by an automatic submission. - It is your responsibility to ensure you have a functional computer, a reliable network connection, and follow exam schedule. - During the exam time I will be available in the Office Hours link to answer any content-related questions you may have.",
+    "text": "Assessments\n\nGrading\nThe final grade will not hinge on a mere point count or percentage. Per the School of Business Undergraduate Grading Policy, the target grade distribution for elective courses culminates in an average GPA of 3.3. To comply with this policy, the final course letter grades will be based on the curved class final course percentages. The final course percentage is based on a weighted percentage computed using the weights shown in the table below:\n\n\n\nAssignment\nPercentage\n\n\n\n\nAttendance and Participation\n7%\n\n\nQuizzes.\n18%\n\n\nExercises\n25%\n\n\nProject\n25%\n\n\nVirtual Final Exam\n25%\n\n\n\n\n\nAttendance and Participation\nAttend your classes, pay attention and participate. If you do not attend class, you will likely not succeed. According to the University regulations, “Scheduled courses allow students to avoid conflicts and reflect the University’s expectation that students should be present for every meeting of a class/laboratory for which they are registered.” The instructor will take random attendance and keep the attendance record based on participatory activities. Your attendance/participation grade will be based on this record.\n\n\nQuizzes\nIndividual timely completion of pre-class readings will be covered by quizzes questions to be submitted before each class (starting before the second class).\n\n\nExercises\nIndividual post-class exercises demonstrating your engagement with the course content (starting after the first class).\n\n\nProject\nIn groups up to 6 members (no less than 5 members), students must submit a team’s project report presentation on Brightspace, showcasing a practical application of the learned concepts. A guideline document will be shared by the instructor after Lesson 10.\n\n\nVirtual Final Exam\nA one and a half hours of online final exam hosted on Brightspace to assess your overall understanding of the course material.\n\n\n\n\n\n\nNote\n\n\n\nPlease note that: - The final exam will be conducted individually, online and is open book. - It will take place on the date assigned in the schedule. You must start your exam between the starting time and ending times. At or after the ending time, the exam will not be available for starting. - The duration of the exam is one hour. Once you begin the exam, it must be completed within 1.5 hours. - The exam will conclude at the end of your 90 minutes by an automatic submission. - It is your responsibility to ensure you have a functional computer, a reliable network connection, and follow exam schedule. - During the exam time I will be available in the Office Hours link to answer any content-related questions you may have.",
     "crumbs": [
       "Syllabus"
     ]
@@ -295,5 +295,26 @@
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Summarizing and Presenting Data",
     "text": "Summarizing and Presenting Data\n\n\n\nProblems with pie charts - Post"
+  },
+  {
+    "objectID": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#text-book-1",
+    "href": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#text-book-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Text Book",
+    "text": "Text Book"
+  },
+  {
+    "objectID": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#modern-data-driven-decision-making-3",
+    "href": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#modern-data-driven-decision-making-3",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Modern Data Driven Decision Making",
+    "text": "Modern Data Driven Decision Making"
+  },
+  {
+    "objectID": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#modern-data-driven-decision-making---text-book",
+    "href": "lecture_slides/01_lesson_m3dm/01_lesson_m3dm.html#modern-data-driven-decision-making---text-book",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Modern Data Driven Decision Making - Text Book",
+    "text": "Modern Data Driven Decision Making - Text Book"
   }
 ]

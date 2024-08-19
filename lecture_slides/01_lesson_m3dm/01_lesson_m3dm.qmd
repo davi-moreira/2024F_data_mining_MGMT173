@@ -127,6 +127,16 @@ knitr::include_graphics("figs/carnaval_olinda.jpg")
 
 -   [**Schedule**](https://davi-moreira.github.io/2024F_data_mining_MGMT173/){target="_blank"}
 
+
+## Modern Data Driven Decision Making - Text Book
+
+<br>
+
+```{r  echo=FALSE, out.width = "50%",fig.align="center"}
+knitr::include_graphics("figs/m3dm_cover.png") 
+```
+
+
 # Motivation {background-color="#cfb991"}
 
 # What motivated you to enroll in the Data Mining Lab course? {background-color="#cfb991"}
