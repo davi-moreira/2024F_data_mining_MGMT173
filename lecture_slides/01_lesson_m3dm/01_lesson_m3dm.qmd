@@ -141,6 +141,13 @@ knitr::include_graphics("figs/m3dm_cover.png")
 
 # What motivated you to enroll in the Data Mining Lab course? {background-color="#cfb991"}
 
+<br>
+<br>
+
+<center>
+Gradescope!
+</center>
+
 ## Motivation
 
 ::: columns
