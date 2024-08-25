@@ -153,7 +153,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Date\nTopic\nAssignment (due dates on Brightspace)\nSlides**\nSupplementary Materials\n\n\n\n\n8/19/24\nLesson 1: Technical Enablers of Modern Data-Driven Decision Making\nQuiz #1Exercise #1\nslides\n- Video: The NBA Data Scientist- Video: Hans Rosling’s 200 Countries, 200 Years\n\n\n8/26/24\nLesson 2: Data Organization for Using Data to Drive Decisions\nQuiz #2Exercise #2\n\n\n\n\n9/2/24\nNo class* - Labor Day - Lesson 3: Tools for Using Data to Drive Decisions\nQuiz #3Exercise #3\n\n\n\n\n9/9/24\nLesson 4: Introduction to R and RStudio\nQuiz #4Exercise #4\n\n\n\n\n9/16/24\nLesson 5: Installing Packages and Importing Data in R\nQuiz #5Exercise #5\n\n\n\n\n9/23/24\nLesson 6: Data Types and Viewing Data Types in R\nQuiz #6Exercise #6\n\n\n\n\n9/30/24\nLesson 7: Key Steps of Performing Data Mining in R\nQuiz #7Exercise #7\n\n\n\n\n10/7/24\nNo class* - Fall Break - Lesson 8: Most Applied Data Mining Techniques\nQuiz #8Exercise #8\n\n\n\n\n10/14/24\nLesson 9: Exploratory Data Analysis in R: Summary Statistics\nQuiz #9Exercise #9\n\n\n\n\n10/21/24\nLesson 10: Exploratory Data Analysis in R: Visualization and Dashboarding\nQuiz #10Exercise #10\n\n\n\n\n10/28/24\nLesson 11: Mine Data through Predictive Modeling in R\nQuiz #11Exercise #11\n\n\n\n\n11/4/24\nLesson 12: Identifying Significant Predictors\nQuiz #12Exercise #12\n\n\n\n\n11/11/24\nLesson 13: Predictive Model Interpretations and Predictions\nQuiz #13Exercise #13\n\n\n\n\n11/18/24\nLesson 14: Evaluating Predictive Model Performance\nQuiz #14Exercise #14\n\n\n\n\n11/25/24\nLesson 15: Bringing It All Together: From Data to Insights to Decisions\nQuiz #15Exercise #15\n\n\n\n\n12/2/24\nProject presentation and report due\nProject presentation submission\n\n\n\n\n12/9/24\nFinal Exam (online) 4:00 PM - 6:00 PM\n\n\n\n\n\n\n*Please note that for the two classes missed due to holidays and breaks, there will be no make-up sessions. However, students are expected to independently complete the assigned readings and exercises during these periods. While class discussions won’t take place, engaging with the materials and teammates will ensure you stay on track with the course content.\n** Course material adapted from the textbook and previous course editions to better fit our curriculum. Thanks to Professor Zhiwei Zhu, Dr. Z.Z, for guidance and for generously sharing the materials.",
+    "text": "Date\nTopic\nAssignment (due dates on Brightspace)\nSlides**\nSupplementary Materials\n\n\n\n\n8/19/24\nLesson 1: Technical Enablers of Modern Data-Driven Decision Making\nQuiz #1Exercise #1\nslides\n- Video: The NBA Data Scientist- Video: Hans Rosling’s 200 Countries, 200 Years\n\n\n8/26/24\nLesson 2: Data Organization for Using Data to Drive Decisions\nQuiz #2Exercise #2\nslides\n- Video: Relational vs. Non-Relational Databases\n\n\n9/2/24\nNo class* - Labor Day - Lesson 3: Tools for Using Data to Drive Decisions\nQuiz #3Exercise #3\n\n\n\n\n9/9/24\nLesson 4: Introduction to R and RStudio\nQuiz #4Exercise #4\n\n\n\n\n9/16/24\nLesson 5: Installing Packages and Importing Data in R\nQuiz #5Exercise #5\n\n\n\n\n9/23/24\nLesson 6: Data Types and Viewing Data Types in R\nQuiz #6Exercise #6\n\n\n\n\n9/30/24\nLesson 7: Key Steps of Performing Data Mining in R\nQuiz #7Exercise #7\n\n\n\n\n10/7/24\nNo class* - Fall Break - Lesson 8: Most Applied Data Mining Techniques\nQuiz #8Exercise #8\n\n\n\n\n10/14/24\nLesson 9: Exploratory Data Analysis in R: Summary Statistics\nQuiz #9Exercise #9\n\n\n\n\n10/21/24\nLesson 10: Exploratory Data Analysis in R: Visualization and Dashboarding\nQuiz #10Exercise #10\n\n\n\n\n10/28/24\nLesson 11: Mine Data through Predictive Modeling in R\nQuiz #11Exercise #11\n\n\n\n\n11/4/24\nLesson 12: Identifying Significant Predictors\nQuiz #12Exercise #12\n\n\n\n\n11/11/24\nLesson 13: Predictive Model Interpretations and Predictions\nQuiz #13Exercise #13\n\n\n\n\n11/18/24\nLesson 14: Evaluating Predictive Model Performance\nQuiz #14Exercise #14\n\n\n\n\n11/25/24\nLesson 15: Bringing It All Together: From Data to Insights to Decisions\nQuiz #15Exercise #15\n\n\n\n\n12/2/24\nProject presentation and report due\nProject presentation submission\n\n\n\n\n12/9/24\nFinal Exam (online) 4:00 PM - 6:00 PM\n\n\n\n\n\n\n*Please note that for the two classes missed due to holidays and breaks, there will be no make-up sessions. However, students are expected to independently complete the assigned readings and exercises during these periods. While class discussions won’t take place, engaging with the materials and teammates will ensure you stay on track with the course content.\n** Course material adapted from the textbook and previous course editions to better fit our curriculum. Thanks to Professor Zhiwei Zhu, Dr. Z.Z, for guidance and for generously sharing the materials.",
     "crumbs": [
       "Schedule and Material"
     ]
@@ -316,5 +316,229 @@
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Modern Data Driven Decision Making - Text Book",
     "text": "Modern Data Driven Decision Making - Text Book"
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#overview",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#overview",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Overview",
+    "text": "Overview\n\n\n\n\nStructured Data\nDatabases\nRelational Databases\nNon Relational Databases\n\n\n\nMeta Data and Dictionary (code book)\nCheck two business datasets for case studies\n\nmtcars\nSalesData.xlsx"
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#what-is-data-1",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#what-is-data-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "What is Data?",
+    "text": "What is Data?\n\n\n\n\nData refers to raw, unprocessed facts, figures, and symbols that represent information about the world around us. Data can take many forms, such as numbers, text, images, audio, and video, and it can be quantitative (numerical) or qualitative (categorical).\n\n\n\nData (Wiki)"
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#types-of-data-1",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#types-of-data-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Types of Data",
+    "text": "Types of Data\n\n\nStructured Data: Data that is organized in a defined format, such as rows and columns in a database (e.g., an Excel spreadsheet).\nUnstructured Data: Data that does not have a predefined structure, such as text, emails, social media posts, videos, and images.\nSemi-Structured Data: Data that does not conform to a strict structure but contains tags or markers to separate elements (e.g., XML or JSON files)."
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#structured-business-data",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#structured-business-data",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Structured Business Data",
+    "text": "Structured Business Data\n\n\nBusiness data refers to the information gathered by an organization, such as customer data, financial data, sales data, employee data, and more. Business data can come from a wide variety of sources - from customers’ purchase transactions and social media activities to market research and financial reports.\n\nBecause structured data is typically organized in a specific format that can be easily searched and analyzed, most business analytics are designed and applied to structured data. This course will focus solely on using and analyzing structured data."
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#introduction-to-databases-1",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#introduction-to-databases-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Introduction to Databases",
+    "text": "Introduction to Databases\n\n\n\n\nA Database is a structured collection of data, typically managed by a Database Management System (DBMS) to efficiently store, retrieve, and manage data for various applications."
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#early-databases-1960s---1970s",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#early-databases-1960s---1970s",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Early Databases: 1960s - 1970s",
+    "text": "Early Databases: 1960s - 1970s\n\nFile Systems: Initially, data was stored in flat files, which were simple and had no interrelations.\nHierarchical Databases: Introduced in the 1960s, like IBM’s IMS. Data is organized in a tree-like structure.\nNetwork Databases: In the 1970s, the CODASYL model introduced more complex relationships, allowing many-to-many relationships between data points."
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#the-relational-model-1970s",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#the-relational-model-1970s",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "The Relational Model: 1970s",
+    "text": "The Relational Model: 1970s\n\n\n\n\n\n\n\n\n\n\n\n\n\nEdgar F. Codd\n\n\n\n\nEdgar F. Codd: Proposed the relational model in 1970, which became the foundation for modern databases.\nRDBMS: A Relational Database Management System (RDBMS) is used to maintain relational databases.\nSQL: Structured Query Language (SQL) was developed to interact (query and update) with relational databases.\nAdoption: The relational model became dominant in the 1980s, with systems like Oracle, IBM DB2, and Microsoft SQL Server emerging. Nowadays, open-source systems like MySQL are used by big companies to handle their relational data."
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#the-rise-of-nosql-2000s",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#the-rise-of-nosql-2000s",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "The Rise of NoSQL: 2000s",
+    "text": "The Rise of NoSQL: 2000s\n\nLimitations of RDBMS: Traditional relational databases struggled with the scale and complexity of modern web applications.\n\nExample: A social media platform with millions of users posting, commenting, and liking content simultaneously.\nLimitation: RDBMS typically scale vertically (adding more power to a single server), which becomes increasingly expensive and challenging as the database grows. In contrast, NoSQL databases like Cassandra or MongoDB are designed to scale horizontally (adding more servers), making them better suited for handling such large-scale data across distributed systems.\n\nNoSQL Databases: Emerged to address these challenges. They offer flexibility, scalability, and performance improvements. They are designed to scale horizontally (adding more servers), making them better suited for handling such large-scale data across distributed systems.\n\nTypes: Document (e.g., MongoDB), Key-Value (e.g., Redis), Column-Family (e.g., Cassandra), and Graph (e.g., Neo4j).\nUse Cases: Ideal for big data, handling unstructured data, real-time web applications, and distributed systems."
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#modern-database-trends",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#modern-database-trends",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Modern Database Trends",
+    "text": "Modern Database Trends\n\n\nNewSQL: Combines the scalability of NoSQL with the Atomicity, Consistency, Isolation, and Durability (ACID) guarantees of traditional relational databases (e.g., Google Spanner).\nCloud Databases: The adoption of cloud computing has led to the rise of managed database services (e.g., Amazon RDS, Google Cloud SQL).\nData Lakes: A storage repository that holds vast amounts of raw data in its native format (e.g., AWS S3, Azure Data Lake)."
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#relational-database-1",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#relational-database-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Relational Database",
+    "text": "Relational Database\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA relational database links data tables through pre-defined and shared fields in various data tables, establishing relationships.\nThis permits more efficient organization and utilization of data across multiple tables.\nMoreover, a relational database serves as a potent tool for handling extensive data volumes and managing complex data structures."
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#data-warehouse",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#data-warehouse",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Data Warehouse",
+    "text": "Data Warehouse\n\n\nA Data Warehouse is a large and comprehensive storage system that consolidates data from various sources, including relational databases, into a centralized repository, much like a university campus that encompasses buildings of various functions.\n\nThe primary purpose of a data warehouse is to facilitate data storage, reporting, and analysis for business intelligence and decision-making purposes."
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#information-management-system-1",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#information-management-system-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Information Management System",
+    "text": "Information Management System\n\n\nThe primary goal of an Information Management System (IMS) is to ensure that accurate, timely, and relevant information is generated and available to the right people at the right time, enabling efficient and informed decision-making processes."
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#information-management-system-2",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#information-management-system-2",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Information Management System",
+    "text": "Information Management System\n\n\nKey Components: Data sources, ETL (Extract, Transform, Load), Data Warehouse, OLAP Engine, and Analytic Reporting."
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#data-sources",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#data-sources",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Data Sources",
+    "text": "Data Sources\n\n\nFinance Data: Information related to financial transactions, budgeting, and accounting.\nCRM Data: Customer Relationship Management data, including customer interactions, sales, and service records.\nOperations Data: Data concerning the day-to-day operations of a business, such as supply chain, inventory, and production.\nMore Data: Any additional data sources that contribute to the organization’s information ecosystem."
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#etl-process-extract-transform-load",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#etl-process-extract-transform-load",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "ETL Process (Extract, Transform, Load)",
+    "text": "ETL Process (Extract, Transform, Load)\n\n\nExtract: Data is collected from various sources, such as finance systems, CRM systems, and operations databases.\nTransform: The extracted data is cleaned, aggregated, and formatted to fit the data warehouse schema.\nLoad: The transformed data is loaded into the Data Warehouse, where it is stored and made available for analysis."
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#data-warehouse-and-olap-engine",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#data-warehouse-and-olap-engine",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Data Warehouse and OLAP Engine",
+    "text": "Data Warehouse and OLAP Engine\n\n\nData Warehouse: A centralized repository that stores integrated data from multiple sources, optimized for query and analysis.\nOLAP Engine (Online Analytical Processing): Tools that allow for complex analytical queries and multi-dimensional data analysis.\n\nExample: Analyzing sales trends over time, across different regions, or by product categories."
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#analytic-reporting-and-advanced-analytics",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#analytic-reporting-and-advanced-analytics",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Analytic Reporting and Advanced Analytics",
+    "text": "Analytic Reporting and Advanced Analytics\n\n\nAnalytic Reporting Engine: Produces reports and dashboards for users to visualize and understand the data.\n\nAd Hoc Reporting: Enables users to create custom reports on-demand.\nDashboards: Provides a visual summary of key performance indicators (KPIs) and metrics.\n\nAdvanced Analytics: Includes data mining, predictive modeling, and other sophisticated analytical techniques to uncover hidden patterns and insights."
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#users-and-decision-making",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#users-and-decision-making",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Users and Decision-Making",
+    "text": "Users and Decision-Making\n\n\nUsers: Business analysts, managers, and executives who use the IMS to make informed decisions.\nOutcome: The IMS enables data-driven decision-making, improving efficiency, reducing risks, and enhancing overall business performance."
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#meta-data-and-data-dictionary-1",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#meta-data-and-data-dictionary-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Meta Data and Data Dictionary",
+    "text": "Meta Data and Data Dictionary\n\n\n\nMetadata is essentially information about structured data. It can include details like the date and time a database or file was created, who created it, and what types of information it contains.\nA data dictionary is a more specific type of metadata that describes the structure, content, and format of a dataset. It’s like a guidebook and a codebook that provides a comprehensive list of all the variables or columns in a dataset, along with their definitions, data types, and other attributes.\n\nWithout it, you might get lost in a sea of information and struggle to make sense of it all."
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#mtcars",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#mtcars",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "mtcars",
+    "text": "mtcars\n\n\n\nThe mtcars data file provides information on various features of different brands of cars, including their engine size, horsepower, and fuel efficiency. The dataset is structured as a table, where each row represents a different car, and each column represents a different variable or feature of the cars."
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#data-dictionary-for-mtcars",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#data-dictionary-for-mtcars",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Data Dictionary for mtcars",
+    "text": "Data Dictionary for mtcars\n\n\n?mtcars"
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#salesdata.xlsx",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#salesdata.xlsx",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "SalesData.xlsx",
+    "text": "SalesData.xlsx\n\n\n\nThis data table is collected and prepared by the IT department of a company, OfficeChain, about its eCommerce sales channel."
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#data-dictionary-for-salesdata.xlsx",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#data-dictionary-for-salesdata.xlsx",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Data Dictionary for SalesData.xlsx",
+    "text": "Data Dictionary for SalesData.xlsx"
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#summary-1",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#summary-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Summary",
+    "text": "Summary\n\n\n\n\n\nStructured Data: Highly organized and formatted data that is easily searchable (e.g., tables with rows and columns).\nDatabases: Used to store and manage structured data efficiently.\n\nTypes: Include relational databases (RDBMS) like MySQL and NoSQL databases like MongoDB.\nFunctionality: Provides tools for querying, updating, and managing large datasets.\n\nRelational Databases: Organizes data into tables that can be linked by shared keys.\n\nBenefits: Ensures data integrity and supports complex queries and transactions.\nKey Components: Tables, primary and foreign keys, SQL for data manipulation.\n\n\n\n\n\n\nNon-Relational Databases: NoSQL databases designed for unstructured data and scalability.\n- Advantages: Handle large-scale data across distributed systems more effectively than traditional RDBMS.\nMeta Data: Information describing other data, providing context and making it easier to understand.\nData Dictionary: Detailed description of dataset variables, ensuring consistent data usage.\nBusiness Case Studies (mtcars and SalesData.xlsx)\n\nmtcars Dataset: Structured data on car specifications, useful for learning data manipulation and statistical analysis.\nSalesData.xlsx: eCommerce sales data, suitable for business analytics case studies."
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#announmcements-1",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#announmcements-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Announmcements",
+    "text": "Announmcements\n\n\n\n\n\n\n\n\n\n\n\n\n\nBusiness Analytics and Information Management (BAIM) Major: Plan of study.\nBAIM Association: Learn how you can get involved.\n\nTuesday, August 27, 6-7pm, STEW 320\nWednesday, August 28, 6-7pm, STEW 320\n\nInstagram: @baim.association"
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#announcements-1",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#announcements-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Announcements",
+    "text": "Announcements\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBusiness Analytics and Information Management (BAIM) Major: Plan of study.\nBAIM Association: Learn how you can get involved.\n\nTuesday, August 27, 6-7pm, STEW 320\nWednesday, August 28, 6-7pm, STEW 320\nNote: you only need to attend one of the callouts.\n\nInstagram: @baim.association"
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#relational-database-2",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#relational-database-2",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Relational Database",
+    "text": "Relational Database\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuery 1: Flights from a Specific Carrier\n\n\nSELECT flights.year, flights.month, flights.day, \n       flights.flight, airlines.names AS airline_name\nFROM flights\nJOIN airlines ON flights.carrier = airlines.carrier\nWHERE airlines.names = 'American Airlines';  \n-- Replace 'American Airlines' with the desired carrier name"
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#relational-database-3",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#relational-database-3",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Relational Database",
+    "text": "Relational Database\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuery 2: Weather Conditions at the Time of a Specific Flight\n\n\nSELECT flights.flight, flights.origin, \n        flights.dest, weather.*\nFROM flights\nJOIN weather \nON flights.year = weather.year AND\n   flights.month = weather.month AND\n   flights.day = weather.day AND\n   flights.hour = weather.hour AND\n   flights.origin = weather.origin\nWHERE flights.flight = 'AA123';  \n-- Replace 'AA123' with the desired flight number"
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#relational-database-4",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#relational-database-4",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Relational Database",
+    "text": "Relational Database\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuery 3: Count of Flights Per Airport\n\n\n\nSELECT airports.faa, \n        COUNT(flights.flight) AS flight_count\nFROM flights\nJOIN airports ON flights.origin = airports.faa\nGROUP BY airports.faa\nORDER BY flight_count DESC;"
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#relational-database-5",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#relational-database-5",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Relational Database",
+    "text": "Relational Database\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuery 3: Count of Flights Per Airport\n\n\n\nSELECT airports.faa, \n        COUNT(flights.flight) AS flight_count\nFROM flights\nJOIN airports ON flights.origin = airports.faa\nGROUP BY airports.faa\nORDER BY flight_count DESC;"
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#information-management-system-3",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#information-management-system-3",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Information Management System",
+    "text": "Information Management System\n\nInformation Management System (IMS): A system designed to collect, store, manage, and analyze data from various sources to support decision-making processes.\nKey Components: Data sources, ETL (Extract, Transform, Load), Data Warehouse, OLAP Engine, and Analytic Reporting."
+  },
+  {
+    "objectID": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#learning-path-1",
+    "href": "lecture_slides/02_lesson_m3dm/02_lesson_m3dm.html#learning-path-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Learning Path",
+    "text": "Learning Path\nThere are plenty of college courses to choose (course titles may vary by schools):\n\nDatabase Management Systems: This course focuses on the design, implementation, and management of databases, teaching students how to organize and manage data effectively.\nInformation Security and Privacy: This course covers the principles and practices of securing information and ensuring data privacy, preparing students to handle data security challenges.\nData Governance and Management: This course explores the governance and management of data assets, including data quality, data integration, and data lifecycle management.\nInformation Systems Analysis and Design: This course teaches students how to analyze business requirements and design information systems to meet organizational needs."
   }
 ]
