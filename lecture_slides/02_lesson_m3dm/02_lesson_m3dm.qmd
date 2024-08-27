@@ -51,7 +51,7 @@ format:
 
 <br>
 
-- **No class on September 2nd**.
+- **No class on September 2nd, Monday**.
 
 - **Grading Schedule**: I plan to grade your submissions every Monday after our class.
 
