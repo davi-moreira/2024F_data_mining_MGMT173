@@ -153,7 +153,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Date\nTopic\nAssignment (due dates on Brightspace)\nSlides**\nSupplementary Materials\n\n\n\n\n8/19/24\nLesson 1: Technical Enablers of Modern Data-Driven Decision Making\nQuiz #1Exercise #1\nslides\n- Video: The NBA Data Scientist- Video: Hans Rosling’s 200 Countries, 200 Years\n\n\n8/26/24\nLesson 2: Data Organization for Using Data to Drive Decisions\nQuiz #2Exercise #2\nslides\n- Video: Relational vs. Non-Relational Databases\n\n\n9/2/24\nNo class* - Labor Day - Lesson 3: Tools for Using Data to Drive Decisions\nQuiz #3Exercise #3\n\n\n\n\n9/9/24\nLesson 4: Introduction to R and RStudio\nQuiz #4Exercise #4\n\n\n\n\n9/16/24\nLesson 5: Installing Packages and Importing Data in R\nQuiz #5Exercise #5\n\n\n\n\n9/23/24\nLesson 6: Data Types and Viewing Data Types in R\nQuiz #6Exercise #6\n\n\n\n\n9/30/24\nLesson 7: Key Steps of Performing Data Mining in R\nQuiz #7Exercise #7\n\n\n\n\n10/7/24\nNo class* - Fall Break - Lesson 8: Most Applied Data Mining Techniques\nQuiz #8Exercise #8\n\n\n\n\n10/14/24\nLesson 9: Exploratory Data Analysis in R: Summary Statistics\nQuiz #9Exercise #9\n\n\n\n\n10/21/24\nLesson 10: Exploratory Data Analysis in R: Visualization and Dashboarding\nQuiz #10Exercise #10\n\n\n\n\n10/28/24\nLesson 11: Mine Data through Predictive Modeling in R\nQuiz #11Exercise #11\n\n\n\n\n11/4/24\nLesson 12: Identifying Significant Predictors\nQuiz #12Exercise #12\n\n\n\n\n11/11/24\nLesson 13: Predictive Model Interpretations and Predictions\nQuiz #13Exercise #13\n\n\n\n\n11/18/24\nLesson 14: Evaluating Predictive Model Performance\nQuiz #14Exercise #14\n\n\n\n\n11/25/24\nLesson 15: Bringing It All Together: From Data to Insights to Decisions\nQuiz #15Exercise #15\n\n\n\n\n12/2/24\nProject presentation and report due\nProject presentation submission\n\n\n\n\n12/9/24\nFinal Exam (online) 4:00 PM - 6:00 PM\n\n\n\n\n\n\n*Please note that for the two classes missed due to holidays and breaks, there will be no make-up sessions. However, students are expected to independently complete the assigned readings and exercises during these periods. While class discussions won’t take place, engaging with the materials and teammates will ensure you stay on track with the course content.\n** Course material adapted from the textbook and previous course editions to better fit our curriculum. Thanks to Professor Zhiwei Zhu, Dr. Z.Z, for guidance and for generously sharing the materials.",
+    "text": "Date\nTopic\nAssignment (due dates on Brightspace)\nSlides**\nSupplementary Materials\n\n\n\n\n8/19/24\nLesson 1: Technical Enablers of Modern Data-Driven Decision Making\nQuiz #1Exercise #1\nslides\n- Video: The NBA Data Scientist- Video: Hans Rosling’s 200 Countries, 200 Years\n\n\n8/26/24\nLesson 2: Data Organization for Using Data to Drive Decisions\nQuiz #2Exercise #2\nslides\n- Video: Relational vs. Non-Relational Databases\n\n\n9/2/24\nNo class* - Labor Day - Lesson 3: Tools for Using Data to Drive Decisions\nQuiz #3Exercise #3\n\n\n\n\n9/9/24\nLesson 4: Introduction to R and RStudio\nQuiz #4Exercise #4\nslides\n- Video: RStudio is now Posit!\n\n\n9/16/24\nLesson 5: Installing Packages and Importing Data in R\nQuiz #5Exercise #5\n\n\n\n\n9/23/24\nLesson 6: Data Types and Viewing Data Types in R\nQuiz #6Exercise #6\n\n\n\n\n9/30/24\nLesson 7: Key Steps of Performing Data Mining in R\nQuiz #7Exercise #7\n\n\n\n\n10/7/24\nNo class* - Fall Break - Lesson 8: Most Applied Data Mining Techniques\nQuiz #8Exercise #8\n\n\n\n\n10/14/24\nLesson 9: Exploratory Data Analysis in R: Summary Statistics\nQuiz #9Exercise #9\n\n\n\n\n10/21/24\nLesson 10: Exploratory Data Analysis in R: Visualization and Dashboarding\nQuiz #10Exercise #10\n\n\n\n\n10/28/24\nLesson 11: Mine Data through Predictive Modeling in R\nQuiz #11Exercise #11\n\n\n\n\n11/4/24\nLesson 12: Identifying Significant Predictors\nQuiz #12Exercise #12\n\n\n\n\n11/11/24\nLesson 13: Predictive Model Interpretations and Predictions\nQuiz #13Exercise #13\n\n\n\n\n11/18/24\nLesson 14: Evaluating Predictive Model Performance\nQuiz #14Exercise #14\n\n\n\n\n11/25/24\nLesson 15: Bringing It All Together: From Data to Insights to Decisions\nQuiz #15Exercise #15\n\n\n\n\n12/2/24\nProject presentation and report due\nProject presentation submission\n\n\n\n\n12/9/24\nFinal Exam (online) 4:00 PM - 6:00 PM\n\n\n\n\n\n\n*Please note that for the two classes missed due to holidays and breaks, there will be no make-up sessions. However, students are expected to independently complete the assigned readings and exercises during these periods. While class discussions won’t take place, engaging with the materials and teammates will ensure you stay on track with the course content.\n** Course material adapted from the textbook and previous course editions to better fit our curriculum. Thanks to Professor Zhiwei Zhu, Dr. Z.Z, for guidance and for generously sharing the materials.",
     "crumbs": [
       "Schedule and Material"
     ]
@@ -547,5 +547,355 @@
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Announcements",
     "text": "Announcements\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBusiness Analytics and Information Management (BAIM) Major: Plan of study.\nBAIM Association: Learn how you can get involved.\n\nTuesday, August 27, 6-7pm, STEW 320\nWednesday, August 28, 6-7pm, STEW 320\nNote: you only need to attend one of the callouts.\n\nInstagram: @baim.association"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#overview",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#overview",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Overview",
+    "text": "Overview\n\n\n\n\nMotivation\nWhy R and RStudio?\nProjects and version control\nUsing R\nScripts, objects\nFunctions\n\n\n\nData types\nDataframes\nLogical operators\nWhere to find Help?"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#motivation-1",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#motivation-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Motivation",
+    "text": "Motivation"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#what-is-data-science",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#what-is-data-science",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "What is Data Science?",
+    "text": "What is Data Science?\n\n\n“An iterative process of augmenting human thinking with computational tools to use data to make decisions in/about the world”\n— Benjamin Xie & Greg L. Nelson"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#pipeline",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#pipeline",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Pipeline",
+    "text": "Pipeline"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#section",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#section",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "",
+    "text": "R"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#why-r",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#why-r",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Why R?",
+    "text": "Why R?\n\nOpen-source programming language\nBuilt by statisticians (both a good and bad thing)\nLarge community"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#community",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#community",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Community",
+    "text": "Community\n\nR-Bloggers\nR-Ladies Global\nTidyTuesday"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#why-rstudio",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#why-rstudio",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Why RStudio?",
+    "text": "Why RStudio?"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#why-r-and-rstudio",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#why-r-and-rstudio",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Why R and RStudio?",
+    "text": "Why R and RStudio?\n\n\n\n\nRStudio Screen"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#projects-and-version-control",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#projects-and-version-control",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Projects and Version Control",
+    "text": "Projects and Version Control"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#section-1",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#section-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "",
+    "text": "NewDir"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#section-2",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#section-2",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "",
+    "text": "NewDir"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#section-3",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#section-3",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "",
+    "text": "NewDir"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#projects-and-version-control-references",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#projects-and-version-control-references",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Projects and Version Control: References",
+    "text": "Projects and Version Control: References\n\nUsing Version Control with RStudio\nVersion Control with RStudio and GitHub\nHappy Git and GitHub for the useR\nR and version control for the solo data analyst\nWorkflow: Projects\nProject-oriented workflow"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#are-there-more-benefits",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#are-there-more-benefits",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Are there more benefits?",
+    "text": "Are there more benefits?\n\n\n\n\nQuarto WorkFlow"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#exercise-using-r-as-a-calculator",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#exercise-using-r-as-a-calculator",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Exercise: Using R as a Calculator!",
+    "text": "Exercise: Using R as a Calculator!"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#objects",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#objects",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Objects",
+    "text": "Objects"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#exercise-variables-and-vectors",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#exercise-variables-and-vectors",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Exercise: Variables and Vectors",
+    "text": "Exercise: Variables and Vectors"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#vectors",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#vectors",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Vectors",
+    "text": "Vectors\n\nnumbers &lt;- c(1, 4, 10, pi, 1/3)\ntext &lt;- c(\"a\", \"b\", \"Daniels Business School\", \"Purdue University\", \"BAIM\")\n(all_together &lt;- c(numbers, text)) # use parentheses to display the object content\n\nNote that when combining numbers and text, all elements turn into text. We will discuss text handling more later."
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#style",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#style",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Style",
+    "text": "Style\n\n\n“Programs must be written for people to read, and only incidentally for machines to execute.”\n— Hal Abelson\n\n\nThe tidy tools manifesto"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#style-1",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#style-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Style",
+    "text": "Style\n\nIt is recommended that object names be descriptive. Additionally, adopting a programming style for your data analysis is valuable. It facilitates human reading and interpretation of the code. Let’s look at object names from r4ds. Which one is better?\n\n\ni_use_snake_case\notherPeopleUseCamelCase\nsome.people.use.periods\nAnd_aFew.People_RENOUNCEconvention"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#the-tidyverse-style-guide",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#the-tidyverse-style-guide",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "The tidyverse style guide",
+    "text": "The tidyverse style guide\n\nThe tidyverse style guide: this guide not only presents good practices and programming style but is accompanied by two packages that help data scientists maintain code consistency."
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#functions",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#functions",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Functions",
+    "text": "Functions\nFunctions are the workhorse of statistical programming in R. Many of the analyses we will perform are based on using the correct functions and identifying the appropriate arguments for each case.\nWe have already seen some examples of functions:\ninstall.packages() # installs packages\nlibrary() # loads packages into memory\nrequire() # loads packages into memory\nsessionInfo() # information about the R version\nThe main use of functions is to automate operations that would take a long time if done manually, be prone to errors, or simply be tedious."
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#functions-1",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#functions-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Functions",
+    "text": "Functions\nFunctions are the workhorse of statistical programming in R. Many of the analyses we will perform are based on using the correct functions and identifying the appropriate arguments for each case.\nWe have already seen some examples of functions:\n\ninstall.packages() # installs packages\nlibrary() # loads packages into memory\nrequire() # loads packages into memory\nsessionInfo() # information about the R version\n\nThe main use of functions is to automate operations that would take a long time to do manually, be prone to errors, or simply be tedious. For this reason, functions are developed in packages."
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#summary-1",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#summary-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Summary",
+    "text": "Summary\n\n\nWhy use R?\n\nOpen-source programming language\nBuilt by statisticians, with a large community\nIntegrated environment with RStudio\nImportance of managing projects and versioning with Git and GitHub\nUseful resources for learning version control with RStudio\n\nFunctions in R\n\nAutomating tasks with functions\nPredefined functions (e.g., mean(), sd(), summary())\nCreating custom functions for specific tasks\n\nData Structures\n\nData types in R: numeric, text, factors, logical values\nDataframes: the most used data structure for analysis"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#github",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#github",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "GitHub",
+    "text": "GitHub"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#githadley",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#githadley",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "GitHadley",
+    "text": "GitHadley"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#project-approach",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#project-approach",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Project Approach",
+    "text": "Project Approach\n\n\n\n\nNew Project"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#why-r-and-rstudio-1",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#why-r-and-rstudio-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Why R and RStudio?",
+    "text": "Why R and RStudio?\n\n\n\n\nRStudio Screen"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#projects-and-version-control-1",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#projects-and-version-control-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Projects and Version Control",
+    "text": "Projects and Version Control"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#using-r-as-a-calculator",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#using-r-as-a-calculator",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Using R as a Calculator!",
+    "text": "Using R as a Calculator!\n\n# What is the result?\n2 + 9 * 4\n4 + 3 / 10^2\npi - 3\n\n# Scientific notation\n5 * 10^2\n5 * 10^-2\n111111 * 111111\n1111111 * 1111111"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#objects-variables-and-vectors",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#objects-variables-and-vectors",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Objects: Variables and Vectors",
+    "text": "Objects: Variables and Vectors\n\n# What is the value of a?\na &lt;- 4\na &lt;- a * 5\na &lt;- a + 10\na &lt;- seq(a, 100, 5)"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#functions-2",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#functions-2",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Functions",
+    "text": "Functions\nFor example, if we need to find the mean between two numbers, we could do the calculation manually:\n\n(35 + 65) / 2\n\nBut if we had 1000 numbers instead of 2, this process would be extremely long and tiring. So, we can simply use the mean() function to calculate the average of all numbers from 1 to 1000:\n\nmean(1:1000)"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#functions-3",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#functions-3",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Functions",
+    "text": "Functions\nR has countless functions for doing all kinds of calculations that you can imagine (and even those you can’t). As you progress in using R, there will be specific tasks for which no existing function is satisfactory. In these moments, the advantage of R being a programming language becomes evident — we can create our own functions.\nFor now, let’s explore some of the functions that already exist in R. Did you notice that I didn’t need to type all the numbers from 1 to 1000 in the previous example?\n\nnumbers &lt;- 1:1000\nnumbers_desc &lt;- 1000:1 \n\nMuch easier than numbers &lt;- c(1, 2, 3, ..., 1000)."
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#functions-4",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#functions-4",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Functions",
+    "text": "Functions\nBut what if I wanted to find the mean of the odd numbers from 1 to 1000? Would I need to type the numbers one by one?\nIn these moments, remember that laziness is one of the traits that separates good programmers from the rest. Almost all tedious and repetitive tasks in programming can be automated in some way.\nObviously, R has the seq() function that allows us to create a vector of odd numbers. Notice how the arguments of the function are used:\n\nodds &lt;- seq(from = 1, to = 1000, by = 2)\nmean(odds)"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#functions-5",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#functions-5",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Functions",
+    "text": "Functions\nR comes pre-installed with several statistical functions — after all, this is one of its main purposes. Besides the mean() function, which we saw earlier, let’s also look at other descriptive statistics:\n\nsd(odds) # standard deviation\nvar(odds) # variance\nrange(odds) # range\nIQR(odds) # interquartile range\n\nThe summary() command gives us an overview of this vector:\n\nsummary(odds)"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#data-types-1",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#data-types-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Data Types",
+    "text": "Data Types\n\nProgramming languages store variables under different classes. Today, we will have a general discussion about them so that you know they exist, and we will go into details throughout the course.\n\nNumeric values: double, integer\nText: character\nFactors: factor\nLogical values: logical\nSpecial values: NA, NULL, Inf, NaN\n\nTo discover the type of an object, you can use the typeof() function."
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#dataframes-1",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#dataframes-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Dataframes",
+    "text": "Dataframes\nWe can think of dataframes as collections of vectors placed side by side. It is by far the most used format for data analysis and processing.\n\nnames &lt;- c(\"Mary\", \"Davi\", \"Juliana\", \"Gabriel\")\nmajor &lt;- c(\"Engineering\", \"Political Science\", \"Business\", \"Economy\")\ntime_at_company &lt;- c(3, 10, 10, 1)\n\nteam &lt;- data.frame(names, major, time_at_company)\n\nnrow(team) # number of rows\nncol(team) # number of columns\nhead(team) # first observations\nsummary(team) # summary of data\n\nR also supports other data structures like matrices and lists, which we will cover as needed."
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#tidy-data",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#tidy-data",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Tidy Data",
+    "text": "Tidy Data\n\nObservations in rows\nAttributes in columns\nValues in cells\n\n\nTidy Data"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#subsetting-vectors",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#subsetting-vectors",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Subsetting Vectors",
+    "text": "Subsetting Vectors\nThe tools we will now see are used to “pinpoint” information stored in R’s memory. Returning to the vector of odd numbers we created earlier, suppose I want to know the value of the 287th element:\n\nodds &lt;- seq(from = 1, to = 1000, by = 2)\nodds[287]\n\nWe can expand the [ operator for various selections, as needed:\n\nodds[c(1, 76, 48)] # select various numbers\nodds[-c(1:250)] # all numbers except the first 250\nodds[odds &gt; 900] # only values greater than 900"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#subsetting-dataframes",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#subsetting-dataframes",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Subsetting Dataframes",
+    "text": "Subsetting Dataframes\nThe use of the [ operator is similar for dataframes, but we need to pay attention to rows and columns:\n\nteam[1, 3] # row 1, column 3\nteam[1,] # returns all of row 1\nteam[, 3] # returns all of column 3\nteam[, c(1, 3)] # returns columns 1 and 3\n\nFor dataframes, it is very common to use the $ operator to select columns:\n\nteam$time_at_company # selects the variable \"time at company\"\nteam[, 3] # same result"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#logical-operators-1",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#logical-operators-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Logical Operators",
+    "text": "Logical Operators\n\nFor more complex selections, it is common to rely on logical operators.\n\n\n\n\n\nLogical"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#where-to-find-help-1",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#where-to-find-help-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Where to find Help?",
+    "text": "Where to find Help?\nThe sum() function is often useful. It allows you to sum vectors. Let’s take the opportunity to consult the documentation of this function through another function, ?.\n\n?sum()"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#where-to-find-help-2",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#where-to-find-help-2",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Where to find Help?",
+    "text": "Where to find Help?"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#data-tidying",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#data-tidying",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Data Tidying",
+    "text": "Data Tidying\n\n\n\n\n\nObservations in rows\nAttributes in columns\nValues in cells"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#logical-operators-2",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#logical-operators-2",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Logical Operators",
+    "text": "Logical Operators\n\nThe most common are & and |, but all relational operators are also recognized:\n\n== (equal to)\n!= (not equal to)\n&gt; (greater than)\n&lt; (less than)\n&gt;= (greater than or equal to)\n&lt;= (less than or equal to).\n\n\n\nteam[team$time_at_company == 10,] # only people with 10 years at the company\nteam[team$time_at_company &lt; 5,] # only people with less than 5 years at the company\nteam[team$time_at_company &lt; 5 | team$major == \"Business\",] # less than 5 years at the company OR in and specific area\nteam[team$time_at_company &gt; 2 & team$time_at_company &lt; 5,] # between 2 and 5 years at the company"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#where-to-find-help-3",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#where-to-find-help-3",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Where to find Help?",
+    "text": "Where to find Help?\nBesides R’s official documentation, a very valuable resource is Stack Overflow.\n\n\n\n\nStack"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#where-to-find-help-4",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#where-to-find-help-4",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Where to find Help?",
+    "text": "Where to find Help?\n\n\n\n\n\n\n\n\n\n\n\n\nClaude AI\nChatGPT\nCopilot AI\nGitHub Copilot\nCursor AI"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#where-to-find-help-5",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#where-to-find-help-5",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Where to find Help?",
+    "text": "Where to find Help?\n\n\nswirl teaches you R programming and data science interactively"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#where-to-find-help-6",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#where-to-find-help-6",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Where to find Help?",
+    "text": "Where to find Help?\n\n\nRStudio Primers"
   }
 ]

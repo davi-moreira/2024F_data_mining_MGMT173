@@ -1,0 +1,87 @@
+---
+title: "<span style = 'font-size: 100%;'> MGMT 17300: Data Mining Lab </span>"
+subtitle: "<span style = 'font-size: 150%;'> Intro. & Technical Enablers </span>"
+author: "Professor: Davi Moreira"
+date: "2024-08-01"
+date-format: "MMMM DD, YYYY"
+format:
+  revealjs: 
+    transition: slide
+    background-transition: fade
+    width: 1600
+    height: 900
+    center: true
+    slide-number: true
+    incremental: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    #logo: images/quarto.png
+    footer: "Data Mining Lab"
+    theme: [simple,custom.scss]
+---
+
+# XXXX {background-color="#cfb991"}
+
+## Overview
+
+::: nonincremental
+::: columns
+::: {.column width="50%" style="text-align: center; justify-content: center; align-items: center;"}
+-   XXX
+-   XXX
+
+:::
+
+::: {.column width="50%" style="text-align: center; justify-content: center; align-items: center;"}
+-   XXX
+-   XXX
+:::
+:::
+:::
+
+### Importing Data
+
+As we mentioned when discussing projects in `RStudio`, an excellent package for navigating the project directory is the `here` package.
+
+The function that gives the package its name is used to direct your program to the correct folder in the project directory. Let's see an example:
+
+```{r eval=FALSE, echo=TRUE}
+
+if(!require(tidyverse)) {install.packages("tidyverse"); require(tidyverse)}
+if(!require(here)) {install.packages("here"); require(here)}
+
+cnj <- read_csv2(here("data/tribunais_despesa_2019_cnj.csv"))
+```
+
+### Exporting Data
+
+Suppose that after you load the dataset, you perform tasks that change its configuration, and you want to save it without overwriting the original dataset.
+
+```{r eval=FALSE, echo=TRUE}
+write_csv2(cnj, here("data/tribunais_despesa_2019_cnj_filter.csv"))
+```
+
+# Summary {background-color="#cfb991"}
+
+## Summary
+
+::: nonincremental
+-   **Modern Data Driven Decision Making (M3DM)**:
+
+    -   M3DM is essential in leveraging data to guide business decisions.
+    -   The approach integrates statistics, machine learning, and data management to inform and optimize strategies.
+
+-   **Technical Pillars**:
+
+    -   **Data Acquisition**: Gathering relevant and high-quality data.
+    -   **Data Processing**: Cleaning, transforming, and organizing data for analysis.
+    -   **Data Analysis**: Using statistical and machine learning techniques to extract insights.
+
+-   **Practical Application**:
+
+    -   Real-world applications of M3DM include predictive analytics, customer segmentation, and operational optimization.
+    -   Data-driven decisions can significantly enhance business performance and competitive advantage.
+:::
+
+# Thank you! {background-color="#cfb991"}
