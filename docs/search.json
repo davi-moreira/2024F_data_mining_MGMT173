@@ -153,7 +153,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Date\nTopic\nAssignment (due dates on Brightspace)\nSlides**\nSupplementary Materials\n\n\n\n\n8/19/24\nLesson 1: Technical Enablers of Modern Data-Driven Decision Making\nQuiz #1Exercise #1\nslides\n- Video: The NBA Data Scientist- Video: Hans Rosling’s 200 Countries, 200 Years\n\n\n8/26/24\nLesson 2: Data Organization for Using Data to Drive Decisions\nQuiz #2Exercise #2\nslides\n- Video: Relational vs. Non-Relational Databases\n\n\n9/2/24\nNo class* - Labor Day - Lesson 3: Tools for Using Data to Drive Decisions\nQuiz #3Exercise #3\n\n\n\n\n9/9/24\nLesson 4: Introduction to R and RStudio\nQuiz #4Exercise #4\nslidesscript\n- Video: RStudio is now Posit!\n\n\n9/16/24\nLesson 5: Installing Packages and Importing Data in R\nQuiz #5Exercise #5\n\n\n\n\n9/23/24\nLesson 6: Data Types and Viewing Data Types in R\nQuiz #6Exercise #6\n\n\n\n\n9/30/24\nLesson 7: Key Steps of Performing Data Mining in R\nQuiz #7Exercise #7\n\n\n\n\n10/7/24\nNo class* - Fall Break - Lesson 8: Most Applied Data Mining Techniques\nQuiz #8Exercise #8\n\n\n\n\n10/14/24\nLesson 9: Exploratory Data Analysis in R: Summary Statistics\nQuiz #9Exercise #9\n\n\n\n\n10/21/24\nLesson 10: Exploratory Data Analysis in R: Visualization and Dashboarding\nQuiz #10Exercise #10\n\n\n\n\n10/28/24\nLesson 11: Mine Data through Predictive Modeling in R\nQuiz #11Exercise #11\n\n\n\n\n11/4/24\nLesson 12: Identifying Significant Predictors\nQuiz #12Exercise #12\n\n\n\n\n11/11/24\nLesson 13: Predictive Model Interpretations and Predictions\nQuiz #13Exercise #13\n\n\n\n\n11/18/24\nLesson 14: Evaluating Predictive Model Performance\nQuiz #14Exercise #14\n\n\n\n\n11/25/24\nLesson 15: Bringing It All Together: From Data to Insights to Decisions\nQuiz #15Exercise #15\n\n\n\n\n12/2/24\nProject presentation and report due\nProject presentation submission\n\n\n\n\n12/9/24\nFinal Exam (online) 4:00 PM - 6:00 PM\n\n\n\n\n\n\n*Please note that for the two classes missed due to holidays and breaks, there will be no make-up sessions. However, students are expected to independently complete the assigned readings and exercises during these periods. While class discussions won’t take place, engaging with the materials and teammates will ensure you stay on track with the course content.\n** Course material adapted from the textbook and previous course editions to better fit our curriculum. Thanks to Professor Zhiwei Zhu, Dr. Z.Z, for guidance and for generously sharing the materials.",
+    "text": "Date\nTopic\nAssignment (due dates on Brightspace)\nSlides**\nSupplementary Materials\n\n\n\n\n8/19/24\nLesson 1: Technical Enablers of Modern Data-Driven Decision Making\nQuiz #1Exercise #1\nslides\n- Video: The NBA Data Scientist- Video: Hans Rosling’s 200 Countries, 200 Years\n\n\n8/26/24\nLesson 2: Data Organization for Using Data to Drive Decisions\nQuiz #2Exercise #2\nslides\n- Video: Relational vs. Non-Relational Databases\n\n\n9/2/24\nNo class* - Labor Day - Lesson 3: Tools for Using Data to Drive Decisions\nQuiz #3Exercise #3\n\n\n\n\n9/9/24\nLesson 4: Introduction to R and RStudio\nQuiz #4Exercise #4\nslidesscript\n- Video: RStudio is now Posit!\n\n\n9/16/24\nLesson 5: Installing Packages and Importing Data in R\nQuiz #5Exercise #5\nslidesscriptdata\n- Video: It’s a Great Time to be an R Package Developer!- Blog: Quick list of useful R packages- Posit R packages\n\n\n9/23/24\nLesson 6: Data Types and Viewing Data Types in R\nQuiz #6Exercise #6\n.\n.\n\n\n9/30/24\nLesson 7: Key Steps of Performing Data Mining in R\nQuiz #7Exercise #7\n.\n.\n\n\n10/7/24\nNo class* - Fall Break - Lesson 8: Most Applied Data Mining Techniques\nQuiz #8Exercise #8\n.\n.\n\n\n10/14/24\nLesson 9: Exploratory Data Analysis in R: Summary Statistics\nQuiz #9Exercise #9\n.\n.\n\n\n10/21/24\nLesson 10: Exploratory Data Analysis in R: Visualization and Dashboarding\nQuiz #10Exercise #10\n.\n.\n\n\n10/28/24\nLesson 11: Mine Data through Predictive Modeling in R\nQuiz #11Exercise #11\n.\n.\n\n\n11/4/24\nLesson 12: Identifying Significant Predictors\nQuiz #12Exercise #12\n.\n.\n\n\n11/11/24\nLesson 13: Predictive Model Interpretations and Predictions\nQuiz #13Exercise #13\n.\n.\n\n\n11/18/24\nLesson 14: Evaluating Predictive Model Performance\nQuiz #14Exercise #14\n.\n.\n\n\n11/25/24\nLesson 15: Bringing It All Together: From Data to Insights to Decisions\nQuiz #15Exercise #15\n.\n.\n\n\n12/2/24\nProject presentation and report due\nProject presentation submission\n.\n.\n\n\n12/9/24\nFinal Exam (online) 4:00 PM - 6:00 PM\n.\n.\n\n\n\n\n*Please note that for the two classes missed due to holidays and breaks, there will be no make-up sessions. However, students are expected to independently complete the assigned readings and exercises during these periods. While class discussions won’t take place, engaging with the materials and teammates will ensure you stay on track with the course content.\n** Course material adapted from the textbook and previous course editions to better fit our curriculum. Thanks to Professor Zhiwei Zhu, Dr. Z.Z, for guidance and for generously sharing the materials.",
     "crumbs": [
       "Schedule and Material"
     ]
@@ -552,15 +552,15 @@
     "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#overview",
     "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#overview",
     "title": " MGMT 17300: Data Mining Lab ",
-    "section": "Overview",
-    "text": "Overview\n\n\n\n\nMotivation\nWhy R and RStudio?\nProjects and version control\nUsing R\nScripts, objects\nFunctions\n\n\n\nData types\nDataframes\nLogical operators\nWhere to find Help?"
+    "section": "",
+    "text": "Motivation\nWhy R and RStudio?\nProjects and version control\nUsing R\nScripts, objects\nFunctions\n\n\n\nData types\nDataframes\nLogical operators\nWhere to find Help?"
   },
   {
     "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#motivation-1",
     "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#motivation-1",
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Motivation",
-    "text": "Motivation"
+    "text": "Motivation\n\n# Install and load necessary packages\nif(!require(gganimate)) install.packages(\"gganimate\")\n\nLoading required package: gganimate\n\n\nLoading required package: ggplot2\n\nif(!require(gapminder)) install.packages(\"gapminder\")\n\nLoading required package: gapminder\n\nif(!require(ggplot2)) install.packages(\"ggplot2\")\nif(!require(gifski)) install.packages(\"gifski\")  # For rendering the animation\n\nLoading required package: gifski\n\nlibrary(gganimate)\nlibrary(gapminder)\nlibrary(ggplot2)\nlibrary(gifski)\n\n# Define country_colors if not available\n# You can either define your own color mapping or use a default one\ncountry_colors &lt;- scales::hue_pal()(length(unique(gapminder$country)))\n\n# Create the animation\np &lt;- ggplot(gapminder, aes(gdpPercap, lifeExp, size = pop, colour = country)) +\n  geom_point(alpha = 0.7, show.legend = FALSE) +\n  scale_colour_manual(values = country_colors) +\n  scale_size(range = c(2, 12)) +\n  scale_x_log10() +\n  facet_wrap(~continent) +\n  labs(title = 'Year: {frame_time}', x = 'GDP per capita', y = 'Life Expectancy') +\n  transition_time(year) +\n  ease_aes('linear')\n\n# Render the animation\nanimate(p, renderer = gifski_renderer())"
   },
   {
     "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html#what-is-data-science",
@@ -897,5 +897,138 @@
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Where to find Help?",
     "text": "Where to find Help?\n\n\nRStudio Primers"
+  },
+  {
+    "objectID": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html",
+    "href": "lecture_slides/04_lesson_m3dm/04_lesson_m3dm.html",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "",
+    "text": "Motivation\nWhy R and RStudio?\nProjects and version control\nUsing R\nScripts, objects\nFunctions\n\n\n\nData types\nDataframes\nLogical operators\nWhere to find Help?"
+  },
+  {
+    "objectID": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#overview",
+    "href": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#overview",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Overview",
+    "text": "Overview\n\n\n\n\nR Packages and Their Importance\n\nInstalling and loading R packages\nUsing popular packages like ggplot2, dplyr, and tidyr\n\nData Import in R\n\nImporting data from text files, Excel sheets, CSV files, and SQL databases\n\n\n\n\nExporting Data from R\n\nExporting data to CSV files, Excel files, and text files\nSaving R-specific objects using RDS files"
+  },
+  {
+    "objectID": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#r-packages-and-their-importance",
+    "href": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#r-packages-and-their-importance",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "R Packages and Their Importance",
+    "text": "R Packages and Their Importance\n\nR functionality is enhanced by packages—which are like “apps” in the smartphone ecosystem.\n\n# Example of installing a package\ninstall.packages(\"readxl\")\n\n# Loading a package to use its functions\nlibrary(readxl)"
+  },
+  {
+    "objectID": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#installing-packages",
+    "href": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#installing-packages",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Installing Packages",
+    "text": "Installing Packages\n\nYou can install packages in two ways:\n\nUsing the R command line with install.packages()\nUsing RStudio, by navigating to the “Packages” tab and searching for the desired package.\n\n\n\n# Installing multiple packages at once\ninstall.packages(c(\"readxl\", \"ggplot2\"))"
+  },
+  {
+    "objectID": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#loading-packages",
+    "href": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#loading-packages",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Loading Packages",
+    "text": "Loading Packages\n\nAfter installation, you must load a package to use it:\n\n# Loading the readxl package\nlibrary(readxl)\n\n\n\nNote: Some commonly used packages for data analysis are ggplot2, dplyr, and tidyr."
+  },
+  {
+    "objectID": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#data-import-in-r-1",
+    "href": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#data-import-in-r-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Data Import in R",
+    "text": "Data Import in R\n\nR allows importing data from various file formats like text files, Excel sheets, CSV files, and SQL databases."
+  },
+  {
+    "objectID": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#importing-text-files",
+    "href": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#importing-text-files",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Importing Text Files",
+    "text": "Importing Text Files\n\n\n# Importing a text file\ndata &lt;- read.table(\"data.txt\", header = TRUE, sep = \",\")"
+  },
+  {
+    "objectID": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#importing-excel-files",
+    "href": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#importing-excel-files",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Importing Excel Files",
+    "text": "Importing Excel Files\n\nMake sure you have the readxl package installed:\n\n# Importing data from an Excel file\nlibrary(readxl)\ndata &lt;- read_excel(\"data/SalesData.xlsx\")\n\n\nTo import a specific sheet:\n\n# Importing a specific sheet from an Excel file\ndata &lt;- read_excel(\"c:/mydata/data.xlsx\", sheet = \"Sheet1\")"
+  },
+  {
+    "objectID": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#importing-csv-files",
+    "href": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#importing-csv-files",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Importing CSV Files",
+    "text": "Importing CSV Files\n\nCSV files are commonly used and can be easily imported using read.csv():\n\n# Importing data from a CSV file\ndata &lt;- read.csv(\"data.csv\")"
+  },
+  {
+    "objectID": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#importing-data-from-sql-databases",
+    "href": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#importing-data-from-sql-databases",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Importing Data from SQL Databases",
+    "text": "Importing Data from SQL Databases\n\nTo import data from a SQL database, you can use the RODBC package:\n\n# Importing from SQL database\nlibrary(RODBC)\nconn &lt;- odbcConnect(\"database_name\")\ndata &lt;- sqlQuery(conn, \"SELECT * FROM table_name\")\nodbcClose(conn)\n\n\n\nNote: For this course, we will primarily focus on importing data from Excel spreadsheets."
+  },
+  {
+    "objectID": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#exporting-data-from-r-1",
+    "href": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#exporting-data-from-r-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Exporting Data from R",
+    "text": "Exporting Data from R\n\nOnce your data analysis is complete, you’ll often need to export the data for further use or reporting. R provides several ways to export datasets to various formats, including CSV, Excel, and text files."
+  },
+  {
+    "objectID": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#exporting-data-to-csv-files",
+    "href": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#exporting-data-to-csv-files",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Exporting Data to CSV Files",
+    "text": "Exporting Data to CSV Files\n\nOne of the most common way to export data from R is to save it as a CSV file using the write.csv() function.\n\n# Exporting a dataset to a CSV file\nwrite.csv(data, \"output_data.csv\", row.names = FALSE)\n\n\nThe first argument is the data you want to export.\nThe second argument is the file name (path) for the exported file.\nrow.names = FALSE avoids adding an extra column for row numbers."
+  },
+  {
+    "objectID": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#exporting-data-to-excel-files",
+    "href": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#exporting-data-to-excel-files",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Exporting Data to Excel Files",
+    "text": "Exporting Data to Excel Files\n\nYou can export data to Excel using the writexl package. First, make sure it’s installed.\n\n# Install the writexl package\ninstall.packages(\"writexl\")\n\n# Exporting a dataset to an Excel file\nlibrary(writexl)\nwrite_xlsx(data, \"data/output_data.xlsx\")\n\n\n\nNote: The write_xlsx() function saves the data into an Excel file, and you can specify the file path."
+  },
+  {
+    "objectID": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#exporting-data-to-text-files",
+    "href": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#exporting-data-to-text-files",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Exporting Data to Text Files",
+    "text": "Exporting Data to Text Files\n\nFor exporting data to a text file, you can use the write.table() function. This is particularly useful when you want to use a delimiter other than commas, such as tabs.\n\n# Exporting a dataset to a tab-delimited text file\nwrite.table(data, \"output_data.txt\", sep = \"\\t\", row.names = FALSE)\n\n\nThe sep argument specifies the delimiter used in the file (in this case, tabs)."
+  },
+  {
+    "objectID": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#exporting-data-to-rds-files",
+    "href": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#exporting-data-to-rds-files",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Exporting Data to RDS Files",
+    "text": "Exporting Data to RDS Files\n\nRDS is a format specific to R that allows you to save R objects and reload them later.\n\n# Exporting data to an RDS file\nsaveRDS(data, \"data.rds\")\n\n# Loading the RDS file back into R\ndata &lt;- readRDS(\"data.rds\")\n\n\n\nNote: RDS files are useful when you want to save R objects for later use within R itself."
+  },
+  {
+    "objectID": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#summary-1",
+    "href": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#summary-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Summary",
+    "text": "Summary\n\n\nPackages are essential in extending R’s functionality.\nYou can install and load packages easily with install.packages() and library() functions.\nR supports importing data from multiple sources, including text files, Excel sheets, CSV files, and SQL databases.\nYou can export datasets to various formats in R, including CSV, Excel, text files, and RDS.\n\nwrite.csv() and write_xlsx() are common functions for CSV and Excel exports.\nwrite.table() allows for more customizable exports, such as tab-delimited files.\nUse saveRDS() and readRDS() for saving and reloading R-specific objects."
+  },
+  {
+    "objectID": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#the-tidyverse-project",
+    "href": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#the-tidyverse-project",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "The Tidyverse Project",
+    "text": "The Tidyverse Project\n\n\n\nIn space, no one can hear you scream.\n– Alien (1979)"
+  },
+  {
+    "objectID": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#the-tidyverse-project-1",
+    "href": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#the-tidyverse-project-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "The Tidyverse Project",
+    "text": "The Tidyverse Project\n\n\n\nThe tidyverse is a collection of R packages designed for data science. All packages share an underlying philosophy and common APIs."
+  },
+  {
+    "objectID": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#the-tidyverse-data-science-workflow",
+    "href": "lecture_slides/05_lesson_m3dm/05_lesson_m3dm.html#the-tidyverse-data-science-workflow",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "The Tidyverse Data Science Workflow",
+    "text": "The Tidyverse Data Science Workflow\n\n\n\n\nTidyverse Project"
   }
 ]

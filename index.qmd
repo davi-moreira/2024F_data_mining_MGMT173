@@ -6,44 +6,47 @@ subtitle: "Mitchell E. Daniels, Jr. School of Business, Purdue University"
 <!--- # IMPORTANT REFERENCE: https://www.youtube.com/watch?v=uimdXPZc40I&list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo&index=4 --->
 
 <br>
-<center>
-_IMPORTANT_
 
-_This document does not replace the official material in the course brightspace page_
+<center>
+
+*IMPORTANT*
+
+*This document does not replace the official material in the course brightspace page*
 
 </center>
+
 <br>
 
 ## Course Description
 
 This course is tailored for students who are either new to the dynamic field of business analytics or possess a strong interest in establishing a foundational understanding of modern data-driven decision-making. In contrast to a sole focus on areas like data mining, machine learning, or information management systems, this course aims to furnish students with a holistic grasp of the multifaceted roles performed by diverse data and analytics disciplines within the intricate landscape of business decision-making. By reviewing numerous real world business cases and engaging in the exploration of two data mining case studies, the course facilitates an experiential learning process. This process emphasizes the interconnected nature of these disciplines, contributing to the cultivation of a thorough comprehension of data-driven decision-making. This heightened understanding empowers students to thoughtfully select their advanced analytics courses and strategically navigate their individual paths toward specialized or advanced training in fields aligned with data analytics.
 
-**Class:** Mondays (2:30 pm to 3:20 pm), HAMP 3144	
+**Class:** Mondays (2:30 pm to 3:20 pm), HAMP 3144
 
-**Course Website**: <https://davi-moreira.github.io/2024F_data_mining_MGMT173/>{target="_blank"}
+**Course Website**: [https://davi-moreira.github.io/2024F_data_mining_MGMT173/](https://davi-moreira.github.io/2024F_data_mining_MGMT173/){target="_blank"}
 
 ### Instructor: [Professor Davi Moreira](https://davi-moreira.github.io)
 
 -   Email: [dmoreira\@purdue.edu](mailto:dmoreira@purdue.edu)
--   Virtual Office hours - _Zoom link in your Course Brightspace Page_ 
+-   Virtual Office hours - *Zoom link in your Course Brightspace Page*
     -   Mondays 4-5:00pm, and by appointment.
 
 ## Learning Outcomes
 
 By the end of this course, students will be able to:
 
-1. Grasp a holistic view of the three technical pillars that support contemporary data-driven decision-making: data management, business analytics, and data science.
-2. Acknowledge the vital role of structured business data and enterprise data management/analytics infrastructure in facilitating efficient data-driven decision-making.
-3. Gain foundational knowledge in utilizing powerful analytics tools like R and RStudio.
-4. Make informed decisions in navigating advanced business information management and analytics proficiency developments.
+1.  Grasp a holistic view of the three technical pillars that support contemporary data-driven decision-making: data management, business analytics, and data science.
+2.  Acknowledge the vital role of structured business data and enterprise data management/analytics infrastructure in facilitating efficient data-driven decision-making.
+3.  Gain foundational knowledge in utilizing powerful analytics tools like R and RStudio.
+4.  Make informed decisions in navigating advanced business information management and analytics proficiency developments.
 
 ### Course Materials
 
 The following are learning materials:
 
-1. Text book:  e-textbook: “Modern Data-Driven Decision Making: with practices in data mining and R”, by Zhiwei Zhu, Copyright Digital and AI Literacies 2023. (Draft version available in the course Brightspace page). 
+1.  Text book: e-textbook: “Modern Data-Driven Decision Making: with practices in data mining and R”, by Zhiwei Zhu, Copyright Digital and AI Literacies 2023. (Draft version available in the course Brightspace page).
 
-2. Handouts:  Lecture Slides and Supplementary Materials. (Posted in this page and on Brightspace: Brightspace -> Content -> Table of Contents -> ….)
+2.  Handouts: Lecture Slides and Supplementary Materials. (Posted in this page and on Brightspace: Brightspace -\> Content -\> Table of Contents -\> ….)
 
 ### Course Infra-structure
 
@@ -54,4 +57,3 @@ The following are learning materials:
 **Software:** [R](https://cran.r-project.org/){target="_blank"} and [RStudio](https://posit.co/downloads/){target="_blank"}
 
 **Course Website:** This class website will be used throughout the course, but it does not replace the Course Brightspace Page.
-
