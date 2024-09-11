@@ -1030,5 +1030,61 @@
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "The Tidyverse Data Science Workflow",
     "text": "The Tidyverse Data Science Workflow\n\n\n\n\nTidyverse Project"
+  },
+  {
+    "objectID": "lecture_slides/06_lesson_m3dm/06_lesson_m3dm.html#overview",
+    "href": "lecture_slides/06_lesson_m3dm/06_lesson_m3dm.html#overview",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Overview",
+    "text": "Overview\n\n\n\n\nXXX\n\nXXX\nXXX\n\nXXX\n\nXXX\n\n\n\n\nXXX\n\nXXX\nXXX"
+  },
+  {
+    "objectID": "lecture_slides/06_lesson_m3dm/06_lesson_m3dm.html#introduction-to-data-types",
+    "href": "lecture_slides/06_lesson_m3dm/06_lesson_m3dm.html#introduction-to-data-types",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Introduction to Data Types",
+    "text": "Introduction to Data Types\nData can take various forms, and identifying the correct data type is essential for analysis. In this course, we focus on:\n\nNumerical data (e.g., age, temperature)\nCategorical data (e.g., gender, color)\nOrdinal data (e.g., academic performance levels)\nText data (e.g., essays, speeches)\nDate and time data (e.g., 1/1/2023)"
+  },
+  {
+    "objectID": "lecture_slides/06_lesson_m3dm/06_lesson_m3dm.html#importance-of-data-types-in-r",
+    "href": "lecture_slides/06_lesson_m3dm/06_lesson_m3dm.html#importance-of-data-types-in-r",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Importance of Data Types in R",
+    "text": "Importance of Data Types in R\nData types are critical for:\n\nCorrect interpretation during analysis\nEfficient memory usage and performance\nAvoiding erroneous calculations (e.g., treating categorical data as numeric)"
+  },
+  {
+    "objectID": "lecture_slides/06_lesson_m3dm/06_lesson_m3dm.html#viewing-data-types-in-r-1",
+    "href": "lecture_slides/06_lesson_m3dm/06_lesson_m3dm.html#viewing-data-types-in-r-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Viewing Data Types in R",
+    "text": "Viewing Data Types in R\nTo inspect the data types in an R dataframe:\n\nclass(): View the type of a single variable\nstr(): Get a concise summary of the dataframe, including the data type of each variable\n\n\n\n# View the type of a single variable\nclass(mtcars$gear)\n\n# View the structure and data types of the entire dataframe\nstr(mtcars)"
+  },
+  {
+    "objectID": "lecture_slides/06_lesson_m3dm/06_lesson_m3dm.html#redefining-data-types-in-r-1",
+    "href": "lecture_slides/06_lesson_m3dm/06_lesson_m3dm.html#redefining-data-types-in-r-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Redefining Data Types in R",
+    "text": "Redefining Data Types in R\nSometimes, R may misinterpret the data type. You can redefine the data type using functions like as.numeric(), as.character(), and as.factor().\n\n# Redefine the vs and am variables in mtcars as categorical\nmtcars$vs &lt;- as.factor(mtcars$vs)\nmtcars$am &lt;- as.factor(mtcars$am)\n\n# Confirm the changes\nstr(mtcars)"
+  },
+  {
+    "objectID": "lecture_slides/06_lesson_m3dm/06_lesson_m3dm.html#example-mtcars-dataset",
+    "href": "lecture_slides/06_lesson_m3dm/06_lesson_m3dm.html#example-mtcars-dataset",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Example: mtcars Dataset",
+    "text": "Example: mtcars Dataset\nThe mtcars dataset includes variables that could be redefined as categorical. For instance:\n\nvs and am are numeric by default but represent categorical data.\n\n\nBy redefining them as factors, we avoid incorrect numeric operations.\n\n# Redefining as factors\nmtcars$vs &lt;- as.factor(mtcars$vs)\nmtcars$am &lt;- as.factor(mtcars$am)"
+  },
+  {
+    "objectID": "lecture_slides/06_lesson_m3dm/06_lesson_m3dm.html#data-types-and-their-impact",
+    "href": "lecture_slides/06_lesson_m3dm/06_lesson_m3dm.html#data-types-and-their-impact",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Data Types and Their Impact",
+    "text": "Data Types and Their Impact\nChoosing the correct data type impacts:\n\nPerformance: Using integers vs floats\nMemory Usage: Numerical types consume more memory\nAnalysis: Properly defined categorical variables ensure meaningful grouping and sorting."
+  },
+  {
+    "objectID": "lecture_slides/06_lesson_m3dm/06_lesson_m3dm.html#summary-1",
+    "href": "lecture_slides/06_lesson_m3dm/06_lesson_m3dm.html#summary-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Summary",
+    "text": "Summary\n\n\nR supports various data types: numerical, categorical, text, date/time, etc.\nUse class() and str() to inspect data types in a dataframe.\nCorrectly define or redefine data types using as.numeric(), as.factor(), and other functions for accurate analysis."
   }
 ]
