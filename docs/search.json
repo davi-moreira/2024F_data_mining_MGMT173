@@ -153,7 +153,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Date\nTopic\nAssignment (due dates on Brightspace)\nSlides**\nSupplementary Materials\n\n\n\n\n8/19/24\nLesson 1: Technical Enablers of Modern Data-Driven Decision Making\nQuiz #1Exercise #1\nslides\n- Video: The NBA Data Scientist- Video: Hans Rosling’s 200 Countries, 200 Years\n\n\n8/26/24\nLesson 2: Data Organization for Using Data to Drive Decisions\nQuiz #2Exercise #2\nslides\n- Video: Relational vs. Non-Relational Databases\n\n\n9/2/24\nNo class* - Labor Day - Lesson 3: Tools for Using Data to Drive Decisions\nQuiz #3Exercise #3\n\n\n\n\n9/9/24\nLesson 4: Introduction to R and RStudio\nQuiz #4Exercise #4\nslidesscript\n- Video: RStudio is now Posit!\n\n\n9/16/24\nLesson 5: Installing Packages and Importing Data in R\nQuiz #5Exercise #5\nslidesscriptdata\n- Video: It’s a Great Time to be an R Package Developer!- Blog: Quick list of useful R packages- Posit R packages\n\n\n9/23/24\nLesson 6: Data Types and Viewing Data Types in R\nQuiz #6Exercise #6\n.\n.\n\n\n9/30/24\nLesson 7: Key Steps of Performing Data Mining in R\nQuiz #7Exercise #7\n.\n.\n\n\n10/7/24\nNo class* - Fall Break - Lesson 8: Most Applied Data Mining Techniques\nQuiz #8Exercise #8\n.\n.\n\n\n10/14/24\nLesson 9: Exploratory Data Analysis in R: Summary Statistics\nQuiz #9Exercise #9\n.\n.\n\n\n10/21/24\nLesson 10: Exploratory Data Analysis in R: Visualization and Dashboarding\nQuiz #10Exercise #10\n.\n.\n\n\n10/28/24\nLesson 11: Mine Data through Predictive Modeling in R\nQuiz #11Exercise #11\n.\n.\n\n\n11/4/24\nLesson 12: Identifying Significant Predictors\nQuiz #12Exercise #12\n.\n.\n\n\n11/11/24\nLesson 13: Predictive Model Interpretations and Predictions\nQuiz #13Exercise #13\n.\n.\n\n\n11/18/24\nLesson 14: Evaluating Predictive Model Performance\nQuiz #14Exercise #14\n.\n.\n\n\n11/25/24\nLesson 15: Bringing It All Together: From Data to Insights to Decisions\nQuiz #15Exercise #15\n.\n.\n\n\n12/2/24\nProject presentation and report due\nProject presentation submission\n.\n.\n\n\n12/9/24\nFinal Exam (online) 4:00 PM - 6:00 PM\n.\n.\n\n\n\n\n*Please note that for the two classes missed due to holidays and breaks, there will be no make-up sessions. However, students are expected to independently complete the assigned readings and exercises during these periods. While class discussions won’t take place, engaging with the materials and teammates will ensure you stay on track with the course content.\n** Course material adapted from the textbook and previous course editions to better fit our curriculum. Thanks to Professor Zhiwei Zhu, Dr. Z.Z, for guidance and for generously sharing the materials.",
+    "text": "Date\nTopic\nAssignment (due dates on Brightspace)\nSlides**\nSupplementary Materials\n\n\n\n\n8/19/24\nLesson 1: Technical Enablers of Modern Data-Driven Decision Making\nQuiz #1Exercise #1\nslides\n- Video: The NBA Data Scientist- Video: Hans Rosling’s 200 Countries, 200 Years\n\n\n8/26/24\nLesson 2: Data Organization for Using Data to Drive Decisions\nQuiz #2Exercise #2\nslides\n- Video: Relational vs. Non-Relational Databases\n\n\n9/2/24\nNo class* - Labor Day - Lesson 3: Tools for Using Data to Drive Decisions\nQuiz #3Exercise #3\n\n\n\n\n9/9/24\nLesson 4: Introduction to R and RStudio\nQuiz #4Exercise #4\nslidesscript\n- Video: RStudio is now Posit!\n\n\n9/16/24\nLesson 5: Installing Packages and Importing Data in R\nQuiz #5Exercise #5\nslidesscriptdata\n- Video: It’s a Great Time to be an R Package Developer!- Blog: Quick list of useful R packages- Posit R packages\n\n\n9/23/24\nLesson 6: Data Types and Viewing Data Types in R\nQuiz #6Exercise #6\nslidesscriptdata\n- R Data Types- Dates with Lubridate- Categorical Data\n\n\n9/30/24\nLesson 7: Key Steps of Performing Data Mining in R\nQuiz #7Exercise #7\n.\n.\n\n\n10/7/24\nNo class* - Fall Break - Lesson 8: Most Applied Data Mining Techniques\nQuiz #8Exercise #8\n.\n.\n\n\n10/14/24\nLesson 9: Exploratory Data Analysis in R: Summary Statistics\nQuiz #9Exercise #9\n.\n.\n\n\n10/21/24\nLesson 10: Exploratory Data Analysis in R: Visualization and Dashboarding\nQuiz #10Exercise #10\n.\n.\n\n\n10/28/24\nLesson 11: Mine Data through Predictive Modeling in R\nQuiz #11Exercise #11\n.\n.\n\n\n11/4/24\nLesson 12: Identifying Significant Predictors\nQuiz #12Exercise #12\n.\n.\n\n\n11/11/24\nLesson 13: Predictive Model Interpretations and Predictions\nQuiz #13Exercise #13\n.\n.\n\n\n11/18/24\nLesson 14: Evaluating Predictive Model Performance\nQuiz #14Exercise #14\n.\n.\n\n\n11/25/24\nLesson 15: Bringing It All Together: From Data to Insights to Decisions\nQuiz #15Exercise #15\n.\n.\n\n\n12/2/24\nProject presentation and report due\nProject presentation submission\n.\n.\n\n\n12/9/24\nFinal Exam (online) 4:00 PM - 6:00 PM\n.\n.\n\n\n\n\n*Please note that for the two classes missed due to holidays and breaks, there will be no make-up sessions. However, students are expected to independently complete the assigned readings and exercises during these periods. While class discussions won’t take place, engaging with the materials and teammates will ensure you stay on track with the course content.\n** Course material adapted from the textbook and previous course editions to better fit our curriculum. Thanks to Professor Zhiwei Zhu, Dr. Z.Z, for guidance and for generously sharing the materials.",
     "crumbs": [
       "Schedule and Material"
     ]
@@ -1036,14 +1036,14 @@
     "href": "lecture_slides/06_lesson_m3dm/06_lesson_m3dm.html#overview",
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Overview",
-    "text": "Overview\n\n\n\n\nXXX\n\nXXX\nXXX\n\nXXX\n\nXXX\n\n\n\n\nXXX\n\nXXX\nXXX"
+    "text": "Overview\n\n\n\n\nLesson 04 and Lesson 05 Exercises Review\nData Types\nViewing Data Types in R\nRedefining Data Types in R\nData Types and Their Impact"
   },
   {
     "objectID": "lecture_slides/06_lesson_m3dm/06_lesson_m3dm.html#introduction-to-data-types",
     "href": "lecture_slides/06_lesson_m3dm/06_lesson_m3dm.html#introduction-to-data-types",
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Introduction to Data Types",
-    "text": "Introduction to Data Types\nData can take various forms, and identifying the correct data type is essential for analysis. In this course, we focus on:\n\nNumerical data (e.g., age, temperature)\nCategorical data (e.g., gender, color)\nOrdinal data (e.g., academic performance levels)\nText data (e.g., essays, speeches)\nDate and time data (e.g., 1/1/2023)"
+    "text": "Introduction to Data Types\nData can take various forms, and identifying the correct data type is essential for analysis. In this course, we focus on:\n\nNumerical data (e.g., age, temperature)\nLogical data (e.g., TRUE, FALSE)\nCategorical data (e.g., gender, color)\nOrdinal data (e.g., academic performance levels)\nText data (e.g., essays, speeches)\nDate and time data (e.g., 1/1/2023)"
   },
   {
     "objectID": "lecture_slides/06_lesson_m3dm/06_lesson_m3dm.html#importance-of-data-types-in-r",
@@ -1085,6 +1085,20 @@
     "href": "lecture_slides/06_lesson_m3dm/06_lesson_m3dm.html#summary-1",
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Summary",
-    "text": "Summary\n\n\nR supports various data types: numerical, categorical, text, date/time, etc.\nUse class() and str() to inspect data types in a dataframe.\nCorrectly define or redefine data types using as.numeric(), as.factor(), and other functions for accurate analysis."
+    "text": "Summary\n\n\nR supports various data types: numerical, categorical, text, date/time, etc.\nUse class() and str() to inspect data types in a dataframe.\nCorrectly define or redefine data types using as.numeric(), as.character(), as.factor(), and other functions for accurate analysis."
+  },
+  {
+    "objectID": "lecture_slides/06_lesson_m3dm/06_lesson_m3dm.html#excel-example",
+    "href": "lecture_slides/06_lesson_m3dm/06_lesson_m3dm.html#excel-example",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Excel Example",
+    "text": "Excel Example"
+  },
+  {
+    "objectID": "lecture_slides/06_lesson_m3dm/06_lesson_m3dm.html",
+    "href": "lecture_slides/06_lesson_m3dm/06_lesson_m3dm.html",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "",
+    "text": "Lesson 04 and Lesson 05 Exercises Review\nData Types\nViewing Data Types in R\nRedefining Data Types in R\nData Types and Their Impact"
   }
 ]

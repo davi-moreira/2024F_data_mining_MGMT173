@@ -61,6 +61,33 @@ install.packages("readxl")
 # Loading a package to use its functions
 library(readxl)
 # ```
+# ## The Tidyverse Project
+# 
+# <br>
+# 
+# <br>
+# 
+# >In space, no one can hear you scream.
+# >
+# >– Alien (1979)
+# 
+# <br>
+# 
+# <br>
+# 
+# ## The Tidyverse Project
+# 
+# <center>[![Tidyverse Project](figs/tidyverse_hex_logo.png){width="30%"}](https://www.tidyverse.org/){target="_blank"}</center>
+# 
+# The tidyverse is a collection of R packages designed for data science. All packages share an underlying philosophy and common APIs.
+# 
+# ## The Tidyverse Data Science Workflow
+# 
+# <center>![Tidyverse Project](figs/data_science_workflow_pkgs.png){width="70%"}</center>
+# 
+# 
+# 
+# 
 # 
 # ## Installing Packages
 # 
