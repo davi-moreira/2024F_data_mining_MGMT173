@@ -153,7 +153,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Date\nTopic\nAssignment (due dates on Brightspace)\nSlides**\nSupplementary Materials\n\n\n\n\n8/19/24\nLesson 1: Technical Enablers of Modern Data-Driven Decision Making\nQuiz #1Exercise #1\nslides\n- Video: The NBA Data Scientist- Video: Hans Rosling’s 200 Countries, 200 Years\n\n\n8/26/24\nLesson 2: Data Organization for Using Data to Drive Decisions\nQuiz #2Exercise #2\nslides\n- Video: Relational vs. Non-Relational Databases\n\n\n9/2/24\nNo class* - Labor Day - Lesson 3: Tools for Using Data to Drive Decisions\nQuiz #3Exercise #3\n\n\n\n\n9/9/24\nLesson 4: Introduction to R and RStudio\nQuiz #4Exercise #4\nslidesscript\n- Video: RStudio is now Posit!\n\n\n9/16/24\nLesson 5: Installing Packages and Importing Data in R\nQuiz #5Exercise #5\nslidesscriptdata\n- Video: It’s a Great Time to be an R Package Developer!- Blog: Quick list of useful R packages- Posit R packages\n\n\n9/23/24\nLesson 6: Data Types and Viewing Data Types in R\nQuiz #6Exercise #6\nslidesscriptdata\n- R Data Types- Dates with Lubridate- Categorical Data\n\n\n9/30/24\nLesson 7: Key Steps of Performing Data Mining in R\nQuiz #7Exercise #7\n.\n.\n\n\n10/7/24\nNo class* - Fall Break - Lesson 8: Most Applied Data Mining Techniques\nQuiz #8Exercise #8\n.\n.\n\n\n10/14/24\nLesson 9: Exploratory Data Analysis in R: Summary Statistics\nQuiz #9Exercise #9\n.\n.\n\n\n10/21/24\nLesson 10: Exploratory Data Analysis in R: Visualization and Dashboarding\nQuiz #10Exercise #10\n.\n.\n\n\n10/28/24\nLesson 11: Mine Data through Predictive Modeling in R\nQuiz #11Exercise #11\n.\n.\n\n\n11/4/24\nLesson 12: Identifying Significant Predictors\nQuiz #12Exercise #12\n.\n.\n\n\n11/11/24\nLesson 13: Predictive Model Interpretations and Predictions\nQuiz #13Exercise #13\n.\n.\n\n\n11/18/24\nLesson 14: Evaluating Predictive Model Performance\nQuiz #14Exercise #14\n.\n.\n\n\n11/25/24\nLesson 15: Bringing It All Together: From Data to Insights to Decisions\nQuiz #15Exercise #15\n.\n.\n\n\n12/2/24\nProject presentation and report due\nProject presentation submission\n.\n.\n\n\n12/9/24\nFinal Exam (online) 4:00 PM - 6:00 PM\n.\n.\n\n\n\n\n*Please note that for the two classes missed due to holidays and breaks, there will be no make-up sessions. However, students are expected to independently complete the assigned readings and exercises during these periods. While class discussions won’t take place, engaging with the materials and teammates will ensure you stay on track with the course content.\n** Course material adapted from the textbook and previous course editions to better fit our curriculum. Thanks to Professor Zhiwei Zhu, Dr. Z.Z, for guidance and for generously sharing the materials.",
+    "text": "Date\nTopic\nAssignment (due dates on Brightspace)\nSlides**\nSupplementary Materials\n\n\n\n\n8/19/24\nLesson 1: Technical Enablers of Modern Data-Driven Decision Making\nQuiz #1Exercise #1\nslides\n- Video: The NBA Data Scientist- Video: Hans Rosling’s 200 Countries, 200 Years\n\n\n8/26/24\nLesson 2: Data Organization for Using Data to Drive Decisions\nQuiz #2Exercise #2\nslides\n- Video: Relational vs. Non-Relational Databases\n\n\n9/2/24\nNo class* - Labor Day - Lesson 3: Tools for Using Data to Drive Decisions\nQuiz #3Exercise #3\n\n\n\n\n9/9/24\nLesson 4: Introduction to R and RStudio\nQuiz #4Exercise #4\nslidesscript\n- Video: RStudio is now Posit!\n\n\n9/16/24\nLesson 5: Installing Packages and Importing Data in R\nQuiz #5Exercise #5\nslidesscriptdata\n- Video: It’s a Great Time to be an R Package Developer!- Blog: Quick list of useful R packages- Posit R packages\n\n\n9/23/24\nLesson 6: Data Types and Viewing Data Types in R\nQuiz #6Exercise #6\nslidesscriptdata\n- R Data Types- Dates with Lubridate- Categorical Data\n\n\n9/30/24\nLesson 7: Key Steps of Performing Data Mining in R\nQuiz #7Exercise #7\nslidesscript\n- Blog: Data Mining in R - Blog: Data Mining with R\n\n\n10/7/24\nNo class* - Fall Break - Lesson 8: Most Applied Data Mining Techniques\nQuiz #8Exercise #8\n.\n.\n\n\n10/14/24\nLesson 9: Exploratory Data Analysis in R: Summary Statistics\nQuiz #9Exercise #9\n.\n.\n\n\n10/21/24\nLesson 10: Exploratory Data Analysis in R: Visualization and Dashboarding\nQuiz #10Exercise #10\n.\n.\n\n\n10/28/24\nLesson 11: Mine Data through Predictive Modeling in R\nQuiz #11Exercise #11\n.\n.\n\n\n11/4/24\nLesson 12: Identifying Significant Predictors\nQuiz #12Exercise #12\n.\n.\n\n\n11/11/24\nLesson 13: Predictive Model Interpretations and Predictions\nQuiz #13Exercise #13\n.\n.\n\n\n11/18/24\nLesson 14: Evaluating Predictive Model Performance\nQuiz #14Exercise #14\n.\n.\n\n\n11/25/24\nLesson 15: Bringing It All Together: From Data to Insights to Decisions\nQuiz #15Exercise #15\n.\n.\n\n\n12/2/24\nProject presentation and report due\nProject presentation submission\n.\n.\n\n\n12/9/24\nFinal Exam (online) 4:00 PM - 6:00 PM\n.\n.\n\n\n\n\n*Please note that for the two classes missed due to holidays and breaks, there will be no make-up sessions. However, students are expected to independently complete the assigned readings and exercises during these periods. While class discussions won’t take place, engaging with the materials and teammates will ensure you stay on track with the course content.\n** Course material adapted from the textbook and previous course editions to better fit our curriculum. Thanks to Professor Zhiwei Zhu, Dr. Z.Z, for guidance and for generously sharing the materials.",
     "crumbs": [
       "Schedule and Material"
     ]
@@ -1100,5 +1100,131 @@
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "",
     "text": "Lesson 04 and Lesson 05 Exercises Review\nData Types\nViewing Data Types in R\nRedefining Data Types in R\nData Types and Their Impact"
+  },
+  {
+    "objectID": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#overview",
+    "href": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#overview",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Overview",
+    "text": "Overview\n\n\n\n\nLesson 06 Exercise Review\nLesson Question!\nThe 8 Key Steps of a Data Mining Project"
+  },
+  {
+    "objectID": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#lesson-question-1",
+    "href": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#lesson-question-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Lesson Question!",
+    "text": "Lesson Question!\nXXXX"
+  },
+  {
+    "objectID": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#the-8-key-steps-of-a-data-mining-project",
+    "href": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#the-8-key-steps-of-a-data-mining-project",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "The 8 Key Steps of a Data Mining Project",
+    "text": "The 8 Key Steps of a Data Mining Project\n\nDefine the project’s goal\n\nAcquire analysis tools\n\nPrepare data\n\nData summarization\n\nData visualization\n\nData mining modeling\n\nModel validation\n\nInterpretation and implementation"
+  },
+  {
+    "objectID": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#step-1-define-the-projects-goal",
+    "href": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#step-1-define-the-projects-goal",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Step 1: Define the project’s goal",
+    "text": "Step 1: Define the project’s goal\n\nStep 1: Define the project’s goal based on available data\n\nThe project objective serves as the guiding light.\nCar Data Mining Project Example: predict a car’s fuel efficiency (measured as miles per gallon, mpg) based on key factors or attributes of the car."
+  },
+  {
+    "objectID": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#demonstrative-project-example",
+    "href": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#demonstrative-project-example",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Demonstrative Project Example",
+    "text": "Demonstrative Project Example\n\nExample Project: Car’s fuel efficiency (mpg) influenced by:\n\nWeight (wt)\nHorsepower (hp)\nCylinders (cyl)\nTransmission type (am)\nEngine shape (vs)\n\nThe dataset becomes the mine where insights are excavated."
+  },
+  {
+    "objectID": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#step-2-acquire-analysis-tools",
+    "href": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#step-2-acquire-analysis-tools",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Step 2: Acquire Analysis Tools",
+    "text": "Step 2: Acquire Analysis Tools\n\nStep 2: Acquire Analysis Tools\nUse R for data analysis\nR includes an extensive collection of packages and functions\nExample R packages:\n\ndplyr\ntidyr"
+  },
+  {
+    "objectID": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#step-3-prepare-data",
+    "href": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#step-3-prepare-data",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Step 3: Prepare Data",
+    "text": "Step 3: Prepare Data\n\nData preparation: transformation, cleaning, and preprocessing\n\nFiltering out missing or invalid values\nTransforming and restructuring data\n\n\n\nCar Data Mining Project Example: Cleaning mtcars data in R using dplyr\n\nlibrary(dplyr)\n\nclean_data &lt;- mtcars %&gt;% filter(!is.na(hp)) %&gt;% select(cyl, hp)\n\nView(clean_data)"
+  },
+  {
+    "objectID": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#useful-r-functions-for-data-preparation",
+    "href": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#useful-r-functions-for-data-preparation",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Useful R Functions for Data Preparation",
+    "text": "Useful R Functions for Data Preparation\n\nCleaning and Filtering:\n\nis.na(), complete.cases(), filter()\n\nData Transformation:\n\nscale(), normalize(), log()\n\nData Restructuring:\n\npivot_longer(), pivot_wider()\n\nData Type Conversion:\n\nas.numeric(), as.Date(), as.factor()"
+  },
+  {
+    "objectID": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#step-4-data-summarization",
+    "href": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#step-4-data-summarization",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Step 4: Data Summarization",
+    "text": "Step 4: Data Summarization\n\nSummarize key insights from the core of the data to identify trends, correlations, and high-level patterns\nTechniques:\n\nAggregation\nStatistical summaries (mean, median, standard deviation)\nGroup-by operations\n\n\n\nCar Data Mining Project Example:\n\nsummary(mtcars)"
+  },
+  {
+    "objectID": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#step-5-data-visualization",
+    "href": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#step-5-data-visualization",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Step 5: Data Visualization",
+    "text": "Step 5: Data Visualization\n\nVisual representation of data is crucial for interpretation. It is used to communicate insights visually, identify relationships, and detect outliers.\nTechniques:\n\nHistograms\nBox plots\nScatter plots\nBar charts\n\n\n\nCar Data Mining Project Example:\n\nlibrary(ggplot2)\nggplot(mtcars, aes(x = hp, y = mpg)) + geom_point()"
+  },
+  {
+    "objectID": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#step-6-data-mining-modeling",
+    "href": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#step-6-data-mining-modeling",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Step 6: Data Mining Modeling",
+    "text": "Step 6: Data Mining Modeling\n\nBuild models to uncover hidden patterns and relationships\nCommon techniques:\n\nClustering: Groups similar data points together\nRegression: Predicts relationships between variables\n\n\n\nCar Data Mining Project Example: Linear Regression Model\n\nmodel &lt;- lm(mpg ~ wt + hp, data = mtcars)\n\nsummary(model)"
+  },
+  {
+    "objectID": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#step-6-data-mining-modeling-example-explanation",
+    "href": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#step-6-data-mining-modeling-example-explanation",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Step 6: Data Mining Modeling Example Explanation",
+    "text": "Step 6: Data Mining Modeling Example Explanation\n\n\nLinear Model (lm):\n\nFits a linear regression model to predict mpg using wt (weight) and hp (horsepower).\n\nsummary(model):\n\nProvides detailed output of the model’s performance.\n\nModel Output:\nIntercept: 37.23 (baseline mpg when wt and hp are zero).\nCoefficients:\n\nFor every unit increase in wt, mpg decreases by 3.88 units.\nFor every unit increase in hp, mpg decreases by 0.03 units.\n\nR-squared:\n\nMultiple R-squared: 0.8268 (explains \\(\\approx83%\\) of variance in mpg).\nAdjusted R-squared: 0.8148 (adjusts for number of predictors).\n\nSignificance:\n\nBoth wt and hp are significant predictors (p-values &lt; 0.05)."
+  },
+  {
+    "objectID": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#step-7-data-mining-model-validation",
+    "href": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#step-7-data-mining-model-validation",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Step 7: Data Mining Model Validation",
+    "text": "Step 7: Data Mining Model Validation\n\nValidate model accuracy and generalizability to ensure that the model performs well on unseen data and avoids overfitting.\nTechniques:\n\nCross-validation\nTraining/Test split\nPerformance metrics (e.g., R-squared, Precision, Recall)\n\n\n\nCar Data Mining Project Example:\n\nlibrary(caret)\n\ntrainControl &lt;- trainControl(method=\"cv\", number=10)\n\n# Only using wt and hp as independent variables\nmodel &lt;- train(mpg ~ wt + hp, data=mtcars, method=\"lm\", trControl=trainControl)\n\nprint(model)"
+  },
+  {
+    "objectID": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#step-7-model-validation-example-explanation",
+    "href": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#step-7-model-validation-example-explanation",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Step 7: Model Validation Example Explanation",
+    "text": "Step 7: Model Validation Example Explanation\n\n\nCross-validation:\n\ntrainControl(method = \"cv\", number = 10) sets up 10-fold cross-validation.\nThe model is trained on 9 parts of the data and tested on the remaining part, iterating 10 times.\n\ntrain() function:\n\nTrains a linear regression model (lm) using wt (weight) and hp (horsepower) as independent variables to predict mpg.\n\nModel Output:\n\nRMSE (Root Mean Squared Error): 2.48 (average error in prediction). It tells us how concentrated the data points are around the line of best fit.\nR-squared: 0.94521 (approximately 94.5% of variability in mpg explained by the model).\nMAE (Mean Absolute Error): 2.23 (average magnitude of prediction error). Lower MAE values indicate better model performance. On average, the model’s prediction of mpg differs from the actual value by about 2.23 mpg.\n\nPurpose:\n\nEnsures the model generalizes well by preventing overfitting.\nProvides reliable performance metrics for real-world application."
+  },
+  {
+    "objectID": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#step-8-interpretation-and-implementation",
+    "href": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#step-8-interpretation-and-implementation",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Step 8: Interpretation and Implementation",
+    "text": "Step 8: Interpretation and Implementation\n\nInterpret results and apply findings in decision-making\nKey considerations:\n\nHow can the insights be used in practice?\nAre the patterns meaningful for the project’s goals?\n\nImplementation:\n\nIntegrate findings into business strategy or decision-making processes\nExamples: Customer segmentation, risk management, optimization"
+  },
+  {
+    "objectID": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#summary-1",
+    "href": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#summary-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Summary",
+    "text": "Summary\n\n\nMain Takeaways from this lecture:\n\n8 Key Steps of Data Mining:\n\nDefining the project’s goal is crucial to guide the process.\nUsing appropriate analysis tools, such as R, is essential for data mining.\n\nData Preparation:\n\nCleaning, transforming, and restructuring the data is critical for accurate results.\nR packages like dplyr and tidyr streamline these tasks.\n\nModeling:\n\nLinear regression helps uncover relationships between variables (e.g., predicting mpg from wt and hp).\n\nModel Validation:\n\nValidate models to ensure generalizability (e.g. through cross-validation techniques).\n\nInterpretation & Implementation:\n\nApplying insights from the model to real-world decision-making, such as business strategy or optimization."
+  },
+  {
+    "objectID": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#step-5-data-visualization-1",
+    "href": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html#step-5-data-visualization-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Step 5: Data Visualization",
+    "text": "Step 5: Data Visualization\n\n\nCar Data Mining Project Example:\n\n# Load necessary libraries\nlibrary(GGally)\n\nggcorr(mtcars, \n       method = c(\"pairwise\", \"pearson\"), \n       label = TRUE, \n       label_round = 2, \n       label_alpha = TRUE, \n       name = \"Correlation\")\n\n\nCar Data Mining Project Example:"
+  },
+  {
+    "objectID": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html",
+    "href": "lecture_slides/07_lesson_m3dm/07_lesson_m3dm.html",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "",
+    "text": "Lesson 06 Exercise Review\nLesson Question!\nThe 8 Key Steps of a Data Mining Project"
   }
 ]
