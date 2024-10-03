@@ -153,7 +153,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Date\nTopic\nAssignment (due dates on Brightspace)\nSlides**\nSupplementary Materials\n\n\n\n\n8/19/24\nLesson 1: Technical Enablers of Modern Data-Driven Decision Making\nQuiz #1Exercise #1\nslides\n- Video: The NBA Data Scientist- Video: Hans Rosling’s 200 Countries, 200 Years\n\n\n8/26/24\nLesson 2: Data Organization for Using Data to Drive Decisions\nQuiz #2Exercise #2\nslides\n- Video: Relational vs. Non-Relational Databases\n\n\n9/2/24\nNo class* - Labor Day - Lesson 3: Tools for Using Data to Drive Decisions\nQuiz #3Exercise #3\n\n\n\n\n9/9/24\nLesson 4: Introduction to R and RStudio\nQuiz #4Exercise #4\nslidesscript\n- Video: RStudio is now Posit!\n\n\n9/16/24\nLesson 5: Installing Packages and Importing Data in R\nQuiz #5Exercise #5\nslidesscriptdata\n- Video: It’s a Great Time to be an R Package Developer!- Blog: Quick list of useful R packages- Posit R packages\n\n\n9/23/24\nLesson 6: Data Types and Viewing Data Types in R\nQuiz #6Exercise #6\nslidesscriptdata\n- R Data Types- Dates with Lubridate- Categorical Data\n\n\n9/30/24\nLesson 7: Key Steps of Performing Data Mining in R\nQuiz #7Exercise #7\nslidesscript\n- Blog: Data Mining in R - Blog: Data Mining with R\n\n\n10/7/24\nNo class* - Fall Break - Lesson 8: Most Applied Data Mining Techniques\nQuiz #8Exercise #8\n.\n.\n\n\n10/14/24\nLesson 9: Exploratory Data Analysis in R: Summary Statistics\nQuiz #9Exercise #9\n.\n.\n\n\n10/21/24\nLesson 10: Exploratory Data Analysis in R: Visualization and Dashboarding\nQuiz #10Exercise #10\n.\n.\n\n\n10/28/24\nLesson 11: Mine Data through Predictive Modeling in R\nQuiz #11Exercise #11\n.\n.\n\n\n11/4/24\nLesson 12: Identifying Significant Predictors\nQuiz #12Exercise #12\n.\n.\n\n\n11/11/24\nLesson 13: Predictive Model Interpretations and Predictions\nQuiz #13Exercise #13\n.\n.\n\n\n11/18/24\nLesson 14: Evaluating Predictive Model Performance\nQuiz #14Exercise #14\n.\n.\n\n\n11/25/24\nLesson 15: Bringing It All Together: From Data to Insights to Decisions\nQuiz #15Exercise #15\n.\n.\n\n\n12/2/24\nProject presentation and report due\nProject presentation submission\n.\n.\n\n\n12/9/24\nFinal Exam (online) 4:00 PM - 6:00 PM\n.\n.\n\n\n\n\n*Please note that for the two classes missed due to holidays and breaks, there will be no make-up sessions. However, students are expected to independently complete the assigned readings and exercises during these periods. While class discussions won’t take place, engaging with the materials and teammates will ensure you stay on track with the course content.\n** Course material adapted from the textbook and previous course editions to better fit our curriculum. Thanks to Professor Zhiwei Zhu, Dr. Z.Z, for guidance and for generously sharing the materials.",
+    "text": "Date\nTopic\nAssignment (due dates on Brightspace)\nSlides**\nSupplementary Materials\n\n\n\n\n8/19/24\nLesson 1: Technical Enablers of Modern Data-Driven Decision Making\nQuiz #1Exercise #1\nslides\n- Video: The NBA Data Scientist- Video: Hans Rosling’s 200 Countries, 200 Years\n\n\n8/26/24\nLesson 2: Data Organization for Using Data to Drive Decisions\nQuiz #2Exercise #2\nslides\n- Video: Relational vs. Non-Relational Databases\n\n\n9/2/24\nNo class* - Labor Day - Lesson 3: Tools for Using Data to Drive Decisions\nQuiz #3Exercise #3\n\n\n\n\n9/9/24\nLesson 4: Introduction to R and RStudio\nQuiz #4Exercise #4\nslidesscript\n- Video: RStudio is now Posit!\n\n\n9/16/24\nLesson 5: Installing Packages and Importing Data in R\nQuiz #5Exercise #5\nslidesscriptdata\n- Video: It’s a Great Time to be an R Package Developer!- Blog: Quick list of useful R packages- Posit R packages\n\n\n9/23/24\nLesson 6: Data Types and Viewing Data Types in R\nQuiz #6Exercise #6\nslidesscriptdata\n- R Data Types- Dates with Lubridate- Categorical Data\n\n\n9/30/24\nLesson 7: Key Steps of Performing Data Mining in R\nQuiz #7Exercise #7\nslidesscript\n- Blog: Data Mining in R - Blog: Data Mining with R\n\n\n10/7/24\nNo class* - Fall Break - Lesson 8: Most Applied Data Mining Techniques\nQuiz #8Exercise #8\n.\n.\n\n\n10/14/24\nLesson 9: Exploratory Data Analysis in R: Summary Statistics\nQuiz #9Exercise #9\nslidesscript\n- R4DS: Exploratory Data Analysis - IBM: What is Exploratory Data Analysis?\n\n\n10/21/24\nLesson 10: Exploratory Data Analysis in R: Visualization and Dashboarding\nQuiz #10Exercise #10\n.\n.\n\n\n10/28/24\nLesson 11: Mine Data through Predictive Modeling in R\nQuiz #11Exercise #11\n.\n.\n\n\n11/4/24\nLesson 12: Identifying Significant Predictors\nQuiz #12Exercise #12\n.\n.\n\n\n11/11/24\nLesson 13: Predictive Model Interpretations and Predictions\nQuiz #13Exercise #13\n.\n.\n\n\n11/18/24\nLesson 14: Evaluating Predictive Model Performance\nQuiz #14Exercise #14\n.\n.\n\n\n11/25/24\nLesson 15: Bringing It All Together: From Data to Insights to Decisions\nQuiz #15Exercise #15\n.\n.\n\n\n12/2/24\nProject presentation and report due\nProject presentation submission\n.\n.\n\n\n12/9/24\nFinal Exam (online) 4:00 PM - 6:00 PM\n.\n.\n\n\n\n\n*Please note that for the two classes missed due to holidays and breaks, there will be no make-up sessions. However, students are expected to independently complete the assigned readings and exercises during these periods. While class discussions won’t take place, engaging with the materials and teammates will ensure you stay on track with the course content.\n** Course material adapted from the textbook and previous course editions to better fit our curriculum. Thanks to Professor Zhiwei Zhu, Dr. Z.Z, for guidance and for generously sharing the materials.",
     "crumbs": [
       "Schedule and Material"
     ]
@@ -1226,5 +1226,131 @@
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "",
     "text": "Lesson 06 Exercise Review\nLesson Question!\nThe 8 Key Steps of a Data Mining Project"
+  },
+  {
+    "objectID": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#overview",
+    "href": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#overview",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Overview",
+    "text": "Overview\n\n\n\n\nLesson 07 Exercise Review\nLesson Question!\nCourse Learning Milestones\nThe 8 Key Steps of a Data Mining Project\n\n\n\nData Mining\nExploratory Data Analysis (EDA)\nObtaining Summary Statistics with R"
+  },
+  {
+    "objectID": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#data-mining-1",
+    "href": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#data-mining-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Data Mining",
+    "text": "Data Mining\n\n\nExploratory Data Analysis (EDA): EDA is the Data Mining initial step. It involves the examination and analysis of datasets to gain an understanding of the actual and potential aspects of the data using summarization and visualization techniques.\nInferential Data Analysis: In contrast, this step refines available data, identifying valuable information such as potential patterns, relationships, trends, and assessing their reliability."
+  },
+  {
+    "objectID": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#exploratory-data-analysis-eda-1",
+    "href": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#exploratory-data-analysis-eda-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Exploratory Data Analysis (EDA)",
+    "text": "Exploratory Data Analysis (EDA)\n\n\nEDA aids analysts in comprehending the available data and serves as a means to detect potential data issues, such as missing values, outliers, or inconsistencies.\nEDA primarily comprises two main categories:\n\nData Summarization: Involves obtaining summary statistics.\nData Visualization: Entails presenting raw data or summary statistics through plots."
+  },
+  {
+    "objectID": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#the-history-of-summary-statistics-1",
+    "href": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#the-history-of-summary-statistics-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "The History of Summary Statistics",
+    "text": "The History of Summary Statistics\nThe concept of summary statistics has its origins in ancient times, with early civilizations collecting and analyzing data. However, the formal development and systematic application of summary statistics emerged during the 19th and 20th centuries, thanks to significant contributions from statisticians and mathematicians."
+  },
+  {
+    "objectID": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#mid-20th-century-developments",
+    "href": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#mid-20th-century-developments",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Mid-20th Century Developments",
+    "text": "Mid-20th Century Developments\nThe mid-20th century witnessed the development of computers and the growth of data-driven disciplines, which further popularized the application of summary statistics.\nStatisticians and researchers began to formalize and expand the range of summary statistics available for different types of data."
+  },
+  {
+    "objectID": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#late-20th-century-to-present",
+    "href": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#late-20th-century-to-present",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Late 20th Century to Present",
+    "text": "Late 20th Century to Present\nThe late 20th century saw the proliferation of statistical software and spreadsheet tools, facilitating the widespread use of summary statistics across various fields.\nAs data analysis continues to evolve, summary statistics remain a fundamental tool for efficiently understanding and interpreting data.\nBased on the content provided in the images, here’s a Quarto slide code that you can use for your presentation. This includes formatting the content for different slides and incorporating headings, bullet points, and code blocks as displayed in the images:"
+  },
+  {
+    "objectID": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#obtaining-summary-statistics-with-r-1",
+    "href": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#obtaining-summary-statistics-with-r-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Obtaining Summary Statistics with R",
+    "text": "Obtaining Summary Statistics with R\nSummary statistics, often referred to as descriptive statistics, encompass various measures, including those of:\n\nCentral tendency (e.g., mean, median, mode)\nMeasures of dispersion (e.g., variance, standard deviation, range)\nMeasures of shape (e.g., skewness, kurtosis)\n\n\nThese summary statistics provide specific insights into data distribution and characteristics. They are indispensable in data analysis across domains like statistics, data science, social sciences, finance, and business."
+  },
+  {
+    "objectID": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#purposes-of-descriptive-statistics-in-data-mining",
+    "href": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#purposes-of-descriptive-statistics-in-data-mining",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Purposes of Descriptive Statistics in Data Mining",
+    "text": "Purposes of Descriptive Statistics in Data Mining\nDescriptive statistics serve multiple purposes, including:\n\nSummarizing data: This involves calculating summary statistics for variables, such as mean, median, standard deviation, and frequency distribution.\n\n\nIn R, you can use functions like:\n\n   summary(), mean(), median(), and table()\n\nto summarize data.\n\nExploring relationships: This involves exploring relationships between two or more variables to identify correlations or associations.\n\n\n\nIn R, you can use functions like:\n\n   cor() and cov()\n\nto obtain relationship-related summary statistics."
+  },
+  {
+    "objectID": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#understanding-summary-statistics-for-different-data-types",
+    "href": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#understanding-summary-statistics-for-different-data-types",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Understanding Summary Statistics for Different Data Types",
+    "text": "Understanding Summary Statistics for Different Data Types\nDifferent data types may require distinct descriptive statistics.\n\nNumeric variables have statistics like mean, median, variance, etc.\nCategorical data have meaningful statistics like count and proportion.\n\n\nWhen applying the R function summary() to variable(s), it automatically generates descriptive statistics tailored to the data type. For character data, which is not meant for calculation, no descriptive statistics are generated."
+  },
+  {
+    "objectID": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#example-exploring-the-mtcars-dataset-in-r-1",
+    "href": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#example-exploring-the-mtcars-dataset-in-r-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Example: Exploring the mtcars Dataset in R",
+    "text": "Example: Exploring the mtcars Dataset in R\nTo explore the mtcars dataset, you can:\n\nOpen the CarDataMining script created in previous lessons.\nAdd and run the following code.\n\n\nsummary(mtcars)\n\nThis code obtains a set of summary statistics for all variables in the data file."
+  },
+  {
+    "objectID": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#comparing-summary-statistics-for-numeric-and-categorical-variables",
+    "href": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#comparing-summary-statistics-for-numeric-and-categorical-variables",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Comparing Summary Statistics for Numeric and Categorical Variables",
+    "text": "Comparing Summary Statistics for Numeric and Categorical Variables\n\nYou can compare summary statistics that R generates for numeric and categorical variables:\n\n\nmtcars$am1 &lt;- as.factor(mtcars$am)\n\nsummary(mtcars$am1)\n\n\nSince the variable am is numerical and am1 is defined as categorical, summary() produces different statistics for them."
+  },
+  {
+    "objectID": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#calculating-specific-summary-statistics-in-r",
+    "href": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#calculating-specific-summary-statistics-in-r",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Calculating Specific Summary Statistics in R",
+    "text": "Calculating Specific Summary Statistics in R\n\nTo calculate the average horse power of all cars:\n\n\n\nmean(mtcars$hp)\n\n\nTo obtain counts of automatic or manual cars:\n\n\n\n\ntable(mtcars$am)\n\n\nTo explore relationships between variables:\n\n\n\n\ncor(mtcars$mpg, mtcars$hp)"
+  },
+  {
+    "objectID": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#summary-1",
+    "href": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#summary-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Summary",
+    "text": "Summary\n\n\nMain Takeaways from this lecture:\n\nExploratory Data Analysis (EDA) is a crucial first step in the data mining process.\n\nIt involves understanding and summarizing the main characteristics of a dataset.\n\nTwo primary categories of EDA:\n\nData Summarization: Involves generating descriptive statistics.\n\nSummarizing data: Providing a concise overview of variables. Summary statistics include measures of central tendency, dispersion, and shape.\nExploring relationships: Identifying correlations and associations between variables.\n\nData Visualization: Helps in visualizing data patterns and insights.\n\nR functions like summary(), mean(), median(), table(), cor(), and cov() are used to explore data and identify key statistics."
+  },
+  {
+    "objectID": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#the-8-key-steps-of-a-data-mining-project",
+    "href": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#the-8-key-steps-of-a-data-mining-project",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "The 8 Key Steps of a Data Mining Project",
+    "text": "The 8 Key Steps of a Data Mining Project\nGoal Setting:\n1. **Define the project’s goal**  \nData Understanding:\n2. **Acquire analysis tools**  \n3. **Prepare data**  \n4. **Data summarization**  \n5. **Data visualization**  \nInsights:\n6. **Data mining modeling**  \n7. **Model validation**  \n8. **Interpretation and implementation**"
+  },
+  {
+    "objectID": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#exploring-the-mtcars-dataset-in-r-1",
+    "href": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#exploring-the-mtcars-dataset-in-r-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Exploring the mtcars Dataset in R",
+    "text": "Exploring the mtcars Dataset in R\nTo explore the mtcars dataset, you can:\n\nOpen the CarDataMining script created in previous lessons.\nAdd and run the following code.\n\n\n\nsummary(mtcars)\n\nThis code obtains a set of summary statistics for all variables in the data file."
+  },
+  {
+    "objectID": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#the-8-key-steps-of-a-data-mining-project-1",
+    "href": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#the-8-key-steps-of-a-data-mining-project-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "The 8 Key Steps of a Data Mining Project",
+    "text": "The 8 Key Steps of a Data Mining Project\n\n\n\nGoal Setting\n\nDefine the project’s goal\n\n\n\nData Understanding\n\nAcquire analysis tools\n\nPrepare data\n\nData summarization\n\nData visualization\n\n\n\nInsights\n\nData mining modeling\n\nModel validation\n\nInterpretation and implementation"
+  },
+  {
+    "objectID": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#three-column-layout",
+    "href": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#three-column-layout",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Three-Column Layout",
+    "text": "Three-Column Layout\n\n\nColumn 1\n\nContent for the first column.\nThis can include bullet points, text, or images.\nCustomize the width and alignment as needed.\n\n\nColumn 2\n\nContent for the second column.\nAdd more text, code, or visuals here.\n\n\nColumn 3\n\nContent for the third column.\nThis section can be used for additional details or complementary content."
+  },
+  {
+    "objectID": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#course-learning-milestones-1",
+    "href": "lecture_slides/09_lesson_m3dm/09_lesson_m3dm.html#course-learning-milestones-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Course Learning Milestones",
+    "text": "Course Learning Milestones"
   }
 ]
