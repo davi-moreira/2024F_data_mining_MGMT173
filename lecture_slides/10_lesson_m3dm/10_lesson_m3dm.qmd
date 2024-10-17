@@ -1,0 +1,643 @@
+---
+title: "<span style = 'font-size: 100%;'> MGMT 17300: Data Mining Lab </span>"
+subtitle: "<span style = 'font-size: 150%;'>Exploratory Data Analysis in R: Visualization and Dashboarding</span>"
+author: "Professor: Davi Moreira"
+date: "2024-08-01"
+date-format: "MMMM DD, YYYY"
+format:
+  revealjs: 
+    transition: slide
+    background-transition: fade
+    width: 1600
+    height: 900
+    center: true
+    slide-number: true
+    incremental: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    #logo: figs/quarto.png
+    footer: "Data Mining Lab"
+    theme: [simple,custom.scss]
+---
+
+## Overview
+
+:::::: nonincremental
+::::: columns
+::: {.column width="50%" style="text-align: center; justify-content: center; align-items: center;"}
+-   Lesson Exercise Review
+
+-   Lesson Question!
+
+-   Course Learning Milestones
+
+-   The 8 Key Steps of a Data Mining Project
+
+:::
+
+::: {.column width="50%" style="text-align: center; justify-content: center; align-items: center;"}
+
+- Introduction to `ggplot()`
+
+- Going Beyond the Basics
+
+- The Grammar of Graphics
+
+- Themes
+
+- Computed Statistics
+
+- Positioning Elements
+
+- Defining Coordinates
+
+:::
+:::::
+::::::
+
+# Lesson Exercises Review {background-color="#cfb991"}
+
+# Lesson Question! {background-color="#cfb991"}
+
+# Course Learning Milestones {background-color="#cfb991"}
+
+## Course Learning Milestones
+
+<center>![](figs/13_course_learning_milestones.jpg){width="60%"}</center>
+
+# The 8 Key Steps of a Data Mining Project {background-color="#cfb991"}
+
+## The 8 Key Steps of a Data Mining Project
+
+<br>
+
+:::::: columns
+::: {.column width="33%"}
+### Goal Setting
+
+1.  **Define the project’s goal**\
+:::
+
+::: {.column width="33%"}
+### Data Understanding
+
+2.  **Acquire analysis tools**\
+3.  **Prepare data**\
+4.  **Data summarization**\
+5.  **Data visualization**\
+:::
+
+::: {.column width="33%"}
+### Insights
+
+6.  **Data mining modeling**\
+7.  **Model validation**\
+8.  **Interpretation and implementation**
+:::
+::::::
+
+# Introduction to `ggplot()` {background-color="#cfb991"}
+
+
+## Introduction to `ggplot()`
+
+<br>
+
+The `gg` in `ggplot()` refers to the [Grammar of Graphics](http://vita.had.co.nz/papers/layered-grammar.pdf). More than just a graphics package, `ggplot()` is a set of principles about data visualization and plot construction.
+
+```{r results='hide', warning=FALSE, message=FALSE}
+library(ggplot2)
+library(tidyverse)
+```
+
+## First Steps
+
+<br>
+
+We will use a dataset about car characteristics to illustrate the step-by-step construction of a plot. Then, we'll apply the same principles to a more interesting dataset.
+
+```{r eval=FALSE, message=FALSE, warning=FALSE, results='hide'}
+head(mpg)
+```
+
+We are going to check the association between a car's engine size (`displ`) and fuel efficiency (`hwy`).
+
+To create the plot, we just need to tell `ggplot` which dataset to use (`data`), what type of function (`geom_point`), and which variables for the x and y axes (`mapping`).
+
+```{r message=FALSE, warning=FALSE, results='hide', fig.align='center'}
+mpg %>% ggplot() +  # base plot
+      geom_point(mapping = aes(x = displ, y = hwy))  # add a layer of points
+```
+
+<br>
+
+## Grammar of Graphics
+
+:::{.nonincremental}
+
+Note that the logic of constructing the plots was to create a base plot with the `ggplot()` function, and then include a layer with the graphical elements.
+
+**This is always the logic**: create a simple figure and successively add layers with the information we want.
+
+The plot we made is quite simple and has only 3 steps:
+
+1. Defining the dataset to be used (`data = mpg`)
+2. Defining the type of plot to be used (`geom_point`)
+3. Defining the *mapping* of information in the plot (`mapping = aes(x = displ, y = hwy)`)
+
+To make more sophisticated plots, we can add more information to the existing layers or add more layers. Before going further, it's your turn to make a plot.
+
+:::
+
+<!---
+## Exercise
+
+Choose another variable from the `mpg` dataset and develop a similar plot to the one we saw.
+
+## Exercise: Answer
+
+```{r message=FALSE, warning=FALSE, results='hide'}
+mpg %>% ggplot() +  # base plot
+      geom_point(mapping = aes(x = cty, y = hwy))  # add a layer of points
+```
+--->
+
+# Going Beyond the Basics  {background-color="#cfb991"}
+
+## The Grammar of Graphics
+
+:::{.nonincremental}
+
+We have just gone through all the elements of a complete syntax for information visualization. Let's review the fundamentals of this grammar:
+
+1. Defining the data to be used: `data`
+2. Defining the type of graphical element: `geom`
+3. Linking data and graphical elements: `mapping`
+4. Defining the statistic to be displayed: `stat`
+5. Positioning graphical elements: `position`
+6. Defining coordinates: `coord`
+7. Graphically separating different elements: `facet`
+
+Mastering these fundamentals gives you enormous freedom to visualize any type of information! Let's move on to a more complex example.
+
+:::
+
+## Including More Information in a Layer
+
+<br>
+
+The `mpg` dataset has a variable (`class`) with the type of car: "compact", "SUV", etc. We can include this information by coloring each class.
+
+```{r fig.height = 3, fig.align="center"}
+mpg %>% ggplot() + 
+  geom_point(mapping = aes(x = displ, y = hwy, color = class))
+```
+
+## Be Careful with What Goes Inside and Outside the Parentheses
+
+<br>
+
+If you want to color all the points green, regardless of the car type, the code will have a difference that, at first, seems subtle.
+
+```{r fig.height = 3, fig.align="center"}
+mpg %>% ggplot() + 
+  geom_point(mapping = aes(x = displ, y = hwy), color = "darkgreen")
+```
+
+## Be Careful with What Goes Inside and Outside the Parentheses
+
+<br>
+
+See the difference! What happened?
+
+```{r fig.height = 3, fig.align="center"}
+mpg %>% ggplot() + 
+  geom_point(mapping = aes(x = displ, y = hwy, color = "darkgreen"))
+```
+
+## Adding Another Layer
+
+<br>
+
+Perhaps, even when giving a color to each car category, you found that the difference was not very clear. One option is to place each category on its own scale, which we can do with the `facet_wrap()` function.
+
+```{r fig.height = 3, fig.align="center"}
+mpg %>% ggplot() + 
+  geom_point(mapping = aes(x = displ, y = hwy)) +
+  facet_wrap(~ class, nrow = 1)
+```
+
+## More than One Piece of Information in the Same Plot
+
+<br>
+
+Adding new layers also serves to place different elements in the plot. If we want to draw a fitting curve on the original plot, just add the `geom_smooth()` element.
+
+```{r fig.align="center", fig.height= 2.7, message=FALSE, warning=FALSE}
+mpg %>% ggplot() + 
+  geom_point(mapping = aes(x = displ, y = hwy)) +
+  geom_smooth(mapping = aes(x = displ, y = hwy), se = FALSE)
+```
+
+# Themes  {background-color="#cfb991"}
+
+## Themes
+
+<br>
+
+Beyond the structural elements we've seen, a good data presentation also depends on aesthetic adjustments. Let's briefly cover some possibilities.
+
+`ggplot` already comes with some predefined themes. You are not obliged to like that gray background: let's reproduce the plot of the relationship between engine size and efficiency, using the themes `theme_bw`, `theme_light`, `theme_dark`, `theme_minimal`, and `theme_classic`.
+
+## Original Plot
+
+```{r fig.height = 5, fig.align="center"}
+mpg %>% ggplot() + 
+  geom_point(mapping = aes(x = displ, y = hwy))
+```
+
+## Black and White
+
+```{r fig.height = 4.5, fig.align="center"}
+mpg %>% ggplot() + 
+  geom_point(mapping = aes(x = displ, y = hwy)) +
+  theme_bw()
+```
+
+## Light
+
+```{r fig.height = 4.5, fig.align="center"}
+mpg %>% ggplot() + 
+  geom_point(mapping = aes(x = displ, y = hwy)) +
+  theme_light()
+```
+
+## Dark
+
+```{r fig.height = 4.5, fig.align="center"}
+mpg %>% ggplot() + 
+  geom_point(mapping = aes(x = displ, y = hwy)) +
+  theme_dark()
+```
+
+## Minimal
+
+```{r fig.height = 4.5, fig.align="center"}
+mpg %>% ggplot() + 
+  geom_point(mapping = aes(x = displ, y = hwy)) +
+  theme_minimal()
+```
+
+## Classic
+
+```{r fig.height = 4.5, fig.align="center"}
+mpg %>% ggplot() + 
+  geom_point(mapping = aes(x = displ, y = hwy)) +
+  theme_classic()
+```
+
+## Other Themes?
+
+:::{.nonincremental}
+
+For those who didn't like these themes, there are two options:
+
+- You can change **absolutely everything** in the plot with the `theme()` function, element by element. For that, you need to have a good eye for graphic design, as well as patience to tweak each detail. See the number of arguments that can be changed with the `?theme` command.
+
+- Install external packages with ready-made themes. Two that I really like are [ggthemes](https://yutannihilation.github.io/allYourFigureAreBelongToUs/ggthemes/) and [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes)
+
+On Google, you can also find many other packages.
+
+:::
+
+# Computed Statistics {background-color="#cfb991"}
+
+## Types of Plots
+
+<br>
+
+All the examples above were made with scatter plots. `ggplot` supports many other types of plots: bars, areas, lines, pie charts (ugh!), etc.
+
+**The important thing is that the logic is the same!** What changes is the type of statistic relevant for each plot. In the scatter plot, we used the values of the observations in our dataset, but for other plots, we need other statistics: counts for bar plots, predicted values for fit curves, dispersion measures for boxplots, etc.
+
+Let's load a new dataset to illustrate this point and play a bit with bar plots.
+
+```{r message=FALSE, warning=FALSE, results='hide'}
+?diamonds
+```
+
+## Simple Bar Plot
+
+<br>
+
+The code for a bar plot follows the same reasoning as the previous plots, and you'll notice that the only thing we need to change is the type of function used to map the data: instead of `geom_point()`, we use `geom_bar()`.
+
+```{r fig.height = 3, fig.align="center"}
+diamonds %>% ggplot() + 
+  geom_bar(mapping = aes(x = cut))
+```
+
+## Calculating Statistics
+
+<br>
+
+::: {style="font-size: 80%;"}
+
+Unlike the scatter plot, we don't need to specify anywhere the variable that contains the number of diamonds for each type of cut (even because this variable doesn't exist in the dataset!).
+
+`ggplot()` recognizes that when we use `geom_bar()`, the relevant statistic is the **count** within each category and calculates this automatically. Other functions calculate other statistics by default (you can consult the `stat` argument in `?geom_bar`).
+
+<center>
+<img src="figs/visualization-stat-bar.png" width="1100px">
+</center>
+
+:::
+
+<!---
+## Exercise
+
+Select another variable in the `diamonds` dataset to produce a new bar plot.
+
+## Exercise: Answer
+
+```{r fig.height = 3.5, fig.align="center"}
+diamonds %>% ggplot() + 
+  geom_bar(mapping = aes(x = clarity))
+```
+--->
+
+## Calculating Statistics
+
+<br>
+
+Every plot has a default statistic, but we can make changes to relate two different variables, for example:
+
+```{r fig.height = 2, fig.align="center"}
+# Relationship between cut type and diamond dimensions
+diamonds %>% ggplot() + 
+  stat_summary(
+    mapping = aes(x = cut, y = depth),
+    fun.min = min,
+    fun.max = max,
+    fun = median
+  )
+```
+
+# Positioning Elements  {background-color="#cfb991"}
+
+## Changing the Colors of Bars
+
+<br>
+
+Similar to the scatter plot, we can change the color of the bars with the `fill` argument.
+
+```{r fig.height = 3.5, fig.align="center"}
+diamonds %>% ggplot() + 
+  geom_bar(mapping = aes(x = cut, fill = cut))  # What if I wanted all bars to be red?
+```
+
+## Changing the Colors of Bars
+
+<br>
+
+Again, similar to the scatter plot, we can change the color of the bars with the `fill` argument (but this is not very useful—why?)
+
+```{r fig.height = 3.5, fig.align="center"}
+diamonds %>% ggplot() + 
+  geom_bar(mapping = aes(x = cut, fill = cut))
+```
+
+## Defining Colors by Clarity
+
+<br>
+
+It would be more useful to define the colors by some information that is not already conveyed by the plot. For example, discriminating the diamonds by clarity.
+
+```{r fig.height = 3.5, fig.align="center"}
+diamonds %>% ggplot() + 
+  geom_bar(mapping = aes(x = cut, fill = clarity))
+```
+
+## Adjusting the Positioning of Elements
+
+<br>
+
+The idea of filling (`fill`) is important because it can also be used to alter the arrangement of graphical elements. For example, if we want a bar plot with relative values, we can fill the entire plotting area:
+
+```{r fig.height = 3.5, fig.align="center"}
+diamonds %>% ggplot() + 
+  geom_bar(mapping = aes(x = cut, fill = clarity), position = "fill")
+```
+
+## Adjusting the Positioning of Elements
+
+<br>
+
+Alternatively, we might want the graphical elements to "dodge" each other, so they are not stacked:
+
+```{r fig.height = 4, fig.align="center"}
+ggplot(data = diamonds) + 
+  geom_bar(mapping = aes(x = cut, fill = clarity), position = "dodge")
+```
+
+# Defining Coordinates {background-color="#cfb991"}
+
+## Defining Coordinates
+
+<br>
+
+Another way to change the arrangement of elements in the plot is to alter their coordinates. Let's return to our plot of diamonds by cut:
+
+```{r fig.height = 3.5, fig.align="center"}
+diamonds %>% ggplot() + 
+  geom_bar(mapping = aes(x = cut, fill = cut))
+```
+
+## Defining Coordinates
+
+<br>
+
+A first relatively obvious coordinate transformation is to make the bars horizontal. To do this, simply use the `coord_flip()` function.
+
+```{r fig.height = 3.5, fig.align="center"}
+diamonds %>% ggplot() + 
+  geom_bar(mapping = aes(x = cut, fill = cut)) +
+  coord_flip()
+```
+
+## Defining Coordinates
+
+<br>
+
+A less obvious transformation is to make the bars radiate from a single point with radial dispersion.
+
+```{r fig.height = 4, fig.align="center"}
+diamonds %>% ggplot() + 
+  geom_bar(mapping = aes(x = cut, fill = cut)) +
+  coord_polar()
+```
+
+## And the Pie Chart?
+
+<center>
+<img src="figs/steve-jobs-pie.jpg" width="950px">
+
+[About Pie Charts](https://stats.stackexchange.com/questions/8974/problems-with-pie-charts){target="_blank"}
+</center>
+
+# Animations  {background-color="#cfb991"}
+
+## To Create Animations, Use the `gganimate` Package
+
+```{r fig.show="hide", message=FALSE, warning=FALSE, fig.height=5, cache=TRUE}
+library(gganimate)
+library(gapminder)
+
+gapminder %>% ggplot(aes(gdpPercap, lifeExp, size = pop, colour = country)) +
+  geom_point(alpha = 0.7, show.legend = FALSE) +
+  scale_colour_manual(values = country_colors) +
+  scale_size(range = c(2, 12)) +
+  scale_x_log10() +
+  # Specific code for the animation
+  labs(title = 'Year: {frame_time}', x = 'GDP per capita', y = 'Life Expectancy') +
+  transition_time(year) +
+  ease_aes('linear')
+```
+
+## Result
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, fig.height=5, cache=TRUE}
+library(gganimate)
+library(gapminder)
+
+gapminder %>% ggplot(aes(gdpPercap, lifeExp, size = pop, colour = country)) +
+  geom_point(alpha = 0.7, show.legend = FALSE) +
+  scale_colour_manual(values = country_colors) +
+  scale_size(range = c(2, 12)) +
+  scale_x_log10() +
+  # Specific code for the animation
+  labs(title = 'Year: {frame_time}', x = 'GDP per capita', y = 'Life Expectancy') +
+  transition_time(year) +
+  ease_aes('linear')
+```
+
+## Dynamic X-Axis
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, fig.height=5, cache=TRUE}
+gapminder %>% ggplot(aes(gdpPercap, lifeExp, size = pop, colour = country)) +
+  geom_point(alpha = 0.7, show.legend = FALSE) +
+  scale_colour_manual(values = country_colors) +
+  scale_size(range = c(2, 12)) +
+  scale_x_log10() +
+  # Specific code for the animation
+  labs(title = 'Year: {frame_time}', x = 'GDP per capita', y = 'Life Expectancy') +
+  transition_time(year) +
+  labs(title = "Year: {frame_time}") +
+  view_follow(fixed_y = TRUE)
+```
+
+## Trailing Points
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, fig.height=5, cache=TRUE}
+gapminder %>% ggplot(aes(gdpPercap, lifeExp, size = pop, colour = country)) +
+  geom_point(alpha = 0.7, show.legend = FALSE) +
+  scale_colour_manual(values = country_colors) +
+  scale_size(range = c(2, 12)) +
+  scale_x_log10() +
+  # Specific code for the animation
+  labs(title = 'Year: {frame_time}', x = 'GDP per capita', y = 'Life Expectancy') +
+  transition_time(year) +
+  labs(title = "Year: {frame_time}") +
+  shadow_wake(wake_length = 0.2, alpha = FALSE)
+```
+
+## Countries Separated by Continent
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, fig.height=5, cache=TRUE}
+gapminder %>% ggplot(aes(gdpPercap, lifeExp, size = pop, colour = country)) +
+  geom_point(alpha = 0.7, show.legend = FALSE) +
+  scale_colour_manual(values = country_colors) +
+  scale_size(range = c(2, 12)) +
+  scale_x_log10() +
+  facet_wrap(~continent) +
+  # Specific code for the animation
+  labs(title = 'Year: {frame_time}', x = 'GDP per capita', y = 'Life Expectancy') +
+  transition_time(year) +
+  ease_aes('linear')
+```
+
+## Datasaurus
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, fig.height=5, cache=TRUE}
+library(datasauRus)
+
+datasaurus_dozen %>% ggplot(aes(x = x, y = y)) +
+  geom_point() +
+  theme_minimal() +
+  transition_states(dataset, 3, 1) + 
+  ease_aes('cubic-in-out')
+```
+
+<center>
+[Datasaurus](https://cran.r-project.org/web/packages/datasauRus/vignettes/Datasaurus.html){target="_blank"}
+</center>
+
+## Temperatures
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, fig.height=5, cache=TRUE}
+airq <- airquality
+airq$Month <- format(ISOdate(2004,1:12,1),"%B")[airq$Month]
+
+airq %>% ggplot(aes(Day, Temp, group = Month)) + 
+  geom_line() + 
+  geom_segment(aes(xend = 31, yend = Temp), linetype = 2, colour = 'grey') + 
+  geom_point(size = 2) + 
+  geom_text(aes(x = 31.1, label = Month), hjust = 0) + 
+  transition_reveal(Day) + 
+  coord_cartesian(clip = 'off') + 
+  labs(title = 'Temperature in New York', y = 'Temperature (°F)') + 
+  theme_minimal() + 
+  theme(plot.margin = margin(5.5, 40, 5.5, 5.5))
+```
+
+# Conclusion {background-color="#cfb991"}
+
+## Conclusion
+
+<br>
+
+What we've seen is more than just a tool for creating plots. It's a complete syntax that allows you to **think** about the information you want to convey and **produce** practically any type of plot that suits your needs.
+
+`ggplot()` allows for an infinite number of plot types. It wouldn't be worthwhile to do an extensive survey at this time, as that would be tedious and would end up hindering the absorption of the fundamentals of the grammar of graphics.
+
+# Summary {background-color="#cfb991"}
+
+## Summary
+
+:::: nonincremental
+::: {style="font-size: 80%;"}
+
+Main Takeaways from this lecture:
+
+- **Understanding `ggplot()` and the Grammar of Graphics**: Plots are constructed by creating a base plot and successively adding layers of graphical elements.
+
+- **Advanced Plotting Techniques**:
+
+    - Adding more layers to include additional information (e.g., `geom_smooth()` for trend lines).
+    - Using `facet_wrap()` and `facet_grid()` to create multi-panel plots for different subsets of data.
+    - Transforming plots with coordinate functions like `coord_flip()` for horizontal plots and `coord_polar()` for radial plots.
+
+- **Working with Computed Statistics**: Recognize that `ggplot2` can compute statistics automatically (e.g., counts in `geom_bar()`).
+
+- **Creating Animations with `gganimate`**: Animations can illustrate changes over time or transitions between states in the data.
+
+- **Effective Data Visualization Practices**
+
+    - Emphasize the importance of choosing the right type of plot for the data and the message.
+    - Understand that effective visualizations are crucial for exploratory data analysis and communicating insights.
+    - Apply the Grammar of Graphics principles to create clear, informative, and aesthetically pleasing plots.
+:::
+::::
+
+# Thank you! {background-color="#cfb991"}

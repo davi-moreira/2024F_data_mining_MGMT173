@@ -153,7 +153,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Date\nTopic\nAssignment (due dates on Brightspace)\nSlides**\nSupplementary Materials\n\n\n\n\n8/19/24\nLesson 1: Technical Enablers of Modern Data-Driven Decision Making\nQuiz #1Exercise #1\nslides\n- Video: The NBA Data Scientist- Video: Hans Rosling’s 200 Countries, 200 Years\n\n\n8/26/24\nLesson 2: Data Organization for Using Data to Drive Decisions\nQuiz #2Exercise #2\nslides\n- Video: Relational vs. Non-Relational Databases\n\n\n9/2/24\nNo class* - Labor Day - Lesson 3: Tools for Using Data to Drive Decisions\nQuiz #3Exercise #3\n\n\n\n\n9/9/24\nLesson 4: Introduction to R and RStudio\nQuiz #4Exercise #4\nslidesscript\n- Video: RStudio is now Posit!\n\n\n9/16/24\nLesson 5: Installing Packages and Importing Data in R\nQuiz #5Exercise #5\nslidesscriptdata\n- Video: It’s a Great Time to be an R Package Developer!- Blog: Quick list of useful R packages- Posit R packages\n\n\n9/23/24\nLesson 6: Data Types and Viewing Data Types in R\nQuiz #6Exercise #6\nslidesscriptdata\n- R Data Types- Dates with Lubridate- Categorical Data\n\n\n9/30/24\nLesson 7: Key Steps of Performing Data Mining in R\nQuiz #7Exercise #7\nslidesscript\n- Blog: Data Mining in R - Blog: Data Mining with R\n\n\n10/7/24\nNo class* - Fall Break - Lesson 8: Most Applied Data Mining Techniques\nQuiz #8Exercise #8\n.\n.\n\n\n10/14/24\nLesson 9: Exploratory Data Analysis in R: Summary Statistics\nQuiz #9Exercise #9\nslidesscript\n- R4DS: Exploratory Data Analysis - IBM: What is Exploratory Data Analysis?\n\n\n10/21/24\nLesson 10: Exploratory Data Analysis in R: Visualization and Dashboarding\nQuiz #10Exercise #10\n.\n.\n\n\n10/28/24\nLesson 11: Mine Data through Predictive Modeling in R\nQuiz #11Exercise #11\n.\n.\n\n\n11/4/24\nLesson 12: Identifying Significant Predictors\nQuiz #12Exercise #12\n.\n.\n\n\n11/11/24\nLesson 13: Predictive Model Interpretations and Predictions\nQuiz #13Exercise #13\n.\n.\n\n\n11/18/24\nLesson 14: Evaluating Predictive Model Performance\nQuiz #14Exercise #14\n.\n.\n\n\n11/25/24\nLesson 15: Bringing It All Together: From Data to Insights to Decisions\nQuiz #15Exercise #15\n.\n.\n\n\n12/2/24\nProject presentation and report due\nProject presentation submission\n.\n.\n\n\n12/9/24\nFinal Exam (online) 4:00 PM - 6:00 PM\n.\n.\n\n\n\n\n*Please note that for the two classes missed due to holidays and breaks, there will be no make-up sessions. However, students are expected to independently complete the assigned readings and exercises during these periods. While class discussions won’t take place, engaging with the materials and teammates will ensure you stay on track with the course content.\n** Course material adapted from the textbook and previous course editions to better fit our curriculum. Thanks to Professor Zhiwei Zhu, Dr. Z.Z, for guidance and for generously sharing the materials.",
+    "text": "Date\nTopic\nAssignment (due dates on Brightspace)\nSlides**\nSupplementary Materials\n\n\n\n\n8/19/24\nLesson 1: Technical Enablers of Modern Data-Driven Decision Making\nQuiz #1Exercise #1\nslides\n- Video: The NBA Data Scientist- Video: Hans Rosling’s 200 Countries, 200 Years\n\n\n8/26/24\nLesson 2: Data Organization for Using Data to Drive Decisions\nQuiz #2Exercise #2\nslides\n- Video: Relational vs. Non-Relational Databases\n\n\n9/2/24\nNo class* - Labor Day - Lesson 3: Tools for Using Data to Drive Decisions\nQuiz #3Exercise #3\n\n\n\n\n9/9/24\nLesson 4: Introduction to R and RStudio\nQuiz #4Exercise #4\nslidesscript\n- Video: RStudio is now Posit!\n\n\n9/16/24\nLesson 5: Installing Packages and Importing Data in R\nQuiz #5Exercise #5\nslidesscriptdata\n- Video: It’s a Great Time to be an R Package Developer!- Blog: Quick list of useful R packages- Posit R packages\n\n\n9/23/24\nLesson 6: Data Types and Viewing Data Types in R\nQuiz #6Exercise #6\nslidesscriptdata\n- R Data Types- Dates with Lubridate- Categorical Data\n\n\n9/30/24\nLesson 7: Key Steps of Performing Data Mining in R\nQuiz #7Exercise #7\nslidesscript\n- Blog: Data Mining in R - Blog: Data Mining with R\n\n\n10/7/24\nNo class* - Fall Break - Lesson 8: Most Applied Data Mining Techniques\nQuiz #8Exercise #8\n.\n.\n\n\n10/14/24\nLesson 9: Exploratory Data Analysis in R: Summary Statistics\nQuiz #9Exercise #9\nslidesscript\n- R4DS: Exploratory Data Analysis - IBM: What is Exploratory Data Analysis?\n\n\n10/21/24\nLesson 10: Exploratory Data Analysis in R: Visualization and Dashboarding\nQuiz #10Exercise #10\nslidesscript\n- R4DS: Visualize - Hadley Wickham’s Lecture - r-graph-gallery - ggplot flipbook - Gallery - Edward Tufte\n\n\n10/28/24\nLesson 11: Mine Data through Predictive Modeling in R\nQuiz #11Exercise #11\n.\n.\n\n\n11/4/24\nLesson 12: Identifying Significant Predictors\nQuiz #12Exercise #12\n.\n.\n\n\n11/11/24\nLesson 13: Predictive Model Interpretations and Predictions\nQuiz #13Exercise #13\n.\n.\n\n\n11/18/24\nLesson 14: Evaluating Predictive Model Performance\nQuiz #14Exercise #14\n.\n.\n\n\n11/25/24\nLesson 15: Bringing It All Together: From Data to Insights to Decisions\nQuiz #15Exercise #15\n.\n.\n\n\n12/2/24\nProject presentation and report due\nProject presentation submission\n.\n.\n\n\n12/9/24\nFinal Exam (online) 4:00 PM - 6:00 PM\n.\n.\n\n\n\n\n*Please note that for the two classes missed due to holidays and breaks, there will be no make-up sessions. However, students are expected to independently complete the assigned readings and exercises during these periods. While class discussions won’t take place, engaging with the materials and teammates will ensure you stay on track with the course content.\n** Course material adapted from the textbook and previous course editions to better fit our curriculum. Thanks to Professor Zhiwei Zhu, Dr. Z.Z, for guidance and for generously sharing the materials.",
     "crumbs": [
       "Schedule and Material"
     ]
@@ -1352,5 +1352,1041 @@
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Course Learning Milestones",
     "text": "Course Learning Milestones"
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#overview",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#overview",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Overview",
+    "text": "Overview\n\n\n\n\nLesson Exercise Review\nLesson Question!\nCourse Learning Milestones\nThe 8 Key Steps of a Data Mining Project\n\n\n\nIntroduction to ggplot()\nGoing Beyond the Basics\nThe Grammar of Graphics\nThemes\nComputed Statistics\nPositioning Elements\nDefining Coordinates"
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#course-learning-milestones-1",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#course-learning-milestones-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Course Learning Milestones",
+    "text": "Course Learning Milestones"
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#the-8-key-steps-of-a-data-mining-project-1",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#the-8-key-steps-of-a-data-mining-project-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "The 8 Key Steps of a Data Mining Project",
+    "text": "The 8 Key Steps of a Data Mining Project\n\n\n\nGoal Setting\n\nDefine the project’s goal\n\n\n\nData Understanding\n\nAcquire analysis tools\n\nPrepare data\n\nData summarization\n\nData visualization\n\n\n\nInsights\n\nData mining modeling\n\nModel validation\n\nInterpretation and implementation"
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#introduction-to-ggplot-1",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#introduction-to-ggplot-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Introduction to ggplot()",
+    "text": "Introduction to ggplot()\n\nThe gg in ggplot() refers to the Grammar of Graphics. More than just a graphics package, ggplot() is a set of principles about data visualization and plot construction."
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#first-steps",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#first-steps",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "First Steps",
+    "text": "First Steps\n\nWe will use a dataset about car characteristics to illustrate the step-by-step construction of a plot. Then, we’ll apply the same principles to a more interesting dataset.\nWe are going to check the association between a car’s engine size (displ) and fuel efficiency (hwy).\nTo create the plot, we just need to tell ggplot which dataset to use (data), what type of function (geom_point), and which variables for the x and y axes (mapping)."
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#grammar-of-graphics",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#grammar-of-graphics",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Grammar of Graphics",
+    "text": "Grammar of Graphics\n\nNote that the logic of constructing the plots was to create a base plot with the ggplot() function, and then include a layer with the graphical elements.\nThis is always the logic: create a simple figure and successively add layers with the information we want.\nThe plot we made is quite simple and has only 3 steps:\n\nDefining the dataset to be used (data = mpg)\nDefining the type of plot to be used (geom_point)\nDefining the mapping of information in the plot (mapping = aes(x = displ, y = hwy))\n\nTo make more sophisticated plots, we can add more information to the existing layers or add more layers. Before going further, it’s your turn to make a plot."
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#the-grammar-of-graphics",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#the-grammar-of-graphics",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "The Grammar of Graphics",
+    "text": "The Grammar of Graphics\n\nWe have just gone through all the elements of a complete syntax for information visualization. Let’s review the fundamentals of this grammar:\n\nDefining the data to be used: data\nDefining the type of graphical element: geom\nLinking data and graphical elements: mapping\nDefining the statistic to be displayed: stat\nPositioning graphical elements: position\nDefining coordinates: coord\nGraphically separating different elements: facet\n\nMastering these fundamentals gives you enormous freedom to visualize any type of information! Let’s move on to a more complex example."
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#including-more-information-in-a-layer",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#including-more-information-in-a-layer",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Including More Information in a Layer",
+    "text": "Including More Information in a Layer\n\nThe mpg dataset has a variable (class) with the type of car: “compact”, “SUV”, etc. We can include this information by coloring each class."
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#be-careful-with-what-goes-inside-and-outside-the-parentheses",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#be-careful-with-what-goes-inside-and-outside-the-parentheses",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Be Careful with What Goes Inside and Outside the Parentheses",
+    "text": "Be Careful with What Goes Inside and Outside the Parentheses\n\nIf you want to color all the points green, regardless of the car type, the code will have a difference that, at first, seems subtle."
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#be-careful-with-what-goes-inside-and-outside-the-parentheses-1",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#be-careful-with-what-goes-inside-and-outside-the-parentheses-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Be Careful with What Goes Inside and Outside the Parentheses",
+    "text": "Be Careful with What Goes Inside and Outside the Parentheses\n\nSee the difference! What happened?"
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#adding-another-layer",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#adding-another-layer",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Adding Another Layer",
+    "text": "Adding Another Layer\n\nPerhaps, even when giving a color to each car category, you found that the difference was not very clear. One option is to place each category on its own scale, which we can do with the facet_wrap() function."
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#more-than-one-piece-of-information-in-the-same-plot",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#more-than-one-piece-of-information-in-the-same-plot",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "More than One Piece of Information in the Same Plot",
+    "text": "More than One Piece of Information in the Same Plot\n\nAdding new layers also serves to place different elements in the plot. If we want to draw a fitting curve on the original plot, just add the geom_smooth() element."
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#themes-1",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#themes-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Themes",
+    "text": "Themes\n\nBeyond the structural elements we’ve seen, a good data presentation also depends on aesthetic adjustments. Let’s briefly cover some possibilities.\nggplot already comes with some predefined themes. You are not obliged to like that gray background: let’s reproduce the plot of the relationship between engine size and efficiency, using the themes theme_bw, theme_light, theme_dark, theme_minimal, and theme_classic."
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#original-plot",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#original-plot",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Original Plot",
+    "text": "Original Plot"
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#black-and-white",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#black-and-white",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Black and White",
+    "text": "Black and White"
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#light",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#light",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Light",
+    "text": "Light"
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#dark",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#dark",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Dark",
+    "text": "Dark"
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#minimal",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#minimal",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Minimal",
+    "text": "Minimal"
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#classic",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#classic",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Classic",
+    "text": "Classic"
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#other-themes",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#other-themes",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Other Themes?",
+    "text": "Other Themes?\n\nFor those who didn’t like these themes, there are two options:\n\nYou can change absolutely everything in the plot with the theme() function, element by element. For that, you need to have a good eye for graphic design, as well as patience to tweak each detail. See the number of arguments that can be changed with the ?theme command.\nInstall external packages with ready-made themes. Two that I really like are ggthemes and hrbrthemes\n\nOn Google, you can also find many other packages."
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#types-of-plots",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#types-of-plots",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Types of Plots",
+    "text": "Types of Plots\n\nAll the examples above were made with scatter plots. ggplot supports many other types of plots: bars, areas, lines, pie charts (ugh!), etc.\nThe important thing is that the logic is the same! What changes is the type of statistic relevant for each plot. In the scatter plot, we used the values of the observations in our dataset, but for other plots, we need other statistics: counts for bar plots, predicted values for fit curves, dispersion measures for boxplots, etc.\nLet’s load a new dataset to illustrate this point and play a bit with bar plots."
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#simple-bar-plot",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#simple-bar-plot",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Simple Bar Plot",
+    "text": "Simple Bar Plot\n\nThe code for a bar plot follows the same reasoning as the previous plots, and you’ll notice that the only thing we need to change is the type of function used to map the data: instead of geom_point(), we use geom_bar()."
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#calculating-statistics",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#calculating-statistics",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Calculating Statistics",
+    "text": "Calculating Statistics\n\n\nUnlike the scatter plot, we don’t need to specify anywhere the variable that contains the number of diamonds for each type of cut (even because this variable doesn’t exist in the dataset!).\nggplot() recognizes that when we use geom_bar(), the relevant statistic is the count within each category and calculates this automatically. Other functions calculate other statistics by default (you can consult the stat argument in ?geom_bar)."
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#calculating-statistics-1",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#calculating-statistics-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Calculating Statistics",
+    "text": "Calculating Statistics\n\nEvery plot has a default statistic, but we can make changes to relate two different variables, for example:"
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#changing-the-colors-of-bars",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#changing-the-colors-of-bars",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Changing the Colors of Bars",
+    "text": "Changing the Colors of Bars\n\nSimilar to the scatter plot, we can change the color of the bars with the fill argument."
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#changing-the-colors-of-bars-1",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#changing-the-colors-of-bars-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Changing the Colors of Bars",
+    "text": "Changing the Colors of Bars\n\nAgain, similar to the scatter plot, we can change the color of the bars with the fill argument (but this is not very useful—why?)"
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#defining-colors-by-clarity",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#defining-colors-by-clarity",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Defining Colors by Clarity",
+    "text": "Defining Colors by Clarity\n\nIt would be more useful to define the colors by some information that is not already conveyed by the plot. For example, discriminating the diamonds by clarity."
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#adjusting-the-positioning-of-elements",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#adjusting-the-positioning-of-elements",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Adjusting the Positioning of Elements",
+    "text": "Adjusting the Positioning of Elements\n\nThe idea of filling (fill) is important because it can also be used to alter the arrangement of graphical elements. For example, if we want a bar plot with relative values, we can fill the entire plotting area:"
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#adjusting-the-positioning-of-elements-1",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#adjusting-the-positioning-of-elements-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Adjusting the Positioning of Elements",
+    "text": "Adjusting the Positioning of Elements\n\nAlternatively, we might want the graphical elements to “dodge” each other, so they are not stacked:"
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#defining-coordinates-1",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#defining-coordinates-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Defining Coordinates",
+    "text": "Defining Coordinates\n\nAnother way to change the arrangement of elements in the plot is to alter their coordinates. Let’s return to our plot of diamonds by cut:"
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#defining-coordinates-2",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#defining-coordinates-2",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Defining Coordinates",
+    "text": "Defining Coordinates\n\nA first relatively obvious coordinate transformation is to make the bars horizontal. To do this, simply use the coord_flip() function."
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#defining-coordinates-3",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#defining-coordinates-3",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Defining Coordinates",
+    "text": "Defining Coordinates\n\nA less obvious transformation is to make the bars radiate from a single point with radial dispersion."
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#and-the-pie-chart",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#and-the-pie-chart",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "And the Pie Chart?",
+    "text": "And the Pie Chart?\n\n\nAbout Pie Charts"
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#to-create-animations-use-the-gganimate-package",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#to-create-animations-use-the-gganimate-package",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "To Create Animations, Use the gganimate Package",
+    "text": "To Create Animations, Use the gganimate Package"
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#result",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#result",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Result",
+    "text": "Result"
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#dynamic-x-axis",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#dynamic-x-axis",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Dynamic X-Axis",
+    "text": "Dynamic X-Axis"
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#trailing-points",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#trailing-points",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Trailing Points",
+    "text": "Trailing Points"
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#countries-separated-by-continent",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#countries-separated-by-continent",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Countries Separated by Continent",
+    "text": "Countries Separated by Continent"
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#datasaurus",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#datasaurus",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Datasaurus",
+    "text": "Datasaurus\n\n\nDatasaurus"
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#temperatures",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#temperatures",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Temperatures",
+    "text": "Temperatures"
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#conclusion-1",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#conclusion-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nWhat we’ve seen is more than just a tool for creating plots. It’s a complete syntax that allows you to think about the information you want to convey and produce practically any type of plot that suits your needs.\nggplot() allows for an infinite number of plot types. It wouldn’t be worthwhile to do an extensive survey at this time, as that would be tedious and would end up hindering the absorption of the fundamentals of the grammar of graphics."
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#additional-material-1",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#additional-material-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Additional Material",
+    "text": "Additional Material\n\nHadley Wickham’s Lecture\nr-graph-gallery\nggplot flipbook\nGallery\nEdward Tufte"
+  },
+  {
+    "objectID": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#summary-1",
+    "href": "lecture_slides/10_lesson_m3dm/10_lesson_m3dm.html#summary-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Summary",
+    "text": "Summary\n\n\nMain Takeaways from this lecture:\n\nUnderstanding ggplot() and the Grammar of Graphics: Plots are constructed by creating a base plot and successively adding layers of graphical elements.\nAdvanced Plotting Techniques:\n\nAdding more layers to include additional information (e.g., geom_smooth() for trend lines).\nUsing facet_wrap() and facet_grid() to create multi-panel plots for different subsets of data.\nTransforming plots with coordinate functions like coord_flip() for horizontal plots and coord_polar() for radial plots.\n\nWorking with Computed Statistics: Recognize that ggplot2 can compute statistics automatically (e.g., counts in geom_bar()).\nCreating Animations with gganimate: Animations can illustrate changes over time or transitions between states in the data.\nEffective Data Visualization Practices\n\nEmphasize the importance of choosing the right type of plot for the data and the message.\nUnderstand that effective visualizations are crucial for exploratory data analysis and communicating insights.\nApply the Grammar of Graphics principles to create clear, informative, and aesthetically pleasing plots."
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "",
+    "text": "Lesson Exercise Review\nLesson Question!\nCourse Learning Milestones\nThe 8 Key Steps of a Data Mining Project\n\n\n\nIntroduction to ggplot()\nGoing Beyond the Basics\nThe Grammar of Graphics\nThemes\nComputed Statistics\nPositioning Elements\nDefining Coordinates"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#overview",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#overview",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Overview",
+    "text": "Overview\n\n\n\n\nXXXX PAREI AQUI! AJUSTAR A APRESENTACAO XXXX\nLesson Exercise Review\nLesson Question!\nCourse Learning Milestones\nThe 8 Key Steps of a Data Mining Project\n\n\n\nData Science Workflow\nThe Importance of Context\nChoosing the Visualization\nEliminating Noise\nChoosing the Highlight\nAesthetic Adjustments\nWhat Story Is Being Told?\nDashboards"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#course-learning-milestones-1",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#course-learning-milestones-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Course Learning Milestones",
+    "text": "Course Learning Milestones"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#the-8-key-steps-of-a-data-mining-project-1",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#the-8-key-steps-of-a-data-mining-project-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "The 8 Key Steps of a Data Mining Project",
+    "text": "The 8 Key Steps of a Data Mining Project\n\n\n\nGoal Setting\n\nDefine the project’s goal\n\n\n\nData Understanding\n\nAcquire analysis tools\n\nPrepare data\n\nData summarization\n\nData visualization\n\n\n\nInsights\n\nData mining modeling\n\nModel validation\n\nInterpretation and implementation"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#introduction-to-ggplot-1",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#introduction-to-ggplot-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Introduction to ggplot()",
+    "text": "Introduction to ggplot()\n\nThe gg in ggplot() refers to the Grammar of Graphics. More than just a graphics package, ggplot() is a set of principles about data visualization and plot construction.\n\nlibrary(ggplot2)\nlibrary(tidyverse)"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#first-steps",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#first-steps",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "First Steps",
+    "text": "First Steps\n\nWe will use a dataset about car characteristics to illustrate the step-by-step construction of a plot. Then, we’ll apply the same principles to a more interesting dataset.\n\nhead(mpg)\n\nWe are going to check the association between a car’s engine size (displ) and fuel efficiency (hwy).\nTo create the plot, we just need to tell ggplot which dataset to use (data), what type of function (geom_point), and which variables for the x and y axes (mapping).\n\nmpg %&gt;% ggplot() +  # base plot\n      geom_point(mapping = aes(x = displ, y = hwy))  # add a layer of points"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#grammar-of-graphics",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#grammar-of-graphics",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Grammar of Graphics",
+    "text": "Grammar of Graphics\n\nNote that the logic of constructing the plots was to create a base plot with the ggplot() function, and then include a layer with the graphical elements.\nThis is always the logic: create a simple figure and successively add layers with the information we want.\nThe plot we made is quite simple and has only 3 steps:\n\nDefining the dataset to be used (data = mpg)\nDefining the type of plot to be used (geom_point)\nDefining the mapping of information in the plot (mapping = aes(x = displ, y = hwy))\n\nTo make more sophisticated plots, we can add more information to the existing layers or add more layers. Before going further, it’s your turn to make a plot."
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#the-grammar-of-graphics",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#the-grammar-of-graphics",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "The Grammar of Graphics",
+    "text": "The Grammar of Graphics\n\nWe have just gone through all the elements of a complete syntax for information visualization. Let’s review the fundamentals of this grammar:\n\nDefining the data to be used: data\nDefining the type of graphical element: geom\nLinking data and graphical elements: mapping\nDefining the statistic to be displayed: stat\nPositioning graphical elements: position\nDefining coordinates: coord\nGraphically separating different elements: facet\n\nMastering these fundamentals gives you enormous freedom to visualize any type of information! Let’s move on to a more complex example."
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#including-more-information-in-a-layer",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#including-more-information-in-a-layer",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Including More Information in a Layer",
+    "text": "Including More Information in a Layer\n\nThe mpg dataset has a variable (class) with the type of car: “compact”, “SUV”, etc. We can include this information by coloring each class.\n\nmpg %&gt;% ggplot() + \n  geom_point(mapping = aes(x = displ, y = hwy, color = class))"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#be-careful-with-what-goes-inside-and-outside-the-parentheses",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#be-careful-with-what-goes-inside-and-outside-the-parentheses",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Be Careful with What Goes Inside and Outside the Parentheses",
+    "text": "Be Careful with What Goes Inside and Outside the Parentheses\n\nIf you want to color all the points green, regardless of the car type, the code will have a difference that, at first, seems subtle.\n\nmpg %&gt;% ggplot() + \n  geom_point(mapping = aes(x = displ, y = hwy), color = \"darkgreen\")"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#be-careful-with-what-goes-inside-and-outside-the-parentheses-1",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#be-careful-with-what-goes-inside-and-outside-the-parentheses-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Be Careful with What Goes Inside and Outside the Parentheses",
+    "text": "Be Careful with What Goes Inside and Outside the Parentheses\n\nSee the difference! What happened?\n\nmpg %&gt;% ggplot() + \n  geom_point(mapping = aes(x = displ, y = hwy, color = \"darkgreen\"))"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#adding-another-layer",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#adding-another-layer",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Adding Another Layer",
+    "text": "Adding Another Layer\n\nPerhaps, even when giving a color to each car category, you found that the difference was not very clear. One option is to place each category on its own scale, which we can do with the facet_wrap() function.\n\nmpg %&gt;% ggplot() + \n  geom_point(mapping = aes(x = displ, y = hwy)) +\n  facet_wrap(~ class, nrow = 1)"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#more-than-one-piece-of-information-in-the-same-plot",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#more-than-one-piece-of-information-in-the-same-plot",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "More than One Piece of Information in the Same Plot",
+    "text": "More than One Piece of Information in the Same Plot\n\nAdding new layers also serves to place different elements in the plot. If we want to draw a fitting curve on the original plot, just add the geom_smooth() element.\n\nmpg %&gt;% ggplot() + \n  geom_point(mapping = aes(x = displ, y = hwy)) +\n  geom_smooth(mapping = aes(x = displ, y = hwy), se = FALSE)"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#themes-1",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#themes-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Themes",
+    "text": "Themes\n\nBeyond the structural elements we’ve seen, a good data presentation also depends on aesthetic adjustments. Let’s briefly cover some possibilities.\nggplot already comes with some predefined themes. You are not obliged to like that gray background: let’s reproduce the plot of the relationship between engine size and efficiency, using the themes theme_bw, theme_light, theme_dark, theme_minimal, and theme_classic."
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#original-plot",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#original-plot",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Original Plot",
+    "text": "Original Plot\n\nmpg %&gt;% ggplot() + \n  geom_point(mapping = aes(x = displ, y = hwy))"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#black-and-white",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#black-and-white",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Black and White",
+    "text": "Black and White\n\nmpg %&gt;% ggplot() + \n  geom_point(mapping = aes(x = displ, y = hwy)) +\n  theme_bw()"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#light",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#light",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Light",
+    "text": "Light\n\nmpg %&gt;% ggplot() + \n  geom_point(mapping = aes(x = displ, y = hwy)) +\n  theme_light()"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#dark",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#dark",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Dark",
+    "text": "Dark\n\nmpg %&gt;% ggplot() + \n  geom_point(mapping = aes(x = displ, y = hwy)) +\n  theme_dark()"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#minimal",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#minimal",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Minimal",
+    "text": "Minimal\n\nmpg %&gt;% ggplot() + \n  geom_point(mapping = aes(x = displ, y = hwy)) +\n  theme_minimal()"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#classic",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#classic",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Classic",
+    "text": "Classic\n\nmpg %&gt;% ggplot() + \n  geom_point(mapping = aes(x = displ, y = hwy)) +\n  theme_classic()"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#other-themes",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#other-themes",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Other Themes?",
+    "text": "Other Themes?\n\nFor those who didn’t like these themes, there are two options:\n\nYou can change absolutely everything in the plot with the theme() function, element by element. For that, you need to have a good eye for graphic design, as well as patience to tweak each detail. See the number of arguments that can be changed with the ?theme command.\nInstall external packages with ready-made themes. Two that I really like are ggthemes and hrbrthemes\n\nOn Google, you can also find many other packages."
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#types-of-plots",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#types-of-plots",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Types of Plots",
+    "text": "Types of Plots\n\nAll the examples above were made with scatter plots. ggplot supports many other types of plots: bars, areas, lines, pie charts (ugh!), etc.\nThe important thing is that the logic is the same! What changes is the type of statistic relevant for each plot. In the scatter plot, we used the values of the observations in our dataset, but for other plots, we need other statistics: counts for bar plots, predicted values for fit curves, dispersion measures for boxplots, etc.\nLet’s load a new dataset to illustrate this point and play a bit with bar plots.\n\n?diamonds"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#simple-bar-plot",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#simple-bar-plot",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Simple Bar Plot",
+    "text": "Simple Bar Plot\n\nThe code for a bar plot follows the same reasoning as the previous plots, and you’ll notice that the only thing we need to change is the type of function used to map the data: instead of geom_point(), we use geom_bar().\n\ndiamonds %&gt;% ggplot() + \n  geom_bar(mapping = aes(x = cut))"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#calculating-statistics",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#calculating-statistics",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Calculating Statistics",
+    "text": "Calculating Statistics\n\nUnlike the scatter plot, we don’t need to specify anywhere the variable that contains the number of diamonds for each type of cut (even because this variable doesn’t exist in the dataset!).\nggplot() recognizes that when we use geom_bar(), the relevant statistic is the count within each category and calculates this automatically. Other functions calculate other statistics by default (you can consult the stat argument in ?geom_bar)."
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#calculating-statistics-1",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#calculating-statistics-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Calculating Statistics",
+    "text": "Calculating Statistics\n\nEvery plot has a default statistic, but we can make changes to relate two different variables, for example:\n\n# Relationship between cut type and diamond dimensions\ndiamonds %&gt;% ggplot() + \n  stat_summary(\n    mapping = aes(x = cut, y = depth),\n    fun.min = min,\n    fun.max = max,\n    fun = median\n  )"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#changing-the-colors-of-bars",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#changing-the-colors-of-bars",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Changing the Colors of Bars",
+    "text": "Changing the Colors of Bars\n\nSimilar to the scatter plot, we can change the color of the bars with the fill argument.\n\ndiamonds %&gt;% ggplot() + \n  geom_bar(mapping = aes(x = cut, fill = cut))  # What if I wanted all bars to be red?"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#changing-the-colors-of-bars-1",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#changing-the-colors-of-bars-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Changing the Colors of Bars",
+    "text": "Changing the Colors of Bars\n\nAgain, similar to the scatter plot, we can change the color of the bars with the fill argument (but this is not very useful—why?)\n\ndiamonds %&gt;% ggplot() + \n  geom_bar(mapping = aes(x = cut, fill = cut))"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#defining-colors-by-clarity",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#defining-colors-by-clarity",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Defining Colors by Clarity",
+    "text": "Defining Colors by Clarity\n\nIt would be more useful to define the colors by some information that is not already conveyed by the plot. For example, discriminating the diamonds by clarity.\n\ndiamonds %&gt;% ggplot() + \n  geom_bar(mapping = aes(x = cut, fill = clarity))"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#adjusting-the-positioning-of-elements",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#adjusting-the-positioning-of-elements",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Adjusting the Positioning of Elements",
+    "text": "Adjusting the Positioning of Elements\n\nThe idea of filling (fill) is important because it can also be used to alter the arrangement of graphical elements. For example, if we want a bar plot with relative values, we can fill the entire plotting area:\n\ndiamonds %&gt;% ggplot() + \n  geom_bar(mapping = aes(x = cut, fill = clarity), position = \"fill\")"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#adjusting-the-positioning-of-elements-1",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#adjusting-the-positioning-of-elements-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Adjusting the Positioning of Elements",
+    "text": "Adjusting the Positioning of Elements\n\nAlternatively, we might want the graphical elements to “dodge” each other, so they are not stacked:\n\nggplot(data = diamonds) + \n  geom_bar(mapping = aes(x = cut, fill = clarity), position = \"dodge\")"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#defining-coordinates-1",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#defining-coordinates-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Defining Coordinates",
+    "text": "Defining Coordinates\n\nAnother way to change the arrangement of elements in the plot is to alter their coordinates. Let’s return to our plot of diamonds by cut:\n\ndiamonds %&gt;% ggplot() + \n  geom_bar(mapping = aes(x = cut, fill = cut))"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#defining-coordinates-2",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#defining-coordinates-2",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Defining Coordinates",
+    "text": "Defining Coordinates\n\nA first relatively obvious coordinate transformation is to make the bars horizontal. To do this, simply use the coord_flip() function.\n\ndiamonds %&gt;% ggplot() + \n  geom_bar(mapping = aes(x = cut, fill = cut)) +\n  coord_flip()"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#defining-coordinates-3",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#defining-coordinates-3",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Defining Coordinates",
+    "text": "Defining Coordinates\n\nA less obvious transformation is to make the bars radiate from a single point with radial dispersion.\n\ndiamonds %&gt;% ggplot() + \n  geom_bar(mapping = aes(x = cut, fill = cut)) +\n  coord_polar()"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#and-the-pie-chart",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#and-the-pie-chart",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "And the Pie Chart?",
+    "text": "And the Pie Chart?\n\n\nAbout Pie Charts"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#to-create-animations-use-the-gganimate-package",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#to-create-animations-use-the-gganimate-package",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "To Create Animations, Use the gganimate Package",
+    "text": "To Create Animations, Use the gganimate Package\n\nlibrary(gganimate)\nlibrary(gapminder)\n\ngapminder %&gt;% ggplot(aes(gdpPercap, lifeExp, size = pop, colour = country)) +\n  geom_point(alpha = 0.7, show.legend = FALSE) +\n  scale_colour_manual(values = country_colors) +\n  scale_size(range = c(2, 12)) +\n  scale_x_log10() +\n  # Specific code for the animation\n  labs(title = 'Year: {frame_time}', x = 'GDP per capita', y = 'Life Expectancy') +\n  transition_time(year) +\n  ease_aes('linear')"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#result",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#result",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Result",
+    "text": "Result"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#dynamic-x-axis",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#dynamic-x-axis",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Dynamic X-Axis",
+    "text": "Dynamic X-Axis"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#trailing-points",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#trailing-points",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Trailing Points",
+    "text": "Trailing Points"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#countries-separated-by-continent",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#countries-separated-by-continent",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Countries Separated by Continent",
+    "text": "Countries Separated by Continent"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#datasaurus",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#datasaurus",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Datasaurus",
+    "text": "Datasaurus\n\n\n\n\n\n\n\n\n\n\nDatasaurus"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#temperatures",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#temperatures",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Temperatures",
+    "text": "Temperatures"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#conclusion-1",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#conclusion-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Conclusion",
+    "text": "Conclusion\nWhat we’ve seen is more than just a tool for creating plots. It’s a complete syntax that allows you to think about the information you want to convey and produce practically any type of plot that suits your needs.\nggplot() allows for an infinite number of plot types. It wouldn’t be worthwhile to do an extensive survey at this time, as that would be tedious and would end up hindering the absorption of the fundamentals of the grammar of graphics."
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#additional-material-1",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#additional-material-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Additional Material",
+    "text": "Additional Material\n\nHadley Wickham’s Lecture\nr-graph-gallery\nggplot flipbook\nGallery\nEdward Tufte"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#summary-1",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#summary-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Summary",
+    "text": "Summary\n\n\nMain Takeaways from this lecture:\n\nXXX XXX\n\nXXX\n\nXXX XXX:\n\nXXX"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#motivation-1",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#motivation-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Motivation",
+    "text": "Motivation\n\n\n\n\nFlow"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#data-science-workflow",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#data-science-workflow",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Data Science Workflow",
+    "text": "Data Science Workflow\nWe’ve come a long way to get here. Today we complete the cycle.\n\n\n\n\nFlow"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#the-forest-and-the-trees",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#the-forest-and-the-trees",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "The Forest and the Trees",
+    "text": "The Forest and the Trees\n\n\n\n\nForest\n\n\n\nWe have explored many implementation details in recent days, focusing on individual aspects of each analysis.\nToday, we want to take a step back to think less about the detail and more about the process.\nAfter all, every data analysis has a purpose. How can we achieve it more effectively?"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#essential-elements-of-data-communication",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#essential-elements-of-data-communication",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Essential Elements of Data Communication",
+    "text": "Essential Elements of Data Communication\nLet’s break down the data communication process into six general principles:\n\nContext matters\nVisualization derives from data\nSeparate signal from noise\nImpose hierarchy among data\nBeauty also counts\nYour analysis should tell a story"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#context-1",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#context-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Context",
+    "text": "Context\nEvery analysis has a goal and an audience.\n\nIt’s important to separate data exploration from the final analysis. Don’t fall into the temptation of showing everything you did.\nAdapt the report to your audience. Decision-makers aren’t always interested in execution details.\nSo what? Keep a specific learning objective in mind. It will guide which information is relevant for your report.\n\nIsolated numbers don’t tell us much. To make evidence-based decisions, it’s necessary to establish an appropriate basis for comparison for the goal of your report."
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#context-can-come-from-new-information",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#context-can-come-from-new-information",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Context Can Come from New Information…",
+    "text": "Context Can Come from New Information…\n\n\n\n\nContext Add"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#or-reinforce-existing-information",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#or-reinforce-existing-information",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "…or Reinforce Existing Information",
+    "text": "…or Reinforce Existing Information\n\n\n\n\nContext Obs"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#choosing-the-chart-1",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#choosing-the-chart-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Choosing the Chart",
+    "text": "Choosing the Chart\n\nUse graphs instead of tables!\nWhat type of data?\nHow many dimensions?\nMost reports are consumed in 2D media. Showing more than that can confuse the reader.\nBe careful with scales!"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#scales-can-be-misleading",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#scales-can-be-misleading",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Scales Can Be Misleading",
+    "text": "Scales Can Be Misleading\n\n\n\n\nScale Fail"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#avoid-dual-axes",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#avoid-dual-axes",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Avoid Dual Axes",
+    "text": "Avoid Dual Axes\n\n\n\n\nDual Axis"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#or-triple-axes",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#or-triple-axes",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Or Triple Axes!",
+    "text": "Or Triple Axes!\n\n\n\n\nTriple Axis"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#fewer-pie-charts",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#fewer-pie-charts",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Fewer Pie Charts…",
+    "text": "Fewer Pie Charts…\n\n\n\n\nPie vs Bar"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#oof",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#oof",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Oof",
+    "text": "Oof\n\n\n\n\nChart Fail"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#eliminating-noise",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#eliminating-noise",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Eliminating Noise",
+    "text": "Eliminating Noise\nThe more information in your visualization, the greater the cognitive load.\n\n\n\n\nData-Ink Ratio Formula"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#data-ink-ratio",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#data-ink-ratio",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Data-Ink Ratio",
+    "text": "Data-Ink Ratio\nThe more information in your visualization, the greater the cognitive load.\n\n\n\n\nData-Ink"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#step-by-step-cleanup",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#step-by-step-cleanup",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Step-by-Step Cleanup",
+    "text": "Step-by-Step Cleanup\n\n\n\n\nCleanup 1"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#eliminating-the-border",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#eliminating-the-border",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Eliminating the Border",
+    "text": "Eliminating the Border\n\n\n\n\nCleanup 2"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#cleaning-the-grids",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#cleaning-the-grids",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Cleaning the Grids",
+    "text": "Cleaning the Grids\n\n\n\n\nCleanup 3"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#removing-the-points",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#removing-the-points",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Removing the Points",
+    "text": "Removing the Points\n\n\n\n\nCleanup 4"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#processing-the-axes",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#processing-the-axes",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Processing the Axes",
+    "text": "Processing the Axes\n\n\n\n\nCleanup 5"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#adjusting-the-label",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#adjusting-the-label",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Adjusting the Label",
+    "text": "Adjusting the Label\n\n\n\n\nCleanup 6"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#adjusting-colors",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#adjusting-colors",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Adjusting Colors",
+    "text": "Adjusting Colors\n\n\n\n\nCleanup 7"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#before-and-after",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#before-and-after",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Before and After",
+    "text": "Before and After\n\n\n\n\nBefore and After"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#count-the-number-3s",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#count-the-number-3s",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Count the Number 3s",
+    "text": "Count the Number 3s\n\n\n\n\nHierarchy 1"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#count-the-number-3s-1",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#count-the-number-3s-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Count the Number 3s",
+    "text": "Count the Number 3s\n\n\n\n\nHierarchy 2"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#ways-to-draw-attention",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#ways-to-draw-attention",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Ways to Draw Attention",
+    "text": "Ways to Draw Attention\n\n\n\n\nHierarchy 3"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#highlighting-with-colors",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#highlighting-with-colors",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Highlighting with Colors",
+    "text": "Highlighting with Colors\n\n\n\n\nHierarchy Colors"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#returning-to-our-example",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#returning-to-our-example",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Returning to Our Example",
+    "text": "Returning to Our Example\n\n\n\n\nCleanup 9"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#returning-to-our-example-1",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#returning-to-our-example-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Returning to Our Example",
+    "text": "Returning to Our Example\n\n\n\n\nCleanup 10"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#use-colors-strategically",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#use-colors-strategically",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Use Colors Strategically",
+    "text": "Use Colors Strategically\n\n\n\n\nColors"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#not-all-data-are-equally-important",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#not-all-data-are-equally-important",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Not All Data Are Equally Important",
+    "text": "Not All Data Are Equally Important"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#emphasizing-the-main-point",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#emphasizing-the-main-point",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Emphasizing the Main Point",
+    "text": "Emphasizing the Main Point\n\n\n\n\nEmphasis"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#emphasizing-the-main-point-1",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#emphasizing-the-main-point-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Emphasizing the Main Point",
+    "text": "Emphasizing the Main Point\n\n\n\n\nEmphasis 2"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#emphasizing-the-main-point-2",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#emphasizing-the-main-point-2",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Emphasizing the Main Point",
+    "text": "Emphasizing the Main Point\n\n\n\n\nEmphasis 3"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#bringing-it-all-together",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#bringing-it-all-together",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Bringing It All Together",
+    "text": "Bringing It All Together\nLet’s tell a story starting from the chart below, making step-by-step adaptations we’ve discussed. What is it telling you?\n\n\n\n\nFinal 1"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#bringing-it-all-together-1",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#bringing-it-all-together-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Bringing It All Together",
+    "text": "Bringing It All Together\n\n\n\n\nFinal 2"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#bringing-it-all-together-2",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#bringing-it-all-together-2",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Bringing It All Together",
+    "text": "Bringing It All Together\n\n\n\n\nFinal 3"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#bringing-it-all-together-3",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#bringing-it-all-together-3",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Bringing It All Together",
+    "text": "Bringing It All Together\n\n\n\n\nFinal 4"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#bringing-it-all-together-4",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#bringing-it-all-together-4",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Bringing It All Together",
+    "text": "Bringing It All Together\n\n\n\n\nFinal 5"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#final-narrative",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#final-narrative",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Final Narrative",
+    "text": "Final Narrative\n\n\n\n\nStory 1"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#final-narrative-1",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#final-narrative-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Final Narrative",
+    "text": "Final Narrative\n\n\n\n\nStory 2"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#final-narrative-2",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#final-narrative-2",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Final Narrative",
+    "text": "Final Narrative\n\n\n\n\nStory 3"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#final-narrative-3",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#final-narrative-3",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Final Narrative",
+    "text": "Final Narrative\n\n\n\n\nStory 4"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#final-narrative-4",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#final-narrative-4",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Final Narrative",
+    "text": "Final Narrative\n\n\n\n\nStory 5"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#final-narrative-5",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#final-narrative-5",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Final Narrative",
+    "text": "Final Narrative\n\n\n\n\nStory 6"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#final-narrative-6",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#final-narrative-6",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Final Narrative",
+    "text": "Final Narrative\n\n\n\n\nStory 7"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#final-narrative-7",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#final-narrative-7",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Final Narrative",
+    "text": "Final Narrative\n\n\n\n\nStory 8"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#before-and-after-1",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#before-and-after-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Before and After",
+    "text": "Before and After\n\n\n\n\nStory 9"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#application-covid-19-evolution-1",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#application-covid-19-evolution-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Application: COVID-19 Evolution",
+    "text": "Application: COVID-19 Evolution"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#covid-19-evolution",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#covid-19-evolution",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "COVID-19 Evolution",
+    "text": "COVID-19 Evolution"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#moving-average",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#moving-average",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Moving Average",
+    "text": "Moving Average"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#deaths-in-new-york",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#deaths-in-new-york",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Deaths in New York",
+    "text": "Deaths in New York"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#additional-material",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#additional-material",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Additional Material",
+    "text": "Additional Material\n\nFlowing Data\nInformation is Beautiful\nThe Functional Art\nCOVID in the Financial Times"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#dashboards",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#dashboards",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Dashboards",
+    "text": "Dashboards\n\n\n\n\nflexdashboard-logo\n\n\n\nThe goal of flexdashboard is to facilitate the creation of interactive dashboards with R Markdown."
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#flexdashboard-features",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#flexdashboard-features",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Flexdashboard: Features",
+    "text": "Flexdashboard: Features\n\nSupport for a wide variety of components, including htmlwidgets; base graphics, structure, and grid; tabular data; gauges and value boxes; and text annotations.\nFlexible and easy to specify layouts based on rows and columns. Components are intelligently resized to fill the browser and adapted for mobile display.\nStoryboard layouts to present sequences of visualizations and related commentary."
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#flexdashboard-installation-and-use",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#flexdashboard-installation-and-use",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Flexdashboard: Installation and Use",
+    "text": "Flexdashboard: Installation and Use\nAfter installing the package, to create a flexdashboard simply open a new R Markdown document with the output format flexdashboard::flex_dashboard. You can do this from within RStudio using: File &gt; New File &gt; R Markdown...:\n\ninstall.packages(\"flexdashboard\")\n\n\n\n\n\nflexdashboard-template"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#flexdashboard-layout",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#flexdashboard-layout",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Flexdashboard: Layout",
+    "text": "Flexdashboard: Layout\nDashboards are divided into columns and rows, with output components delineated using level 3 markdown headers (###). By default, dashboards are laid out in a single column, with charts stacked vertically and sized to fill the available height of the browser. For example:\n\n\n\n\nflexdashboard_layout_01"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#flexdashboard-layout-1",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#flexdashboard-layout-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Flexdashboard: Layout",
+    "text": "Flexdashboard: Layout\nDepending on the nature of your dashboard (number of components, ideal component height, etc.), you might prefer a scrolling layout where components occupy their natural height and the browser scrolls when additional vertical space is needed. You can specify this attribute via the vertical_layout: scroll option. For example:\n\n\n\n\nflexdashboard_layout_02"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#flexdashboard-layout-2",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#flexdashboard-layout-2",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Flexdashboard: Layout",
+    "text": "Flexdashboard: Layout\nYou can also choose to orient the dashboards by row instead of by column by specifying orientation: rows. For example:\n\n\n\n\nflexdashboard_layout_03"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#flexdashboard-storyboard",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#flexdashboard-storyboard",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Flexdashboard: Storyboard",
+    "text": "Flexdashboard: Storyboard\n\n\n\n\nStoryboard Template\n\n\n\nStoryboards are an alternative to the row and column-based layout schemes. They are suitable for presenting a sequence of data visualizations and related commentary. To create a storyboard layout, add storyboard: true to the dashboard’s preamble. This option includes a set of level 3 dashboard components (###). Each component will receive its own frame in the storyboard, with the section title used as a navigation caption."
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#flexdashboard-additional-material",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#flexdashboard-additional-material",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Flexdashboard: Additional Material",
+    "text": "Flexdashboard: Additional Material\n\nSample Layouts\nFlexdashboard Examples\nUsing Flexdashboard\nInteractive Web-Based Data Visualization with R\nHow to Turn Your Dashboard into a Website\nShiny"
   }
 ]
