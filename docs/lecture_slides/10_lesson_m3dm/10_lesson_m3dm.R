@@ -150,18 +150,6 @@ geom_point(mapping = aes(x = displ, y = hwy))  # add a layer of points
 # 
 # :::
 # 
-# <!---
-# ## Exercise
-# 
-# Choose another variable from the `mpg` dataset and develop a similar plot to the one we saw.
-# 
-# ## Exercise: Answer
-# 
-# ```{r message=FALSE, warning=FALSE, results='hide'}
-mpg %>% ggplot() +  # base plot
-geom_point(mapping = aes(x = cty, y = hwy))  # add a layer of points
-# ```
-# --->
 # 
 # # Going Beyond the Basics  {background-color="#cfb991"}
 # 
@@ -237,6 +225,7 @@ facet_wrap(~ class, nrow = 1)
 # ```{r fig.align="center", fig.height= 2.7, message=FALSE, warning=FALSE}
 mpg %>% ggplot() +
 geom_point(mapping = aes(x = displ, y = hwy)) +
+# facet_wrap(~ class, nrow = 1)  +
 geom_smooth(mapping = aes(x = displ, y = hwy), se = FALSE)
 # ```
 # 
@@ -299,6 +288,17 @@ theme_classic()
 # 
 # ## Other Themes?
 # 
+
+install.packages("ggthemes")
+library(ggthemes)
+dsamp <- diamonds[sample(nrow(diamonds), 1000), ]
+q <- (qplot(carat, price, data=dsamp, colour=clarity)
+      + ggtitle("Diamonds Are Forever"))
+
+## Standard
+q + theme_economist() + scale_colour_economist()
+
+
 # :::{.nonincremental}
 # 
 # For those who didn't like these themes, there are two options:
@@ -336,6 +336,8 @@ theme_classic()
 # ```{r fig.height = 3, fig.align="center"}
 diamonds %>% ggplot() +
 geom_bar(mapping = aes(x = cut))
+
+head(diamonds)
 # ```
 # 
 # ## Calculating Statistics
@@ -354,18 +356,6 @@ geom_bar(mapping = aes(x = cut))
 # 
 # :::
 # 
-# <!---
-# ## Exercise
-# 
-# Select another variable in the `diamonds` dataset to produce a new bar plot.
-# 
-# ## Exercise: Answer
-# 
-# ```{r fig.height = 3.5, fig.align="center"}
-diamonds %>% ggplot() +
-geom_bar(mapping = aes(x = clarity))
-# ```
-# --->
 # 
 # ## Calculating Statistics
 # 
@@ -448,168 +438,168 @@ geom_bar(mapping = aes(x = cut, fill = clarity), position = "dodge")
 # <br>
 # 
 # Another way to change the arrangement of elements in the plot is to alter their coordinates. Let's return to our plot of diamonds by cut:
-#                                                                                                                        
-#                                                                                                                        ```{r fig.height = 3.5, fig.align="center"}
-#                                                                                                                      diamonds %>% ggplot() + 
-#                                                                                                                        geom_bar(mapping = aes(x = cut, fill = cut))
-#                                                                                                                      ```
-#                                                                                                                      
-#                                                                                                                      ## Defining Coordinates
-#                                                                                                                      
-#                                                                                                                      <br>
-#                                                                                                                        
-#                                                                                                                        A first relatively obvious coordinate transformation is to make the bars horizontal. To do this, simply use the `coord_flip()` function.
-#                                                                                                                      
-#                                                                                                                      ```{r fig.height = 3.5, fig.align="center"}
-#                                                                                                                      diamonds %>% ggplot() + 
-#                                                                                                                        geom_bar(mapping = aes(x = cut, fill = cut)) +
-#                                                                                                                        coord_flip()
-#                                                                                                                      ```
-#                                                                                                                      
-#                                                                                                                      ## Defining Coordinates
-#                                                                                                                      
-#                                                                                                                      <br>
-#                                                                                                                        
-#                                                                                                                        A less obvious transformation is to make the bars radiate from a single point with radial dispersion.
-#                                                                                                                      
-#                                                                                                                      ```{r fig.height = 4, fig.align="center"}
-#                                                                                                                      diamonds %>% ggplot() + 
-#                                                                                                                        geom_bar(mapping = aes(x = cut, fill = cut)) +
-#                                                                                                                        coord_polar()
-#                                                                                                                      ```
-#                                                                                                                      
-#                                                                                                                      ## And the Pie Chart?
-#                                                                                                                      
-#                                                                                                                      <center>
-#                                                                                                                        <img src="figs/steve-jobs-pie.jpg" width="950px">
-#                                                                                                                        
-#                                                                                                                        [About Pie Charts](https://stats.stackexchange.com/questions/8974/problems-with-pie-charts){target="_blank"}
-#                                                                                                                      </center>
-#                                                                                                                        
-#                                                                                                                        # Animations  {background-color="#cfb991"}
-#                                                                                                                        
-#                                                                                                                        ## To Create Animations, Use the `gganimate` Package
-#                                                                                                                        
-#                                                                                                                        ```{r fig.show="hide", message=FALSE, warning=FALSE, fig.height=5, cache=TRUE}
-#                                                                                                                      library(gganimate)
-#                                                                                                                      library(gapminder)
-#                                                                                                                      
-#                                                                                                                      gapminder %>% ggplot(aes(gdpPercap, lifeExp, size = pop, colour = country)) +
-#                                                                                                                        geom_point(alpha = 0.7, show.legend = FALSE) +
-#                                                                                                                        scale_colour_manual(values = country_colors) +
-#                                                                                                                        scale_size(range = c(2, 12)) +
-#                                                                                                                        scale_x_log10() +
-#                                                                                                                        # Specific code for the animation
-#                                                                                                                        labs(title = 'Year: {frame_time}', x = 'GDP per capita', y = 'Life Expectancy') +
-#                                                                                                                        transition_time(year) +
-#                                                                                                                        ease_aes('linear')
-#                                                                                                                      ```
-#                                                                                                                      
-#                                                                                                                      ## Result
-#                                                                                                                      
-#                                                                                                                      ```{r echo=FALSE, message=FALSE, warning=FALSE, fig.height=5, cache=TRUE}
-#                                                                                                                      library(gganimate)
-#                                                                                                                      library(gapminder)
-#                                                                                                                      
-#                                                                                                                      gapminder %>% ggplot(aes(gdpPercap, lifeExp, size = pop, colour = country)) +
-#                                                                                                                        geom_point(alpha = 0.7, show.legend = FALSE) +
-#                                                                                                                        scale_colour_manual(values = country_colors) +
-#                                                                                                                        scale_size(range = c(2, 12)) +
-#                                                                                                                        scale_x_log10() +
-#                                                                                                                        # Specific code for the animation
-#                                                                                                                        labs(title = 'Year: {frame_time}', x = 'GDP per capita', y = 'Life Expectancy') +
-#                                                                                                                        transition_time(year) +
-#                                                                                                                        ease_aes('linear')
-#                                                                                                                      ```
-#                                                                                                                      
-#                                                                                                                      ## Dynamic X-Axis
-#                                                                                                                      
-#                                                                                                                      ```{r echo=FALSE, message=FALSE, warning=FALSE, fig.height=5, cache=TRUE}
-#                                                                                                                      gapminder %>% ggplot(aes(gdpPercap, lifeExp, size = pop, colour = country)) +
-#                                                                                                                        geom_point(alpha = 0.7, show.legend = FALSE) +
-#                                                                                                                        scale_colour_manual(values = country_colors) +
-#                                                                                                                        scale_size(range = c(2, 12)) +
-#                                                                                                                        scale_x_log10() +
-#                                                                                                                        # Specific code for the animation
-#                                                                                                                        labs(title = 'Year: {frame_time}', x = 'GDP per capita', y = 'Life Expectancy') +
-#                                                                                                                        transition_time(year) +
-#                                                                                                                        labs(title = "Year: {frame_time}") +
-#                                                                                                                        view_follow(fixed_y = TRUE)
-#                                                                                                                      ```
-#                                                                                                                      
-#                                                                                                                      ## Trailing Points
-#                                                                                                                      
-#                                                                                                                      ```{r echo=FALSE, message=FALSE, warning=FALSE, fig.height=5, cache=TRUE}
-#                                                                                                                      gapminder %>% ggplot(aes(gdpPercap, lifeExp, size = pop, colour = country)) +
-#                                                                                                                        geom_point(alpha = 0.7, show.legend = FALSE) +
-#                                                                                                                        scale_colour_manual(values = country_colors) +
-#                                                                                                                        scale_size(range = c(2, 12)) +
-#                                                                                                                        scale_x_log10() +
-#                                                                                                                        # Specific code for the animation
-#                                                                                                                        labs(title = 'Year: {frame_time}', x = 'GDP per capita', y = 'Life Expectancy') +
-#                                                                                                                        transition_time(year) +
-#                                                                                                                        labs(title = "Year: {frame_time}") +
-#                                                                                                                        shadow_wake(wake_length = 0.2, alpha = FALSE)
-#                                                                                                                      ```
-#                                                                                                                      
-#                                                                                                                      ## Countries Separated by Continent
-#                                                                                                                      
-#                                                                                                                      ```{r echo=FALSE, message=FALSE, warning=FALSE, fig.height=5, cache=TRUE}
-#                                                                                                                      gapminder %>% ggplot(aes(gdpPercap, lifeExp, size = pop, colour = country)) +
-#                                                                                                                        geom_point(alpha = 0.7, show.legend = FALSE) +
-#                                                                                                                        scale_colour_manual(values = country_colors) +
-#                                                                                                                        scale_size(range = c(2, 12)) +
-#                                                                                                                        scale_x_log10() +
-#                                                                                                                        facet_wrap(~continent) +
-#                                                                                                                        # Specific code for the animation
-#                                                                                                                        labs(title = 'Year: {frame_time}', x = 'GDP per capita', y = 'Life Expectancy') +
-#                                                                                                                        transition_time(year) +
-#                                                                                                                        ease_aes('linear')
-#                                                                                                                      ```
-#                                                                                                                      
-#                                                                                                                      ## Datasaurus
-#                                                                                                                      
-#                                                                                                                      ```{r echo=FALSE, message=FALSE, warning=FALSE, fig.height=5, cache=TRUE}
-#                                                                                                                      library(datasauRus)
-#                                                                                                                      
-#                                                                                                                      datasaurus_dozen %>% ggplot(aes(x = x, y = y)) +
-#                                                                                                                        geom_point() +
-#                                                                                                                        theme_minimal() +
-#                                                                                                                        transition_states(dataset, 3, 1) + 
-#                                                                                                                        ease_aes('cubic-in-out')
-#                                                                                                                      ```
-#                                                                                                                      
-#                                                                                                                      <center>
-#                                                                                                                        [Datasaurus](https://cran.r-project.org/web/packages/datasauRus/vignettes/Datasaurus.html){target="_blank"}
-#                                                                                                                      </center>
-#                                                                                                                        
-#                                                                                                                        ## Temperatures
-#                                                                                                                        
-#                                                                                                                        ```{r echo=FALSE, message=FALSE, warning=FALSE, fig.height=5, cache=TRUE}
-#                                                                                                                      airq <- airquality
-#                                                                                                                      airq$Month <- format(ISOdate(2004,1:12,1),"%B")[airq$Month]
-#                                                                                                                      
-#                                                                                                                      airq %>% ggplot(aes(Day, Temp, group = Month)) + 
-#                                                                                                                        geom_line() + 
-#                                                                                                                        geom_segment(aes(xend = 31, yend = Temp), linetype = 2, colour = 'grey') + 
-#                                                                                                                        geom_point(size = 2) + 
-#                                                                                                                        geom_text(aes(x = 31.1, label = Month), hjust = 0) + 
-#                                                                                                                        transition_reveal(Day) + 
-#                                                                                                                        coord_cartesian(clip = 'off') + 
-#                                                                                                                        labs(title = 'Temperature in New York', y = 'Temperature (°F)') + 
-#                                                                                                                        theme_minimal() + 
-#                                                                                                                        theme(plot.margin = margin(5.5, 40, 5.5, 5.5))
-#                                                                                                                      ```
-#                                                                                                                      
-#                                                                                                                      # Conclusion {background-color="#cfb991"}
-#                                                                                                                      
-#                                                                                                                      ## Conclusion
-#                                                                                                                      
-#                                                                                                                      <br>
-#                                                                                                                        
-#                                                                                                                        What we've seen is more than just a tool for creating plots. It's a complete syntax that allows you to **think** about the information you want to convey and **produce** practically any type of plot that suits your needs.
-#                                                                                                                      
-#                                                                                                                      `ggplot()` allows for an infinite number of plot types. It wouldn't be worthwhile to do an extensive survey at this time, as that would be tedious and would end up hindering the absorption of the fundamentals of the grammar of graphics.
+# 
+# ```{r fig.height = 3.5, fig.align="center"}
+diamonds %>% ggplot() +
+geom_bar(mapping = aes(x = cut, fill = cut))
+# ```
+# 
+# ## Defining Coordinates
+# 
+# <br>
+# 
+# A first relatively obvious coordinate transformation is to make the bars horizontal. To do this, simply use the `coord_flip()` function.
+# 
+# ```{r fig.height = 3.5, fig.align="center"}
+diamonds %>% ggplot() +
+geom_bar(mapping = aes(x = cut, fill = cut)) +
+coord_flip()
+# ```
+# 
+# ## Defining Coordinates
+# 
+# <br>
+# 
+# A less obvious transformation is to make the bars radiate from a single point with radial dispersion.
+# 
+# ```{r fig.height = 4, fig.align="center"}
+diamonds %>% ggplot() +
+geom_bar(mapping = aes(x = cut, fill = cut)) +
+coord_polar()
+# ```
+# 
+# ## And the Pie Chart?
+# 
+# <center>
+# <img src="figs/steve-jobs-pie.jpg" width="950px">
+# 
+# [About Pie Charts](https://stats.stackexchange.com/questions/8974/problems-with-pie-charts){target="_blank"}
+# </center>
+# 
+# # Animations  {background-color="#cfb991"}
+# 
+# ## To Create Animations, Use the `gganimate` Package
+# 
+# ```{r fig.show="hide", message=FALSE, warning=FALSE, fig.height=5, cache=TRUE}
+library(gganimate)
+library(gapminder)
+
+gapminder %>% ggplot(aes(gdpPercap, lifeExp, size = pop, colour = country)) +
+geom_point(alpha = 0.7, show.legend = FALSE) +
+scale_colour_manual(values = country_colors) +
+scale_size(range = c(2, 12)) +
+scale_x_log10() +
+# Specific code for the animation
+labs(title = 'Year: {frame_time}', x = 'GDP per capita', y = 'Life Expectancy') +
+transition_time(year) +
+ease_aes('linear')
+# ```
+# 
+# ## Result
+# 
+# ```{r echo=FALSE, message=FALSE, warning=FALSE, fig.height=5, cache=TRUE}
+library(gganimate)
+library(gapminder)
+
+gapminder %>% ggplot(aes(gdpPercap, lifeExp, size = pop, colour = country)) +
+geom_point(alpha = 0.7, show.legend = FALSE) +
+scale_colour_manual(values = country_colors) +
+scale_size(range = c(2, 12)) +
+scale_x_log10() +
+# Specific code for the animation
+labs(title = 'Year: {frame_time}', x = 'GDP per capita', y = 'Life Expectancy') +
+transition_time(year) +
+ease_aes('linear')
+# ```
+# 
+# ## Dynamic X-Axis
+# 
+# ```{r echo=FALSE, message=FALSE, warning=FALSE, fig.height=5, cache=TRUE}
+gapminder %>% ggplot(aes(gdpPercap, lifeExp, size = pop, colour = country)) +
+geom_point(alpha = 0.7, show.legend = FALSE) +
+scale_colour_manual(values = country_colors) +
+scale_size(range = c(2, 12)) +
+scale_x_log10() +
+# Specific code for the animation
+labs(title = 'Year: {frame_time}', x = 'GDP per capita', y = 'Life Expectancy') +
+transition_time(year) +
+labs(title = "Year: {frame_time}") +
+view_follow(fixed_y = TRUE)
+# ```
+# 
+# ## Trailing Points
+# 
+# ```{r echo=FALSE, message=FALSE, warning=FALSE, fig.height=5, cache=TRUE}
+gapminder %>% ggplot(aes(gdpPercap, lifeExp, size = pop, colour = country)) +
+geom_point(alpha = 0.7, show.legend = FALSE) +
+scale_colour_manual(values = country_colors) +
+scale_size(range = c(2, 12)) +
+scale_x_log10() +
+# Specific code for the animation
+labs(title = 'Year: {frame_time}', x = 'GDP per capita', y = 'Life Expectancy') +
+transition_time(year) +
+labs(title = "Year: {frame_time}") +
+shadow_wake(wake_length = 0.2, alpha = FALSE)
+# ```
+# 
+# ## Countries Separated by Continent
+# 
+# ```{r echo=FALSE, message=FALSE, warning=FALSE, fig.height=5, cache=TRUE}
+gapminder %>% ggplot(aes(gdpPercap, lifeExp, size = pop, colour = country)) +
+geom_point(alpha = 0.7, show.legend = FALSE) +
+scale_colour_manual(values = country_colors) +
+scale_size(range = c(2, 12)) +
+scale_x_log10() +
+facet_wrap(~continent) +
+# Specific code for the animation
+labs(title = 'Year: {frame_time}', x = 'GDP per capita', y = 'Life Expectancy') +
+transition_time(year) +
+ease_aes('linear')
+# ```
+# 
+# ## Datasaurus
+# 
+# ```{r echo=FALSE, message=FALSE, warning=FALSE, fig.height=5, cache=TRUE}
+library(datasauRus)
+
+datasaurus_dozen %>% ggplot(aes(x = x, y = y)) +
+geom_point() +
+theme_minimal() +
+transition_states(dataset, 3, 1) +
+ease_aes('cubic-in-out')
+# ```
+# 
+# <center>
+# [Datasaurus](https://cran.r-project.org/web/packages/datasauRus/vignettes/Datasaurus.html){target="_blank"}
+# </center>
+# 
+# ## Temperatures
+# 
+# ```{r echo=FALSE, message=FALSE, warning=FALSE, fig.height=5, cache=TRUE}
+airq <- airquality
+airq$Month <- format(ISOdate(2004,1:12,1),"%B")[airq$Month]
+
+airq %>% ggplot(aes(Day, Temp, group = Month)) +
+geom_line() +
+geom_segment(aes(xend = 31, yend = Temp), linetype = 2, colour = 'grey') +
+geom_point(size = 2) +
+geom_text(aes(x = 31.1, label = Month), hjust = 0) +
+transition_reveal(Day) +
+coord_cartesian(clip = 'off') +
+labs(title = 'Temperature in New York', y = 'Temperature (°F)') +
+theme_minimal() +
+theme(plot.margin = margin(5.5, 40, 5.5, 5.5))
+# ```
+# 
+# # Conclusion {background-color="#cfb991"}
+# 
+# ## Conclusion
+# 
+# <br>
+# 
+# What we've seen is more than just a tool for creating plots. It's a complete syntax that allows you to **think** about the information you want to convey and **produce** practically any type of plot that suits your needs.
+# 
+# `ggplot()` allows for an infinite number of plot types. It wouldn't be worthwhile to do an extensive survey at this time, as that would be tedious and would end up hindering the absorption of the fundamentals of the grammar of graphics.
 # 
 # # Summary {background-color="#cfb991"}
 # 
