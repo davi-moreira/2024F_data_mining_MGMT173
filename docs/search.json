@@ -153,7 +153,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Date\nTopic\nAssignment (due dates on Brightspace)\nSlides**\nSupplementary Materials\n\n\n\n\n8/19/24\nLesson 1: Technical Enablers of Modern Data-Driven Decision Making\nQuiz #1Exercise #1\nslides\n- Video: The NBA Data Scientist- Video: Hans Rosling’s 200 Countries, 200 Years\n\n\n8/26/24\nLesson 2: Data Organization for Using Data to Drive Decisions\nQuiz #2Exercise #2\nslides\n- Video: Relational vs. Non-Relational Databases\n\n\n9/2/24\nNo class* - Labor Day - Lesson 3: Tools for Using Data to Drive Decisions\nQuiz #3Exercise #3\n\n\n\n\n9/9/24\nLesson 4: Introduction to R and RStudio\nQuiz #4Exercise #4\nslidesscript\n- Video: RStudio is now Posit!\n\n\n9/16/24\nLesson 5: Installing Packages and Importing Data in R\nQuiz #5Exercise #5\nslidesscriptdata\n- Video: It’s a Great Time to be an R Package Developer!- Blog: Quick list of useful R packages- Posit R packages\n\n\n9/23/24\nLesson 6: Data Types and Viewing Data Types in R\nQuiz #6Exercise #6\nslidesscriptdata\n- R Data Types- Dates with Lubridate- Categorical Data\n\n\n9/30/24\nLesson 7: Key Steps of Performing Data Mining in R\nQuiz #7Exercise #7\nslidesscript\n- Blog: Data Mining in R - Blog: Data Mining with R\n\n\n10/7/24\nNo class* - Fall Break - Lesson 8: Most Applied Data Mining Techniques\nQuiz #8Exercise #8\n.\n.\n\n\n10/14/24\nLesson 9: Exploratory Data Analysis in R: Summary Statistics\nQuiz #9Exercise #9\nslidesscript\n- R4DS: Exploratory Data Analysis - IBM: What is Exploratory Data Analysis?\n\n\n10/21/24\nLesson 10: Exploratory Data Analysis in R: Visualization and Dashboarding\nQuiz #10Exercise #10\nslidesscript\n- R4DS: Visualize - Hadley Wickham’s Lecture - r-graph-gallery - ggplot flipbook - Gallery - Edward Tufte\n\n\n10/28/24\nLesson 11: Mine Data through Predictive Modeling in R\nQuiz #11Exercise #11\n.\n.\n\n\n11/4/24\nLesson 12: Identifying Significant Predictors\nQuiz #12Exercise #12\n.\n.\n\n\n11/11/24\nLesson 13: Predictive Model Interpretations and Predictions\nQuiz #13Exercise #13\n.\n.\n\n\n11/18/24\nLesson 14: Evaluating Predictive Model Performance\nQuiz #14Exercise #14\n.\n.\n\n\n11/25/24\nLesson 15: Bringing It All Together: From Data to Insights to Decisions\nQuiz #15Exercise #15\n.\n.\n\n\n12/2/24\nProject presentation and report due\nProject presentation submission\n.\n.\n\n\n12/9/24\nFinal Exam (online) 4:00 PM - 6:00 PM\n.\n.\n\n\n\n\n*Please note that for the two classes missed due to holidays and breaks, there will be no make-up sessions. However, students are expected to independently complete the assigned readings and exercises during these periods. While class discussions won’t take place, engaging with the materials and teammates will ensure you stay on track with the course content.\n** Course material adapted from the textbook and previous course editions to better fit our curriculum. Thanks to Professor Zhiwei Zhu, Dr. Z.Z, for guidance and for generously sharing the materials.",
+    "text": "Date\nTopic\nAssignment (due dates on Brightspace)\nSlides**\nSupplementary Materials\n\n\n\n\n8/19/24\nLesson 1: Technical Enablers of Modern Data-Driven Decision Making\nQuiz #1Exercise #1\nslides\n- Video: The NBA Data Scientist- Video: Hans Rosling’s 200 Countries, 200 Years\n\n\n8/26/24\nLesson 2: Data Organization for Using Data to Drive Decisions\nQuiz #2Exercise #2\nslides\n- Video: Relational vs. Non-Relational Databases\n\n\n9/2/24\nNo class* - Labor Day - Lesson 3: Tools for Using Data to Drive Decisions\nQuiz #3Exercise #3\n\n\n\n\n9/9/24\nLesson 4: Introduction to R and RStudio\nQuiz #4Exercise #4\nslidesscript\n- Video: RStudio is now Posit!\n\n\n9/16/24\nLesson 5: Installing Packages and Importing Data in R\nQuiz #5Exercise #5\nslidesscriptdata\n- Video: It’s a Great Time to be an R Package Developer!- Blog: Quick list of useful R packages- Posit R packages\n\n\n9/23/24\nLesson 6: Data Types and Viewing Data Types in R\nQuiz #6Exercise #6\nslidesscriptdata\n- R Data Types- Dates with Lubridate- Categorical Data\n\n\n9/30/24\nLesson 7: Key Steps of Performing Data Mining in R\nQuiz #7Exercise #7\nslidesscript\n- Blog: Data Mining in R - Blog: Data Mining with R\n\n\n10/7/24\nNo class* - Fall Break - Lesson 8: Most Applied Data Mining Techniques\nQuiz #8Exercise #8\n.\n.\n\n\n10/14/24\nLesson 9: Exploratory Data Analysis in R: Summary Statistics\nQuiz #9Exercise #9\nslidesscript\n- R4DS: Exploratory Data Analysis - IBM: What is Exploratory Data Analysis?\n\n\n10/21/24\nLesson 10: Exploratory Data Analysis in R: Visualization and Dashboarding\nQuiz #10Exercise #10\nslidesscript\n- R4DS: Visualize - Hadley Wickham’s Lecture - r-graph-gallery - ggplot flipbook - Gallery - Edward Tufte\n\n\n10/28/24\nLesson 11: Mine Data through Predictive Modeling in R\nQuiz #11Exercise #11\nslidesscript\n- Video: Line Fitting, Residuals, and Correlation - Video: Fitting a Line with Least Squares Regression - Video: Least Squares Regression - Video: Types of Outliers in Linear Regression - Video: Inference for Linear Regression -IMS: Linear regression with a single predictor -IMS: Inference for linear regression with a single predictor- Video: Introduction to Multiple Regression- Video: Model Selection in Multiple Regression- Video: Checking Multiple Regression Diagnostics Using Graphs-IMS: Linear regression with multiple predictors-IMS: Inference for linear regression with multiple predictors\n\n\n11/4/24\nLesson 12: Identifying Significant Predictors\nQuiz #12Exercise #12\n.\n.\n\n\n11/11/24\nLesson 13: Predictive Model Interpretations and Predictions\nQuiz #13Exercise #13\n.\n.\n\n\n11/18/24\nLesson 14: Evaluating Predictive Model Performance\nQuiz #14Exercise #14\n.\n.\n\n\n11/25/24\nLesson 15: Bringing It All Together: From Data to Insights to Decisions\nQuiz #15Exercise #15\n.\n.\n\n\n12/2/24\nProject presentation and report due\nProject presentation submission\n.\n.\n\n\n12/9/24\nFinal Exam (online) 4:00 PM - 6:00 PM\n.\n.\n\n\n\n\n*Please note that for the two classes missed due to holidays and breaks, there will be no make-up sessions. However, students are expected to independently complete the assigned readings and exercises during these periods. While class discussions won’t take place, engaging with the materials and teammates will ensure you stay on track with the course content.\n** Course material adapted from the textbook and previous course editions to better fit our curriculum. Thanks to Professor Zhiwei Zhu, Dr. Z.Z, for guidance and for generously sharing the materials.",
     "crumbs": [
       "Schedule and Material"
     ]
@@ -2388,5 +2388,411 @@
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Flexdashboard: Additional Material",
     "text": "Flexdashboard: Additional Material\n\nSample Layouts\nFlexdashboard Examples\nUsing Flexdashboard\nInteractive Web-Based Data Visualization with R\nHow to Turn Your Dashboard into a Website\nShiny"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#overview",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#overview",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Overview",
+    "text": "Overview\n\n\n\n\nLesson Exercise Review\nLesson Question!\nCourse Learning Milestones\nThe 8 Key Steps of a Data Mining Project\n\n\n\nAssociation Between Two Variables\nModel\nSimple Regression Model\nMaking Predictions\nMultiple Regression Model"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#course-learning-milestones-1",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#course-learning-milestones-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Course Learning Milestones",
+    "text": "Course Learning Milestones"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#the-8-key-steps-of-a-data-mining-project-1",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#the-8-key-steps-of-a-data-mining-project-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "The 8 Key Steps of a Data Mining Project",
+    "text": "The 8 Key Steps of a Data Mining Project\n\n\n\nGoal Setting\n\nDefine the project’s goal\n\n\n\nData Understanding\n\nAcquire analysis tools\n\nPrepare data\n\nData summarization\n\nData visualization\n\n\n\nInsights\n\nData mining modeling\n\nModel validation\n\nInterpretation and implementation"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#covariance",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#covariance",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Covariance",
+    "text": "Covariance\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Covariance is a measure of the linear association between two variables.\nPositive values indicate a positive relationship.\nNegative values indicate a negative relationship.\n\n\n\n\nd## Correlation Coefficient\n\n\n\n\n\n\n\n\n\n\n\n\nCorrelation is a unit-free measure of linear association and not necessarily causation.\nThe coefficient can take on values between −1 and +1.\n\nValues near −1 indicate a strong negative linear relationship.\nValues near +1 indicate a strong positive linear relationship.\n\nThe closer the correlation is to zero, the weaker the linear relationship."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#correlation-coefficient",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#correlation-coefficient",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Correlation Coefficient",
+    "text": "Correlation Coefficient\n\n\n\n\nCorrelation is a unit-free measure of linear association and not necessarily causation.\nThe coefficient can take on values between −1 and +1.\n\nValues near −1 indicate a strong negative linear relationship.\nValues near +1 indicate a strong positive linear relationship.\n\nThe closer the correlation is to zero, the weaker the linear relationship."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#what-is-a-model",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#what-is-a-model",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "What is a model?",
+    "text": "What is a model?\n\n\n\n\n\n\n\nAll models are wrong, but some are useful.\nGeorge Box\n\n\n\n\n\n\n\n\n\n\n\n\nNY City Subway Map"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#what-does-it-mean-to-model-data",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#what-does-it-mean-to-model-data",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "What does it mean to “model” data?",
+    "text": "What does it mean to “model” data?\n\n\nLet’s start with a very simple premise:\n\nto model, we need to make explicit the conditions under which a variable \\(X\\) is related to a variable \\(Y\\).\n\n\n\n\nLet’s begin by giving specific names to these variables:\n\nDependent Variable (DV): This is our phenomenon of interest, usually denoted as \\(Y\\).\nIndependent Variable (IV): This is the phenomenon that explains/describe our dependent variable, generally denoted as \\(X\\)."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#what-does-it-mean-to-model-data-1",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#what-does-it-mean-to-model-data-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "What does it mean to “model” data?",
+    "text": "What does it mean to “model” data?\n\nMathematically, we model \\(Y\\) as a function of \\(X\\). Statistically, modeling can serve two main purposes:\n\nPrediction: The possibility of using the values of \\(X\\) to predict the value of \\(Y\\). There must be a substantive connection between these two variables for one to generate reliable predictions about the values of the other.\nExplanation: Used to understand the connection and significance (both substantive and statistical) of the relationship between two variables. In this case, we aim to accurately estimate the impact of one variable on the other, preferably excluding any potential omitted variables."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#objective",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#objective",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Objective",
+    "text": "Objective\n\nAnalyze the relationship between horsepower (hp) and miles per gallon (mpg).\nBuild a simple linear regression model to predict mpg based on hp."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#the-mtcars-dataset-overview",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#the-mtcars-dataset-overview",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "The mtcars Dataset: Overview",
+    "text": "The mtcars Dataset: Overview\n\nBuilt-in dataset in R.\nContains data on fuel consumption and 10 aspects of automobile design and performance for 32 cars (1973–74 models).\nVariables Used\n\nmpg: Miles per gallon (Dependent Variable).\nhp: Gross horsepower (Independent Variable)."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#exploring-the-data-summary-statistics",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#exploring-the-data-summary-statistics",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Exploring the Data: Summary Statistics",
+    "text": "Exploring the Data: Summary Statistics\n\n\n\n\n# Summary statistics for mpg and hp\nsummary(mtcars[, c(\"mpg\", \"hp\")])\n\n\n\n\n      mpg              hp       \n Min.   :10.40   Min.   : 52.0  \n 1st Qu.:15.43   1st Qu.: 96.5  \n Median :19.20   Median :123.0  \n Mean   :20.09   Mean   :146.7  \n 3rd Qu.:22.80   3rd Qu.:180.0  \n Max.   :33.90   Max.   :335.0"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#scatter-plot-of-mpg-vs-hp",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#scatter-plot-of-mpg-vs-hp",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Scatter Plot of mpg vs hp",
+    "text": "Scatter Plot of mpg vs hp\n\n\n\n\n# Scatter plot\nplot(mtcars$hp, mtcars$mpg,\n     main = \"MPG vs Horsepower\",\n     xlab = \"Horsepower (hp)\",\n     ylab = \"Miles per Gallon (mpg)\",\n     pch = 19, col = \"blue\")\n\n\n\n\n\n\n\n\n\n\n\nObservation: As horsepower increases, miles per gallon tends to decrease."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#fitting-the-regression-model",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#fitting-the-regression-model",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Fitting the Regression Model",
+    "text": "Fitting the Regression Model\n\n# Fit the linear regression model\nmodel &lt;- lm(mpg ~ hp, data = mtcars)\nsummary(model)"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#interpreting-the-results",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#interpreting-the-results",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Interpreting the Results",
+    "text": "Interpreting the Results\n\nCoefficients:\n\nIntercept (\\(\\beta_0\\)): Expected mpg when hp is zero.\nSlope (\\(\\beta_1\\)): Change in mpg for each additional horsepower.\n\nR-squared: Proportion of variance in mpg explained by hp.\np-value: Significance of the relationship between hp and mpg."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#residuals-vs-fitted",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#residuals-vs-fitted",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Residuals vs Fitted",
+    "text": "Residuals vs Fitted\n\n\n\n\n# Residuals vs Fitted plot\nplot(model_mult$fitted.values, model_mult$residuals,\n     main = \"Residuals vs Fitted\",\n     xlab = \"Fitted Values\",\n     ylab = \"Residuals\",\n     pch = 19, col = \"darkgreen\")\nabline(h = 0, col = \"red\")"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#normal-q-q-plot",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#normal-q-q-plot",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Normal Q-Q Plot",
+    "text": "Normal Q-Q Plot\n\n\n\n\n# Q-Q plot for residuals\nqqnorm(model_mult$residuals)\nqqline(model_mult$residuals, col = \"red\")"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#predicting-mpg-for-new-hp-values",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#predicting-mpg-for-new-hp-values",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Predicting mpg for New hp Values",
+    "text": "Predicting mpg for New hp Values\n\n\n\n\n# New horsepower values\nnew_hp &lt;- data.frame(hp = c(110, 150, 200))\n\n# Predicted mpg\npredicted_mpg &lt;- predict(model, newdata = new_hp)\ncbind(new_hp, Predicted_mpg = predicted_mpg)\n\n\n\n\n\n\n   hp Predicted_mpg\n1 110      22.59375\n2 150      19.86462\n3 200      16.45320"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#adding-the-regression-line-to-the-scatter-plot",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#adding-the-regression-line-to-the-scatter-plot",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Adding the Regression Line to the Scatter Plot",
+    "text": "Adding the Regression Line to the Scatter Plot\n\n\n\n\n# Scatter plot with regression line\nplot(mtcars$hp, mtcars$mpg,\n     main = \"MPG vs Horsepower with Regression Line\",\n     xlab = \"Horsepower (hp)\",\n     ylab = \"Miles per Gallon (mpg)\",\n     pch = 19, col = \"blue\")\nabline(model, col = \"red\", lwd = 2)"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#limitations",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#limitations",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Limitations",
+    "text": "Limitations\n\nThe model considers only one predictor (hp).\nPotential influence of outliers or high-leverage points.\nOther variables may affect mpg (e.g., weight, number of cylinders)."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#conclusion-key-takeaways",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#conclusion-key-takeaways",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Conclusion: Key Takeaways",
+    "text": "Conclusion: Key Takeaways\n\nThere is a significant negative linear relationship between horsepower and miles per gallon.\nThe model can be used to predict fuel efficiency based on horsepower."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#recommendations",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#recommendations",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Recommendations",
+    "text": "Recommendations\n\nConsider adding more variables for a multiple regression model.\nFurther investigate the impact of other factors on fuel efficiency."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#precision-and-accuracy",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#precision-and-accuracy",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Precision and Accuracy",
+    "text": "Precision and Accuracy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrecision: Refers to the consistency or reliability of the model’s predictions.\nAccuracy: Refers to how close the model’s predictions are to the true values.\n\n\nIn the context of regression:\n\nHigh Precision, Low Accuracy: Predictions are consistent but biased.\nHigh Precision, High Accuracy: Predictions are both consistent and valid.\nLow Precision, Low Accuracy: Predictions are neither consistent nor valid.\nLow Precision, High Accuracy: Predictions are valid on average but have high variability.\n\n\nTo achieve high precision and high accuracy, we need to meet the model assumptions."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#motivation-controlling-for-a-variable",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#motivation-controlling-for-a-variable",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Motivation: Controlling for a Variable",
+    "text": "Motivation: Controlling for a Variable\n\nPuzzle: What is the effect of education on income?\nY: Income\nX: Education\nObjective: X \\(\\rightarrow\\) Y\nChallenge: X \\(\\leftarrow\\) W \\(\\rightarrow\\) Y\nW: IQ (Intelligence)\nSolution: Control for W"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#motivation-controlling-for-a-variable-1",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#motivation-controlling-for-a-variable-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Motivation: Controlling for a Variable",
+    "text": "Motivation: Controlling for a Variable\n\n\n\n\nDAG\n\n\n\nSource: Causal Inference Animated Plots"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#motivation-controlling-for-a-variable-2",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#motivation-controlling-for-a-variable-2",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Motivation: Controlling for a Variable",
+    "text": "Motivation: Controlling for a Variable\n\n\n\n\nRelationship between Y and X controlled for W\n\n\n\nSource: Causal Inference Animated Plots"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#omitted-variables-confounders",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#omitted-variables-confounders",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Omitted Variables (Confounders)",
+    "text": "Omitted Variables (Confounders)\n\nOne of the most common errors in observational studies (besides selection bias and information bias — classification or measurement error);\nIt occurs when we suggest that the explanation for something is “confounded” with the effect of another variable;\nFor example, “the sun rose because the rooster crowed,” and not because of Earth’s rotation."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#how-to-address-omitted-variable-bias",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#how-to-address-omitted-variable-bias",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "How to Address Omitted Variable Bias?",
+    "text": "How to Address Omitted Variable Bias?\n\nBe well-versed in the literature;\nSelect good control variables for your model;\nThat is, perform a multiple regression model."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#multiple-regression-1",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#multiple-regression-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Multiple Regression",
+    "text": "Multiple Regression\n\nRegression analysis involving two or more independent variables (x’s).\nThis subject area, called multiple regression analysis, enables us to consider more independent variables (factors) and thus obtain better estimates of the relationship than are possible with simple linear regression."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#multiple-regression-model",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#multiple-regression-model",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Multiple Regression Model",
+    "text": "Multiple Regression Model\nThe equation that describes how the dependent variable \\(y\\) is related to the independent variables \\(x_1, x_2, \\ldots x_p\\) and an error term \\(\\epsilon\\) is:\n\\[\ny = \\beta_0 + \\beta_1 x_1 + \\beta_2 x_2 + \\dots + \\beta_p x_p + \\epsilon\n\\]\nWhere:\n\n\\(\\beta_0, \\beta_1, \\beta_2, \\dots, \\beta_p\\) are the unknown parameters.\n\\(\\epsilon\\) is a random variable called the error term with the same assumptions as in simple regression (Normality, zero mean, constant variance, independence).\n\\(p\\) is the number of independent variables (dimension or complexity of the model)."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#multiple-regression-equation",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#multiple-regression-equation",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Multiple Regression Equation",
+    "text": "Multiple Regression Equation\nThe equation that describes how the mean value of \\(y\\) is related to \\(x_1, x_2, \\ldots x_p\\) is:\n\\[\nE(y) = \\beta_0 + \\beta_1 x_1 + \\beta_2 x_2 + \\dots + \\beta_p x_p\n\\]\n\\(\\beta_1, \\ldots, \\beta_p\\) measure the marginal effects of the respective independent variables.\n\nFor example, \\(\\beta_1\\) is the change in \\(E(y)\\) corresponding to a 1-unit increase in \\(x_1\\), when all other independent variables are held constant or when we control for all other independent variables."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#estimated-multiple-regression-equation",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#estimated-multiple-regression-equation",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Estimated Multiple Regression Equation",
+    "text": "Estimated Multiple Regression Equation\n\n\\[\n\\hat{y} = b_0 + b_1 x_1 + b_2 x_2 + \\dots + b_p x_p\n\\]\nA simple random sample is used to compute sample slopes \\(b_0, b_1, b_2, \\dots, b_p\\) that are used as the point estimators of the population slopes \\(\\beta_0, \\beta_1, \\beta_2, \\dots, \\beta_p\\).\n\nHence, \\(\\hat{y}\\) estimates \\(E(Y)\\)."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#objective-1",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#objective-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Objective",
+    "text": "Objective\n\nAnalyze the relationship between multiple predictors and miles per gallon (mpg).\nBuild a multiple linear regression model to predict mpg based on:\n\nHorsepower (hp)\nWeight (wt)\nTransmission Type (am)\nEngine Type (vs)\nNumber of Cylinders (cyl)"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#variables-used",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#variables-used",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Variables Used",
+    "text": "Variables Used\n\nmpg: Miles per gallon (Dependent Variable).\nhp: Gross horsepower.\nwt: Weight (1000 lbs).\nam: Transmission (0 = automatic, 1 = manual).\nvs: Engine type (0 = V-shaped, 1 = straight).\ncyl: Number of cylinders."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#data-structure",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#data-structure",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Data Structure",
+    "text": "Data Structure\n\n\n\n\n# Structure of the dataset\nstr(mtcars[, c(\"mpg\", \"hp\", \"wt\", \"am\", \"vs\", \"cyl\")])\n\n\n\n\n'data.frame':   32 obs. of  6 variables:\n $ mpg: num  21 21 22.8 21.4 18.7 18.1 14.3 24.4 22.8 19.2 ...\n $ hp : num  110 110 93 110 175 105 245 62 95 123 ...\n $ wt : num  2.62 2.88 2.32 3.21 3.44 ...\n $ am : num  1 1 1 0 0 0 0 0 0 0 ...\n $ vs : num  0 0 1 1 0 1 0 1 1 1 ...\n $ cyl: num  6 6 4 6 8 6 8 4 4 6 ..."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#summary-statistics",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#summary-statistics",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Summary Statistics",
+    "text": "Summary Statistics\n\n# Summary statistics for selected variables\nsummary(mtcars[, c(\"mpg\", \"hp\", \"wt\", \"am\", \"vs\", \"cyl\")])"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#converting-categorical-variables",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#converting-categorical-variables",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Converting Categorical Variables",
+    "text": "Converting Categorical Variables\n\n# Convert 'am', 'vs', and 'cyl' to factors\nmtcars$am &lt;- factor(mtcars$am, labels = c(\"Automatic\", \"Manual\"))\nmtcars$vs &lt;- factor(mtcars$vs, labels = c(\"V-shaped\", \"Straight\"))\nmtcars$cyl &lt;- factor(mtcars$cyl)"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#checking-for-missing-values",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#checking-for-missing-values",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Checking for Missing Values",
+    "text": "Checking for Missing Values\n\n# Check for NA values\ncolSums(is.na(mtcars))\n\n\nObservation: No missing values in the selected variables."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#visualizing-relationships",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#visualizing-relationships",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Visualizing Relationships",
+    "text": "Visualizing Relationships"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#pairwise-scatter-plots",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#pairwise-scatter-plots",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Pairwise Scatter Plots",
+    "text": "Pairwise Scatter Plots\n\n\n\n\n# Scatter plot matrix\npairs(mtcars[, c(\"mpg\", \"hp\", \"wt\")], main = \"Scatter Plot Matrix\")"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#boxplots-for-categorical-variables",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#boxplots-for-categorical-variables",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Boxplots for Categorical Variables",
+    "text": "Boxplots for Categorical Variables\n\n\n\n\n# Boxplot of mpg by Transmission Type\nboxplot(mpg ~ am, data = mtcars,\n        main = \"MPG by Transmission Type\",\n        xlab = \"Transmission\",\n        ylab = \"Miles per Gallon\",\n        col = c(\"lightblue\", \"lightgreen\"))"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#building-the-multiple-regression-model",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#building-the-multiple-regression-model",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Building the Multiple Regression Model",
+    "text": "Building the Multiple Regression Model\n\n\n\n\n# Fit the multiple linear regression model\nmodel_mult &lt;- lm(mpg ~ hp + wt + am + vs + cyl, data = mtcars)\nsummary(model_mult)\n\n\n\n\n\nCall:\nlm(formula = mpg ~ hp + wt + am + vs + cyl, data = mtcars)\n\nResiduals:\n    Min      1Q  Median      3Q     Max \n-4.3405 -1.2158  0.0046  0.9389  4.6354 \n\nCoefficients:\n            Estimate Std. Error t value Pr(&gt;|t|)    \n(Intercept) 31.18461    3.42002   9.118    2e-09 ***\nhp          -0.03475    0.01382  -2.515   0.0187 *  \nwt          -2.37337    0.88763  -2.674   0.0130 *  \namManual     2.70384    1.59850   1.691   0.1032    \nvsStraight   1.99000    1.76018   1.131   0.2690    \ncyl6        -2.09011    1.62868  -1.283   0.2112    \ncyl8         0.29098    3.14270   0.093   0.9270    \n---\nSignif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1\n\nResidual standard error: 2.397 on 25 degrees of freedom\nMultiple R-squared:  0.8724,    Adjusted R-squared:  0.8418 \nF-statistic: 28.49 on 6 and 25 DF,  p-value: 5.064e-10"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#interpreting-the-coefficients",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#interpreting-the-coefficients",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Interpreting the Coefficients",
+    "text": "Interpreting the Coefficients\n\nIntercept (\\(\\beta_0\\)): Expected mpg when all predictors are at reference levels or zero.\nhp: Change in mpg per unit increase in horsepower, holding other variables constant.\nwt: Change in mpg per 1000 lbs increase in weight, holding other variables constant.\nam: Difference in mpg between manual and automatic transmission.\nvs: Difference in mpg between straight and V-shaped engines.\ncyl: Effect of the number of cylinders on mpg."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#evaluating-the-model",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#evaluating-the-model",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Evaluating the Model",
+    "text": "Evaluating the Model\n\nAdjusted R-squared: Measures the proportion of variance in mpg explained by the model, adjusted for the number of predictors.\nF-statistic: Tests the overall significance of the model.\np-values: Assess the significance of individual predictors."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#analysis-of-variance-anova",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#analysis-of-variance-anova",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Analysis of Variance (ANOVA)",
+    "text": "Analysis of Variance (ANOVA)\n\n\nAnalysis of Variance Table\n\nResponse: mpg\n          Df Sum Sq Mean Sq  F value    Pr(&gt;F)    \nhp         1 678.37  678.37 118.0356 5.864e-11 ***\nwt         1 252.63  252.63  43.9566 6.022e-07 ***\nam         1  14.76   14.76   2.5676    0.1216    \nvs         1  11.33   11.33   1.9710    0.1726    \ncyl        2  25.28   12.64   2.1997    0.1318    \nResiduals 25 143.68    5.75                       \n---\nSignif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1\n\n\n\nObservation: Provides information on the overall fit and significance of the model."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#residuals-vs-fitted-1",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#residuals-vs-fitted-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Residuals vs Fitted",
+    "text": "Residuals vs Fitted\n\n\n\n\n# Residuals vs Fitted plot\nplot(model_mult$fitted.values, model_mult$residuals,\n     main = \"Residuals vs Fitted\",\n     xlab = \"Fitted Values\",\n     ylab = \"Residuals\",\n     pch = 19, col = \"darkgreen\")\nabline(h = 0, col = \"red\")"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#normal-q-q-plot-1",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#normal-q-q-plot-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Normal Q-Q Plot",
+    "text": "Normal Q-Q Plot\n\n\n\n\n# Q-Q plot for residuals\nqqnorm(model_mult$residuals)\nqqline(model_mult$residuals, col = \"red\")"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#scale-location-plot",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#scale-location-plot",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Scale-Location Plot",
+    "text": "Scale-Location Plot"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#predicting-mpg-for-new-data",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#predicting-mpg-for-new-data",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Predicting mpg for New Data",
+    "text": "Predicting mpg for New Data\n\n\n\n\n# New data frame with predictor values\nnew_data &lt;- data.frame(\n  hp = c(110, 150),\n  wt = c(2.5, 3.0),\n  am = factor(c(\"Manual\", \"Automatic\"), levels = levels(mtcars$am)),\n  vs = factor(c(\"Straight\", \"V-shaped\"), levels = levels(mtcars$vs)),\n  cyl = factor(c(\"4\", \"6\"), levels = levels(mtcars$cyl))\n)\n\n# Predicted mpg\npredicted_mpg &lt;- predict(model_mult, newdata = new_data)\ncbind(new_data, Predicted_mpg = predicted_mpg)\n\n\n\n\n\n\n   hp  wt        am       vs cyl Predicted_mpg\n1 110 2.5    Manual Straight   4      26.12252\n2 150 3.0 Automatic V-shaped   6      16.76187"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#interpreting-the-results-1",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#interpreting-the-results-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Interpreting the Results",
+    "text": "Interpreting the Results\n\nSignificant Predictors\n\nhp and wt: Generally significant predictors of mpg.\nam: Transmission type may have a significant effect.\nvs and cyl: Assess their p-values to determine significance."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#multicollinearity-check",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#multicollinearity-check",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Multicollinearity Check",
+    "text": "Multicollinearity Check\n\n\n         GVIF Df GVIF^(1/(2*Df))\nhp   4.841972  1        2.200448\nwt   4.068697  1        2.017101\nam   3.431766  1        1.852503\nvs   4.245332  1        2.060420\ncyl 11.156221  2        1.827592\n\n\n\nObservation: VIF values greater than 5 or 10 indicate multicollinearity."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#key-takeaways",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#key-takeaways",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Key Takeaways",
+    "text": "Key Takeaways\n\nMultiple regression allows for the inclusion of several predictors to improve model accuracy.\nImportant to check for multicollinearity and remove redundant variables.\nModel diagnostics are crucial for validating assumptions."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#recommendations-1",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#recommendations-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Recommendations",
+    "text": "Recommendations\n\nConsider interaction effects between variables.\nValidate the model using cross-validation techniques.\nApply the model to new datasets for prediction."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#summary-1",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#summary-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Summary",
+    "text": "Summary\n\n\nMain Takeaways from this lecture:\n\nRegression models can be used to predict response variables outcomes with independent variables.\nCompared to the Simple Regression Model, Multiple Regression Models allows for the inclusion of several predictors to improve model accuracy."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#multiple-regression-model-1",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#multiple-regression-model-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Multiple Regression Model",
+    "text": "Multiple Regression Model\nThe equation that describes how the dependent variable \\(y\\) is related to the independent variables \\(x_1, x_2, \\ldots x_p\\) and an error term \\(\\epsilon\\) is:\n\\[\ny = \\beta_0 + \\beta_1 x_1 + \\beta_2 x_2 + \\dots + \\beta_p x_p + \\epsilon\n\\]\nWhere:\n\n\\(\\beta_0, \\beta_1, \\beta_2, \\dots, \\beta_p\\) are the unknown parameters.\n\\(\\epsilon\\) is a random variable called the error term with the same assumptions as in simple regression (Normality, zero mean, constant variance, independence).\n\\(p\\) is the number of independent variables (dimension or complexity of the model)."
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#visualizing-relationships-pairwise-scatter-plots",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#visualizing-relationships-pairwise-scatter-plots",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Visualizing Relationships: Pairwise Scatter Plots",
+    "text": "Visualizing Relationships: Pairwise Scatter Plots\n\n\n\n\n# Scatter plot matrix\npairs(mtcars[, c(\"mpg\", \"hp\", \"wt\")], main = \"Scatter Plot Matrix\")"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#fitting-the-simple-regression-model",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#fitting-the-simple-regression-model",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Fitting the Simple Regression Model",
+    "text": "Fitting the Simple Regression Model\n\n\n\n\n# Fit the linear regression model\nmodel &lt;- lm(mpg ~ hp, data = mtcars)\nsummary(model)\n\n\n\n\n\nCall:\nlm(formula = mpg ~ hp, data = mtcars)\n\nResiduals:\n    Min      1Q  Median      3Q     Max \n-5.7121 -2.1122 -0.8854  1.5819  8.2360 \n\nCoefficients:\n            Estimate Std. Error t value Pr(&gt;|t|)    \n(Intercept) 30.09886    1.63392  18.421  &lt; 2e-16 ***\nhp          -0.06823    0.01012  -6.742 1.79e-07 ***\n---\nSignif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1\n\nResidual standard error: 3.863 on 30 degrees of freedom\nMultiple R-squared:  0.6024,    Adjusted R-squared:  0.5892 \nF-statistic: 45.46 on 1 and 30 DF,  p-value: 1.788e-07"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#fitting-the-multiple-regression-model",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#fitting-the-multiple-regression-model",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Fitting the Multiple Regression Model",
+    "text": "Fitting the Multiple Regression Model\n\n\n\n\n# Fit the multiple linear regression model\nmodel_mult &lt;- lm(mpg ~ hp + wt + am + vs + cyl, data = mtcars)\nsummary(model_mult)\n\n\n\n\n\nCall:\nlm(formula = mpg ~ hp + wt + am + vs + cyl, data = mtcars)\n\nResiduals:\n    Min      1Q  Median      3Q     Max \n-4.3405 -1.2158  0.0046  0.9389  4.6354 \n\nCoefficients:\n            Estimate Std. Error t value Pr(&gt;|t|)    \n(Intercept) 31.18461    3.42002   9.118    2e-09 ***\nhp          -0.03475    0.01382  -2.515   0.0187 *  \nwt          -2.37337    0.88763  -2.674   0.0130 *  \namManual     2.70384    1.59850   1.691   0.1032    \nvsStraight   1.99000    1.76018   1.131   0.2690    \ncyl6        -2.09011    1.62868  -1.283   0.2112    \ncyl8         0.29098    3.14270   0.093   0.9270    \n---\nSignif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1\n\nResidual standard error: 2.397 on 25 degrees of freedom\nMultiple R-squared:  0.8724,    Adjusted R-squared:  0.8418 \nF-statistic: 28.49 on 6 and 25 DF,  p-value: 5.064e-10"
+  },
+  {
+    "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#multiple-regression",
+    "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#multiple-regression",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Multiple Regression",
+    "text": "Multiple Regression\n\nRegression analysis involving two or more independent variables (x’s).\nThis subject area, called multiple regression analysis, enables us to consider more independent variables (factors) and thus obtain better estimates of the relationship than are possible with simple linear regression."
   }
 ]
