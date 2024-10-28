@@ -2415,7 +2415,7 @@
     "href": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#covariance",
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Covariance",
-    "text": "Covariance\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Covariance is a measure of the linear association between two variables.\nPositive values indicate a positive relationship.\nNegative values indicate a negative relationship.\n\n\n\n\nd## Correlation Coefficient\n\n\n\n\n\n\n\n\n\n\n\n\nCorrelation is a unit-free measure of linear association and not necessarily causation.\nThe coefficient can take on values between −1 and +1.\n\nValues near −1 indicate a strong negative linear relationship.\nValues near +1 indicate a strong positive linear relationship.\n\nThe closer the correlation is to zero, the weaker the linear relationship."
+    "text": "Covariance\n\n\n\n\n\nThe Covariance is a measure of the linear association between two variables.\nPositive values indicate a positive relationship.\nNegative values indicate a negative relationship."
   },
   {
     "objectID": "lecture_slides/11_lesson_m3dm/11_lesson_m3dm.html#correlation-coefficient",

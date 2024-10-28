@@ -115,7 +115,7 @@ knitr::include_graphics("figs/scatter_plot.png")
 
 <br>
 
-d## Correlation Coefficient
+## Correlation Coefficient
 
 <br>
 
