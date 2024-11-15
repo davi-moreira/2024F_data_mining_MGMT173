@@ -153,7 +153,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Date\nTopic\nAssignment (due dates on Brightspace)\nSlides**\nSupplementary Materials\n\n\n\n\n8/19/24\nLesson 1: Technical Enablers of Modern Data-Driven Decision Making\nQuiz #1Exercise #1\nslides\n- Video: The NBA Data Scientist- Video: Hans Rosling’s 200 Countries, 200 Years\n\n\n8/26/24\nLesson 2: Data Organization for Using Data to Drive Decisions\nQuiz #2Exercise #2\nslides\n- Video: Relational vs. Non-Relational Databases\n\n\n9/2/24\nNo class* - Labor Day - Lesson 3: Tools for Using Data to Drive Decisions\nQuiz #3Exercise #3\n\n\n\n\n9/9/24\nLesson 4: Introduction to R and RStudio\nQuiz #4Exercise #4\nslidesscript\n- Video: RStudio is now Posit!\n\n\n9/16/24\nLesson 5: Installing Packages and Importing Data in R\nQuiz #5Exercise #5\nslidesscriptdata\n- Video: It’s a Great Time to be an R Package Developer!- Blog: Quick list of useful R packages- Posit R packages\n\n\n9/23/24\nLesson 6: Data Types and Viewing Data Types in R\nQuiz #6Exercise #6\nslidesscriptdata\n- R Data Types- Dates with Lubridate- Categorical Data\n\n\n9/30/24\nLesson 7: Key Steps of Performing Data Mining in R\nQuiz #7Exercise #7\nslidesscript\n- Blog: Data Mining in R - Blog: Data Mining with R\n\n\n10/7/24\nNo class* - Fall Break - Lesson 8: Most Applied Data Mining Techniques\nQuiz #8Exercise #8\n.\n.\n\n\n10/14/24\nLesson 9: Exploratory Data Analysis in R: Summary Statistics\nQuiz #9Exercise #9\nslidesscript\n- R4DS: Exploratory Data Analysis - IBM: What is Exploratory Data Analysis?\n\n\n10/21/24\nLesson 10: Exploratory Data Analysis in R: Visualization and Dashboarding\nQuiz #10Exercise #10\nslidesscript\n- R4DS: Visualize - Hadley Wickham’s Lecture - r-graph-gallery - ggplot flipbook - Gallery - Edward Tufte\n\n\n10/28/24\nLesson 11: Mine Data through Predictive Modeling in R\nQuiz #11Exercise #11\nslidesscript\n- Video: Line Fitting, Residuals, and Correlation - Video: Fitting a Line with Least Squares Regression - Video: Least Squares Regression - Video: Types of Outliers in Linear Regression - Video: Inference for Linear Regression -IMS: Linear regression with a single predictor -IMS: Inference for linear regression with a single predictor- Video: Introduction to Multiple Regression- Video: Model Selection in Multiple Regression- Video: Checking Multiple Regression Diagnostics Using Graphs-IMS: Linear regression with multiple predictors-IMS: Inference for linear regression with multiple predictors\n\n\n11/4/24\nLesson 12: Identifying Significant Predictors\nQuiz #12Exercise #12\nslidesscript\n- R Package: Variable Selection Methods - IMS: Model Selection\n\n\n11/11/24\nLesson 13: Predictive Model Interpretations and Predictions\nQuiz #13Exercise #13\nslidesscript\n- IMS: Inference for linear regression with multiple predictors - IMS: Applications: Model and infer\n\n\n11/18/24\nLesson 14: Evaluating Predictive Model Performance\nQuiz #14Exercise #14\n.\n.\n\n\n11/25/24\nLesson 15: Bringing It All Together: From Data to Insights to Decisions\nQuiz #15Exercise #15\n.\n.\n\n\n12/2/24\nProject presentation and report due\nProject presentation submission\n.\n.\n\n\n12/9/24\nFinal Exam (online) 4:00 PM - 6:00 PM\n.\n.\n\n\n\n\n*Please note that for the two classes missed due to holidays and breaks, there will be no make-up sessions. However, students are expected to independently complete the assigned readings and exercises during these periods. While class discussions won’t take place, engaging with the materials and teammates will ensure you stay on track with the course content.\n** Course material adapted from the textbook and previous course editions to better fit our curriculum. Thanks to Professor Zhiwei Zhu, Dr. Z.Z, for guidance and for generously sharing the materials.",
+    "text": "Date\nTopic\nAssignment (due dates on Brightspace)\nSlides**\nSupplementary Materials\n\n\n\n\n8/19/24\nLesson 1: Technical Enablers of Modern Data-Driven Decision Making\nQuiz #1Exercise #1\nslides\n- Video: The NBA Data Scientist- Video: Hans Rosling’s 200 Countries, 200 Years\n\n\n8/26/24\nLesson 2: Data Organization for Using Data to Drive Decisions\nQuiz #2Exercise #2\nslides\n- Video: Relational vs. Non-Relational Databases\n\n\n9/2/24\nNo class* - Labor Day - Lesson 3: Tools for Using Data to Drive Decisions\nQuiz #3Exercise #3\n\n\n\n\n9/9/24\nLesson 4: Introduction to R and RStudio\nQuiz #4Exercise #4\nslidesscript\n- Video: RStudio is now Posit!\n\n\n9/16/24\nLesson 5: Installing Packages and Importing Data in R\nQuiz #5Exercise #5\nslidesscriptdata\n- Video: It’s a Great Time to be an R Package Developer!- Blog: Quick list of useful R packages- Posit R packages\n\n\n9/23/24\nLesson 6: Data Types and Viewing Data Types in R\nQuiz #6Exercise #6\nslidesscriptdata\n- R Data Types- Dates with Lubridate- Categorical Data\n\n\n9/30/24\nLesson 7: Key Steps of Performing Data Mining in R\nQuiz #7Exercise #7\nslidesscript\n- Blog: Data Mining in R - Blog: Data Mining with R\n\n\n10/7/24\nNo class* - Fall Break - Lesson 8: Most Applied Data Mining Techniques\nQuiz #8Exercise #8\n.\n.\n\n\n10/14/24\nLesson 9: Exploratory Data Analysis in R: Summary Statistics\nQuiz #9Exercise #9\nslidesscript\n- R4DS: Exploratory Data Analysis - IBM: What is Exploratory Data Analysis?\n\n\n10/21/24\nLesson 10: Exploratory Data Analysis in R: Visualization and Dashboarding\nQuiz #10Exercise #10\nslidesscript\n- R4DS: Visualize - Hadley Wickham’s Lecture - r-graph-gallery - ggplot flipbook - Gallery - Edward Tufte\n\n\n10/28/24\nLesson 11: Mine Data through Predictive Modeling in R\nQuiz #11Exercise #11\nslidesscript\n- Video: Line Fitting, Residuals, and Correlation - Video: Fitting a Line with Least Squares Regression - Video: Least Squares Regression - Video: Types of Outliers in Linear Regression - Video: Inference for Linear Regression -IMS: Linear regression with a single predictor -IMS: Inference for linear regression with a single predictor- Video: Introduction to Multiple Regression- Video: Model Selection in Multiple Regression- Video: Checking Multiple Regression Diagnostics Using Graphs-IMS: Linear regression with multiple predictors-IMS: Inference for linear regression with multiple predictors\n\n\n11/4/24\nLesson 12: Identifying Significant Predictors\nQuiz #12Exercise #12\nslidesscript\n- R Package: Variable Selection Methods - IMS: Model Selection\n\n\n11/11/24\nLesson 13: Predictive Model Interpretations and Predictions\nQuiz #13Exercise #13\nslidesscript\n- IMS: Inference for linear regression with multiple predictors - IMS: Applications: Model and infer\n\n\n11/18/24\nLesson 14: Evaluating Predictive Model Performance\nQuiz #14Exercise #14\nslidesscript\n.\n\n\n11/25/24\nLesson 15: Bringing It All Together: From Data to Insights to Decisions\nQuiz #15Exercise #15\n.\n.\n\n\n12/2/24\nProject presentation and report due\nProject presentation submission\n.\n.\n\n\n12/9/24\nFinal Exam (online) 4:00 PM - 6:00 PM\n.\n.\n\n\n\n\n*Please note that for the two classes missed due to holidays and breaks, there will be no make-up sessions. However, students are expected to independently complete the assigned readings and exercises during these periods. While class discussions won’t take place, engaging with the materials and teammates will ensure you stay on track with the course content.\n** Course material adapted from the textbook and previous course editions to better fit our curriculum. Thanks to Professor Zhiwei Zhu, Dr. Z.Z, for guidance and for generously sharing the materials.",
     "crumbs": [
       "Schedule and Material"
     ]
@@ -3333,5 +3333,257 @@
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Summary",
     "text": "Summary\n\n\nMain Takeaways from this lecture:\n\nModel Evaluation and Precision:\n\nPrecision: Consistency of model predictions.\nAccuracy: Closeness of predictions to true values.\nAim for high precision and high accuracy by meeting model assumptions.\n\nControlling for Variables:\n\nImportance of controlling for confounders.\nUse multiple regression to control for potential confounding variables.\n\nStrategies for Model Selection:\n\nIdentify predictors with low p-values (&lt; 0.05) to determine their significance.\nUse Adjusted R-Squared, AIC/BIC, and F-Tests for model comparison.\nMulticollinearity: Check with VIF and address high VIF (&gt; 10).\nBest Subset Selection: Use regsubsets() to find the best combination of predictors.\nCross-Validation: Evaluate models using RMSE, R-squared, and MAE.\n\nKey Recommendations:\n\nChoose the model with higher adjusted R-squared for explanatory power.\nOpt for lower RMSE and MAE if prediction accuracy is the main objective.\nBalance between complexity and performance using AIC/BIC and other metrics."
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#overview",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#overview",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Overview",
+    "text": "Overview\n\n\n\n\nLesson Exercise Review\nLesson Question!\nCourse Learning Milestones\nThe 8 Key Steps of a Data Mining Project\n\n\n\nMultiple Regression Model\nModel Interpretation\nMaking predictions\nEvaluating Predictive Model Performance"
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#course-learning-milestones-1",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#course-learning-milestones-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Course Learning Milestones",
+    "text": "Course Learning Milestones"
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#the-8-key-steps-of-a-data-mining-project-1",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#the-8-key-steps-of-a-data-mining-project-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "The 8 Key Steps of a Data Mining Project",
+    "text": "The 8 Key Steps of a Data Mining Project\n\n\n\nGoal Setting\n\nDefine the project’s goal\n\n\n\nData Understanding\n\nAcquire analysis tools\n\nPrepare data\n\nData summarization\n\nData visualization\n\n\n\nInsights\n\nData mining modeling\n\nModel validation\n\nInterpretation and implementation"
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#precision-and-accuracy",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#precision-and-accuracy",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Precision and Accuracy",
+    "text": "Precision and Accuracy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrecision: Refers to the consistency or reliability of the model’s predictions.\nAccuracy: Refers to how close the model’s predictions are to the true values.\n\n\nIn the context of regression:\n\nHigh Precision, Low Accuracy: Predictions are consistent but biased.\nHigh Precision, High Accuracy: Predictions are both consistent and valid.\nLow Precision, Low Accuracy: Predictions are neither consistent nor valid.\nLow Precision, High Accuracy: Predictions are valid on average but have high variability.\n\n\nTo achieve high precision and high accuracy, we need to meet the model assumptions."
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#motivation-controlling-for-a-variable",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#motivation-controlling-for-a-variable",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Motivation: Controlling for a Variable",
+    "text": "Motivation: Controlling for a Variable\n\nPuzzle: What is the effect of education on income?\nY: Income\nX: Education\nObjective: X \\(\\rightarrow\\) Y\nChallenge: X \\(\\leftarrow\\) W \\(\\rightarrow\\) Y\nW: IQ (Intelligence)\nSolution: Control for W"
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#motivation-controlling-for-a-variable-1",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#motivation-controlling-for-a-variable-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Motivation: Controlling for a Variable",
+    "text": "Motivation: Controlling for a Variable\n\n\n\n\nDAG\n\n\n\nSource: Causal Inference Animated Plots"
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#motivation-controlling-for-a-variable-2",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#motivation-controlling-for-a-variable-2",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Motivation: Controlling for a Variable",
+    "text": "Motivation: Controlling for a Variable\n\n\n\n\nRelationship between Y and X controlled for W\n\n\n\nSource: Causal Inference Animated Plots"
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#omitted-variables-confounders",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#omitted-variables-confounders",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Omitted Variables (Confounders)",
+    "text": "Omitted Variables (Confounders)\n\nOne of the most common errors in observational studies (besides selection bias and information bias — classification or measurement error);\nIt occurs when we suggest that the explanation for something is “confounded” with the effect of another variable;\nFor example, “the sun rose because the rooster crowed,” and not because of Earth’s rotation."
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#how-to-address-omitted-variable-bias",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#how-to-address-omitted-variable-bias",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "How to Address Omitted Variable Bias?",
+    "text": "How to Address Omitted Variable Bias?\n\nBe well-versed in the literature;\nSelect good control variables for your model;\nThat is, perform a multiple regression model."
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#multiple-regression",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#multiple-regression",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Multiple Regression",
+    "text": "Multiple Regression\n\nRegression analysis involving two or more independent variables (x’s).\nThis subject area, called multiple regression analysis, enables us to consider more independent variables (factors) and thus obtain better estimates of the relationship than are possible with simple linear regression."
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#multiple-regression-model-1",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#multiple-regression-model-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Multiple Regression Model",
+    "text": "Multiple Regression Model\nThe equation that describes how the dependent variable \\(y\\) is related to the independent variables \\(x_1, x_2, \\ldots x_p\\) and an error term \\(\\epsilon\\) is:\n\\[\ny = \\beta_0 + \\beta_1 x_1 + \\beta_2 x_2 + \\dots + \\beta_p x_p + \\epsilon\n\\]\nWhere:\n\n\\(\\beta_0, \\beta_1, \\beta_2, \\dots, \\beta_p\\) are the unknown parameters.\n\\(\\epsilon\\) is a random variable called the error term with the same assumptions as in simple regression (Normality, zero mean, constant variance, independence).\n\\(p\\) is the number of independent variables (dimension or complexity of the model)."
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#multiple-regression-equation",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#multiple-regression-equation",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Multiple Regression Equation",
+    "text": "Multiple Regression Equation\nThe equation that describes how the mean value of \\(y\\) is related to \\(x_1, x_2, \\ldots x_p\\) is:\n\\[\nE(y) = \\beta_0 + \\beta_1 x_1 + \\beta_2 x_2 + \\dots + \\beta_p x_p\n\\]\n\\(\\beta_1, \\ldots, \\beta_p\\) measure the marginal effects of the respective independent variables.\n\nFor example, \\(\\beta_1\\) is the change in \\(E(y)\\) corresponding to a 1-unit increase in \\(x_1\\), when all other independent variables are held constant or when we control for all other independent variables."
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#estimated-multiple-regression-equation",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#estimated-multiple-regression-equation",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Estimated Multiple Regression Equation",
+    "text": "Estimated Multiple Regression Equation\n\n\\[\n\\hat{y} = b_0 + b_1 x_1 + b_2 x_2 + \\dots + b_p x_p\n\\]\nA simple random sample is used to compute sample slopes \\(b_0, b_1, b_2, \\dots, b_p\\) that are used as the point estimators of the population slopes \\(\\beta_0, \\beta_1, \\beta_2, \\dots, \\beta_p\\).\n\nHence, \\(\\hat{y}\\) estimates \\(E(Y)\\)."
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#objective",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#objective",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Objective",
+    "text": "Objective\n\nAnalyze the relationship between multiple predictors and miles per gallon (mpg).\nBuild a multiple linear regression model to predict mpg based on:\n\nHorsepower (hp)\nWeight (wt)\nTransmission Type (am)\nEngine Type (vs)\nNumber of Cylinders (cyl)"
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#variables-used",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#variables-used",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Variables Used",
+    "text": "Variables Used\n\nmpg: Miles per gallon (Dependent Variable).\nhp: Gross horsepower.\nwt: Weight (1000 lbs).\nam: Transmission (0 = automatic, 1 = manual).\nvs: Engine type (0 = V-shaped, 1 = straight).\ncyl: Number of cylinders."
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#data-structure",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#data-structure",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Data Structure",
+    "text": "Data Structure\n\n\n\n\n# Structure of the dataset\nstr(mtcars[, c(\"mpg\", \"hp\", \"wt\", \"am\", \"vs\", \"cyl\")])\n\n\n\n\n'data.frame':   32 obs. of  6 variables:\n $ mpg: num  21 21 22.8 21.4 18.7 18.1 14.3 24.4 22.8 19.2 ...\n $ hp : num  110 110 93 110 175 105 245 62 95 123 ...\n $ wt : num  2.62 2.88 2.32 3.21 3.44 ...\n $ am : num  1 1 1 0 0 0 0 0 0 0 ...\n $ vs : num  0 0 1 1 0 1 0 1 1 1 ...\n $ cyl: num  6 6 4 6 8 6 8 4 4 6 ..."
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#summary-statistics",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#summary-statistics",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Summary Statistics",
+    "text": "Summary Statistics\n\n# Summary statistics for selected variables\nsummary(mtcars[, c(\"mpg\", \"hp\", \"wt\", \"am\", \"vs\", \"cyl\")])"
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#converting-categorical-variables",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#converting-categorical-variables",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Converting Categorical Variables",
+    "text": "Converting Categorical Variables\n\n# Convert 'am', 'vs', and 'cyl' to factors\nmtcars$am &lt;- factor(mtcars$am, labels = c(\"Automatic\", \"Manual\"))\nmtcars$vs &lt;- factor(mtcars$vs, labels = c(\"V-shaped\", \"Straight\"))\nmtcars$cyl &lt;- factor(mtcars$cyl)"
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#checking-for-missing-values",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#checking-for-missing-values",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Checking for Missing Values",
+    "text": "Checking for Missing Values\n\n# Check for NA values\ncolSums(is.na(mtcars))\n\n\nObservation: No missing values in the selected variables."
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#visualizing-relationships-pairwise-scatter-plots",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#visualizing-relationships-pairwise-scatter-plots",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Visualizing Relationships: Pairwise Scatter Plots",
+    "text": "Visualizing Relationships: Pairwise Scatter Plots\n\n\n\n\n# Scatter plot matrix\npairs(mtcars[, c(\"mpg\", \"hp\", \"wt\")], main = \"Scatter Plot Matrix\")"
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#boxplots-for-categorical-variables",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#boxplots-for-categorical-variables",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Boxplots for Categorical Variables",
+    "text": "Boxplots for Categorical Variables\n\n\n\n\n# Boxplot of mpg by Transmission Type\nboxplot(mpg ~ am, data = mtcars,\n        main = \"MPG by Transmission Type\",\n        xlab = \"Transmission\",\n        ylab = \"Miles per Gallon\",\n        col = c(\"lightblue\", \"lightgreen\"))"
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#fitting-the-multiple-regression-model",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#fitting-the-multiple-regression-model",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Fitting the Multiple Regression Model",
+    "text": "Fitting the Multiple Regression Model\n\n\n\n\n# Fit the multiple linear regression model\nmodel_mult &lt;- lm(mpg ~ hp + wt + am + vs + cyl, data = mtcars)\nsummary(model_mult)\n\n\n\n\n\nCall:\nlm(formula = mpg ~ hp + wt + am + vs + cyl, data = mtcars)\n\nResiduals:\n    Min      1Q  Median      3Q     Max \n-4.3405 -1.2158  0.0046  0.9389  4.6354 \n\nCoefficients:\n            Estimate Std. Error t value Pr(&gt;|t|)    \n(Intercept) 31.18461    3.42002   9.118    2e-09 ***\nhp          -0.03475    0.01382  -2.515   0.0187 *  \nwt          -2.37337    0.88763  -2.674   0.0130 *  \namManual     2.70384    1.59850   1.691   0.1032    \nvsStraight   1.99000    1.76018   1.131   0.2690    \ncyl6        -2.09011    1.62868  -1.283   0.2112    \ncyl8         0.29098    3.14270   0.093   0.9270    \n---\nSignif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1\n\nResidual standard error: 2.397 on 25 degrees of freedom\nMultiple R-squared:  0.8724,    Adjusted R-squared:  0.8418 \nF-statistic: 28.49 on 6 and 25 DF,  p-value: 5.064e-10"
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#interpreting-the-coefficients",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#interpreting-the-coefficients",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Interpreting the Coefficients",
+    "text": "Interpreting the Coefficients\n\nIntercept (\\(\\beta_0\\)): Expected mpg when all predictors are at reference levels or zero.\nhp: Change in mpg per unit increase in horsepower, holding other variables constant.\nwt: Change in mpg per 1000 lbs increase in weight, holding other variables constant.\nam: Difference in mpg between manual and automatic transmission.\nvs: Difference in mpg between straight and V-shaped engines.\ncyl: Effect of the number of cylinders on mpg."
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#interpreting-the-results",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#interpreting-the-results",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Interpreting the Results",
+    "text": "Interpreting the Results\n\nSignificant Predictors\n\nhp and wt: Generally significant predictors of mpg.\nam: Transmission type may have a significant effect.\nvs and cyl: Assess their p-values to determine significance."
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#evaluating-the-model",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#evaluating-the-model",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Evaluating the Model",
+    "text": "Evaluating the Model\n\nAdjusted R-squared: Measures the proportion of variance in mpg explained by the model, adjusted for the number of predictors.\nF-statistic: Tests the overall significance of the model.\np-values: Assess the significance of individual predictors."
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#best-subset-selection",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#best-subset-selection",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Best Subset Selection",
+    "text": "Best Subset Selection\n\nMethod: Use the regsubsets() function from the leaps package to evaluate all possible combinations of predictors and identify the best model. This method guarantees that the best subset of predictors is selected according to a chosen criterion (e.g., adjusted \\(R^2\\), AIC, BIC).\nSelection: This method ensures an exhaustive search of all possible combinations, providing the best model for each subset size.\n\nlibrary(leaps)\n\n# Fit the best subset model\nbest_model &lt;- regsubsets(mpg ~ ., data = mtcars, nbest = 1)\n\n# Extract the summary of the model\nbest_model_summary &lt;- summary(best_model)\n\n# Extract metrics\nbic_values &lt;- best_model_summary$bic\n\n# Find the best model indices based on each criterion\nbest_bic_index &lt;- which.min(bic_values)\n\n# Display the best models based on the chosen criteria\n\ncat(\"\\nBest model based on BIC includes:\\n\")\nprint(coef(best_model, best_bic_index))\n\nResult: The regsubsets() function outputs the best subset of predictors for each model size, allowing you to compare and choose the optimal model based on adjusted \\(R^2\\), BIC, or other criteria.\nIn our case now, we are concerned with the optimal model for prediction, so we are using BIC as our criteria."
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#cross-validation",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#cross-validation",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Cross-Validation",
+    "text": "Cross-Validation\n\nMethod: Use k-fold cross-validation to assess the predictive performance of the model. This method helps evaluate how the model generalizes to unseen data.\nSelection: Choose the model with better cross-validation metrics (e.g., lower mean squared error).\n\n\nlibrary(caret)\n\n# Define the cross-validation method\ntrainControl &lt;- trainControl(method = \"cv\", number = 10)\n\n# Train the model based on adjusted R-squared criteria\noriginal_model &lt;- train(mpg ~ hp, data = mtcars, method = \"lm\", trControl = trainControl)\n# print(original_model)\n\n# Train the model based on BIC criteria\nmodel_bic &lt;- train(mpg ~ wt + qsec + am, data = mtcars, method = \"lm\", trControl = trainControl)\n# print(model_bic)\n\n# Compare RMSE, R-squared, and MAE (Mean Absolute Error) for both models\n#cat(\"\\nComparison of Prediction Performance:\\n\")\nperformance_comparison &lt;- rbind(\n  \"original_model\" = original_model$results[, c(\"RMSE\", \"Rsquared\", \"MAE\")],\n  \"Model_bic\" = model_bic$results[, c(\"RMSE\", \"Rsquared\", \"MAE\")]\n)\nprint(performance_comparison)"
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#cross-validation-output",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#cross-validation-output",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Cross-Validation: output",
+    "text": "Cross-Validation: output\n\n\nRMSE (Root Mean Squared Error):\n\nRepresents the standard deviation of prediction errors.\nLower values indicate better performance (predictions are closer to actual values).\n\nR-squared:\n\nIndicates how well the independent variables explain the variability of the dependent variable.\nHigher values (closer to 1) suggest better explanatory power.\n\nMAE (Mean Absolute Error):\n\nMeasures the average magnitude of errors in predictions.\nLower values indicate more accurate predictions."
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#cross-validation-conclusion",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#cross-validation-conclusion",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Cross-Validation: Conclusion",
+    "text": "Cross-Validation: Conclusion\n\noriginal_model:\n\nBetter at explaining variability (higher R-squared).\nSlightly higher prediction error (RMSE and MAE).\n\nmodel_bic:\n\nMore accurate predictions (lower RMSE and MAE).\nExplains less variability (lower R-squared).\n\nRecommendation\n\nChoose original_model: If the goal is to maximize explanation of variability in mpg.\nChoose Model_bic: If the goal is to minimize prediction error for better accuracy.\n\nFinal Choice: Depends if the analysis objective prioritize explanatory power or prediction accuracy."
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#making-predictions-with-a-predictive-model-1",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#making-predictions-with-a-predictive-model-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Making predictions with a predictive model",
+    "text": "Making predictions with a predictive model\nNow that we have our prediction model, let’s see an example on how can we use it for prediction.\nTo predict mpg with our model we need to have data regarding our independent variables. To do so, let’s split our original dataset:\n\nlibrary(caret)\n\nset.seed(123)  # for reproducibility\nsplitIndex &lt;- createDataPartition(mtcars$mpg, p = 0.8, list = FALSE)\ntraining_data &lt;- mtcars[splitIndex, ]\ntesting_data &lt;- mtcars[-splitIndex, ]"
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#making-predictions-with-a-predictive-model-2",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#making-predictions-with-a-predictive-model-2",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Making predictions with a predictive model",
+    "text": "Making predictions with a predictive model\nWe run the model with our training_data and predict the mpg values using our testing_data.\n\n# models\nmodel_bic &lt;- lm(mpg ~ wt + qsec + am, data = training_data)\noriginal_model &lt;- lm(mpg ~ hp, data = training_data)\n\n# predictions\npredictions_bic &lt;- predict(model_bic, newdata = testing_data)\npredictions_original &lt;- predict(original_model, newdata = testing_data)"
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#making-predictions-with-a-predictive-model-3",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#making-predictions-with-a-predictive-model-3",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Making predictions with a predictive model",
+    "text": "Making predictions with a predictive model\nBy combining our predicted results into our original dataset, we can check in which extent we were able to predict the actual mpg values:\n\n# Combine actual and predicted values into a long format\nlibrary(tidyr)\n\n# Combine data into one long-format object\nplot_data &lt;- data.frame(\n  actual = testing_data$mpg,\n  predicted_bic = predictions_bic,\n  predicted_original = predictions_original\n) %&gt;%\n  pivot_longer(\n    cols = starts_with(\"predicted\"),\n    names_to = \"model\",\n    values_to = \"predicted\"\n  )\n\nplot_data"
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#making-predictions-with-a-predictive-model-4",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#making-predictions-with-a-predictive-model-4",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Making predictions with a predictive model",
+    "text": "Making predictions with a predictive model\n\n\n\nWe can plot a scatter plot with the actual mpg values on the x-axis and predicted mpg values on the y-axis.\n\n# Load ggrepel for better label placement\nlibrary(ggrepel)\n\n# Create a scatter plot with residuals labeled and prediction lines\nggplot(plot_data, aes(x = actual, y = predicted, color = model)) +\n  geom_point(alpha = 0.6) +  # Scatter plot of actual vs predicted\n  geom_smooth(method = \"lm\", formula = y ~ x, se = FALSE) +  # Linear trend lines\n  geom_text_repel(\n    aes(label = paste0(\"Residual: \", round(actual - predicted, 2))),  # Residual as label\n    size = 3, \n    max.overlaps = 10,  # Controls the maximum number of overlapping labels\n    box.padding = 0.5,  # Padding around the text box\n    point.padding = 0.2  # Padding around the point\n  ) + \n  labs(\n    x = \"Actual MPG\", \n    y = \"Predicted MPG\", \n    color = \"Model\", \n    title = \"Residuals Between Actual and Predicted MPG by Model\"\n  ) +\n  theme_minimal()"
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#summary-1",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#summary-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Summary",
+    "text": "Summary\n\nMain Takeaways from this lecture:\n\nChoose the model with higher adjusted R-squared for explanatory power.\nOpt for lower RMSE and MAE if prediction accuracy is the main objective."
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#evaluating-predictive-model-performance",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#evaluating-predictive-model-performance",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Evaluating Predictive Model Performance",
+    "text": "Evaluating Predictive Model Performance\nBy combining our predicted results into our original dataset, we can check in which extent we were able to predict the actual mpg values:\n\n# Combine actual and predicted values into a long format\nlibrary(tidyr)\n\n# Combine data into one long-format object\nplot_data &lt;- data.frame(\n  actual = testing_data$mpg,\n  predicted_bic = predictions_bic,\n  predicted_original = predictions_original\n) %&gt;%\n  pivot_longer(\n    cols = starts_with(\"predicted\"),\n    names_to = \"model\",\n    values_to = \"predicted\"\n  )\n\nplot_data"
+  },
+  {
+    "objectID": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#evaluating-predictive-model-performance-1",
+    "href": "lecture_slides/14_lesson_m3dm/14_lesson_m3dm.html#evaluating-predictive-model-performance-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Evaluating Predictive Model Performance",
+    "text": "Evaluating Predictive Model Performance\n\n\n\nWe can plot a scatter plot with the actual mpg values on the x-axis and predicted mpg values on the y-axis.\n\n# Load ggrepel for better label placement\nlibrary(ggrepel)\n\n# Create a scatter plot with residuals labeled and prediction lines\nggplot(plot_data, aes(x = actual, y = predicted, color = model)) +\n  geom_point(alpha = 0.6) +  # Scatter plot of actual vs predicted\n  geom_smooth(method = \"lm\", formula = y ~ x, se = FALSE) +  # Linear trend lines\n  geom_text_repel(\n    aes(label = paste0(\"Residual: \", round(actual - predicted, 2))),  # Residual as label\n    size = 3, \n    max.overlaps = 10,  # Controls the maximum number of overlapping labels\n    box.padding = 0.5,  # Padding around the text box\n    point.padding = 0.2  # Padding around the point\n  ) + \n  labs(\n    x = \"Actual MPG\", \n    y = \"Predicted MPG\", \n    color = \"Model\", \n    title = \"Residuals Between Actual and Predicted MPG by Model\"\n  ) +\n  theme_minimal()"
   }
 ]
