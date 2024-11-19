@@ -153,7 +153,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Date\nTopic\nAssignment (due dates on Brightspace)\nSlides**\nSupplementary Materials\n\n\n\n\n8/19/24\nLesson 1: Technical Enablers of Modern Data-Driven Decision Making\nQuiz #1Exercise #1\nslides\n- Video: The NBA Data Scientist- Video: Hans Rosling’s 200 Countries, 200 Years\n\n\n8/26/24\nLesson 2: Data Organization for Using Data to Drive Decisions\nQuiz #2Exercise #2\nslides\n- Video: Relational vs. Non-Relational Databases\n\n\n9/2/24\nNo class* - Labor Day - Lesson 3: Tools for Using Data to Drive Decisions\nQuiz #3Exercise #3\n\n\n\n\n9/9/24\nLesson 4: Introduction to R and RStudio\nQuiz #4Exercise #4\nslidesscript\n- Video: RStudio is now Posit!\n\n\n9/16/24\nLesson 5: Installing Packages and Importing Data in R\nQuiz #5Exercise #5\nslidesscriptdata\n- Video: It’s a Great Time to be an R Package Developer!- Blog: Quick list of useful R packages- Posit R packages\n\n\n9/23/24\nLesson 6: Data Types and Viewing Data Types in R\nQuiz #6Exercise #6\nslidesscriptdata\n- R Data Types- Dates with Lubridate- Categorical Data\n\n\n9/30/24\nLesson 7: Key Steps of Performing Data Mining in R\nQuiz #7Exercise #7\nslidesscript\n- Blog: Data Mining in R - Blog: Data Mining with R\n\n\n10/7/24\nNo class* - Fall Break - Lesson 8: Most Applied Data Mining Techniques\nQuiz #8Exercise #8\n.\n.\n\n\n10/14/24\nLesson 9: Exploratory Data Analysis in R: Summary Statistics\nQuiz #9Exercise #9\nslidesscript\n- R4DS: Exploratory Data Analysis - IBM: What is Exploratory Data Analysis?\n\n\n10/21/24\nLesson 10: Exploratory Data Analysis in R: Visualization and Dashboarding\nQuiz #10Exercise #10\nslidesscript\n- R4DS: Visualize - Hadley Wickham’s Lecture - r-graph-gallery - ggplot flipbook - Gallery - Edward Tufte\n\n\n10/28/24\nLesson 11: Mine Data through Predictive Modeling in R\nQuiz #11Exercise #11\nslidesscript\n- Video: Line Fitting, Residuals, and Correlation - Video: Fitting a Line with Least Squares Regression - Video: Least Squares Regression - Video: Types of Outliers in Linear Regression - Video: Inference for Linear Regression -IMS: Linear regression with a single predictor -IMS: Inference for linear regression with a single predictor- Video: Introduction to Multiple Regression- Video: Model Selection in Multiple Regression- Video: Checking Multiple Regression Diagnostics Using Graphs-IMS: Linear regression with multiple predictors-IMS: Inference for linear regression with multiple predictors\n\n\n11/4/24\nLesson 12: Identifying Significant Predictors\nQuiz #12Exercise #12\nslidesscript\n- R Package: Variable Selection Methods - IMS: Model Selection\n\n\n11/11/24\nLesson 13: Predictive Model Interpretations and Predictions\nQuiz #13Exercise #13\nslidesscript\n- IMS: Inference for linear regression with multiple predictors - IMS: Applications: Model and infer\n\n\n11/18/24\nLesson 14: Evaluating Predictive Model Performance\nQuiz #14Exercise #14\nslidesscript\n.\n\n\n11/25/24\nLesson 15: Bringing It All Together: From Data to Insights to Decisions\nQuiz #15Exercise #15\n.\n.\n\n\n12/2/24\nProject presentation and report due\nProject presentation submission\n.\n.\n\n\n12/9/24\nFinal Exam (online) 4:00 PM - 6:00 PM\n.\n.\n\n\n\n\n*Please note that for the two classes missed due to holidays and breaks, there will be no make-up sessions. However, students are expected to independently complete the assigned readings and exercises during these periods. While class discussions won’t take place, engaging with the materials and teammates will ensure you stay on track with the course content.\n** Course material adapted from the textbook and previous course editions to better fit our curriculum. Thanks to Professor Zhiwei Zhu, Dr. Z.Z, for guidance and for generously sharing the materials.",
+    "text": "Date\nTopic\nAssignment (due dates on Brightspace)\nSlides**\nSupplementary Materials\n\n\n\n\n8/19/24\nLesson 1: Technical Enablers of Modern Data-Driven Decision Making\nQuiz #1Exercise #1\nslides\n- Video: The NBA Data Scientist- Video: Hans Rosling’s 200 Countries, 200 Years\n\n\n8/26/24\nLesson 2: Data Organization for Using Data to Drive Decisions\nQuiz #2Exercise #2\nslides\n- Video: Relational vs. Non-Relational Databases\n\n\n9/2/24\nNo class* - Labor Day - Lesson 3: Tools for Using Data to Drive Decisions\nQuiz #3Exercise #3\n\n\n\n\n9/9/24\nLesson 4: Introduction to R and RStudio\nQuiz #4Exercise #4\nslidesscript\n- Video: RStudio is now Posit!\n\n\n9/16/24\nLesson 5: Installing Packages and Importing Data in R\nQuiz #5Exercise #5\nslidesscriptdata\n- Video: It’s a Great Time to be an R Package Developer!- Blog: Quick list of useful R packages- Posit R packages\n\n\n9/23/24\nLesson 6: Data Types and Viewing Data Types in R\nQuiz #6Exercise #6\nslidesscriptdata\n- R Data Types- Dates with Lubridate- Categorical Data\n\n\n9/30/24\nLesson 7: Key Steps of Performing Data Mining in R\nQuiz #7Exercise #7\nslidesscript\n- Blog: Data Mining in R - Blog: Data Mining with R\n\n\n10/7/24\nNo class* - Fall Break - Lesson 8: Most Applied Data Mining Techniques\nQuiz #8Exercise #8\n.\n.\n\n\n10/14/24\nLesson 9: Exploratory Data Analysis in R: Summary Statistics\nQuiz #9Exercise #9\nslidesscript\n- R4DS: Exploratory Data Analysis - IBM: What is Exploratory Data Analysis?\n\n\n10/21/24\nLesson 10: Exploratory Data Analysis in R: Visualization and Dashboarding\nQuiz #10Exercise #10\nslidesscript\n- R4DS: Visualize - Hadley Wickham’s Lecture - r-graph-gallery - ggplot flipbook - Gallery - Edward Tufte\n\n\n10/28/24\nLesson 11: Mine Data through Predictive Modeling in R\nQuiz #11Exercise #11\nslidesscript\n- Video: Line Fitting, Residuals, and Correlation - Video: Fitting a Line with Least Squares Regression - Video: Least Squares Regression - Video: Types of Outliers in Linear Regression - Video: Inference for Linear Regression -IMS: Linear regression with a single predictor -IMS: Inference for linear regression with a single predictor- Video: Introduction to Multiple Regression- Video: Model Selection in Multiple Regression- Video: Checking Multiple Regression Diagnostics Using Graphs-IMS: Linear regression with multiple predictors-IMS: Inference for linear regression with multiple predictors\n\n\n11/4/24\nLesson 12: Identifying Significant Predictors\nQuiz #12Exercise #12\nslidesscript\n- R Package: Variable Selection Methods - IMS: Model Selection\n\n\n11/11/24\nLesson 13: Predictive Model Interpretations and Predictions\nQuiz #13Exercise #13\nslidesscript\n- IMS: Inference for linear regression with multiple predictors - IMS: Applications: Model and infer\n\n\n11/18/24\nLesson 14: Evaluating Predictive Model Performance\nQuiz #14Exercise #14\nslidesscript\n.\n\n\n11/25/24\nLesson 15: Bringing It All Together: From Data to Insights to Decisions\nQuiz #15Exercise #15\nslidesscript\n- Video: Quarto Dashboards 1: Hello, Dashboards! - Video: Shiny New Things Using R Bridge the Gap in Electronic Medical Record Reporting\n\n\n12/2/24\nProject presentation and report due\nProject presentation submission\n.\n.\n\n\n12/9/24\nFinal Exam (online) 4:00 PM - 6:00 PM\n.\n.\n\n\n\n\n*Please note that for the two classes missed due to holidays and breaks, there will be no make-up sessions. However, students are expected to independently complete the assigned readings and exercises during these periods. While class discussions won’t take place, engaging with the materials and teammates will ensure you stay on track with the course content.\n** Course material adapted from the textbook and previous course editions to better fit our curriculum. Thanks to Professor Zhiwei Zhu, Dr. Z.Z, for guidance and for generously sharing the materials.",
     "crumbs": [
       "Schedule and Material"
     ]
@@ -1666,7 +1666,7 @@
     "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#overview",
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Overview",
-    "text": "Overview\n\n\n\n\nXXXX PAREI AQUI! AJUSTAR A APRESENTACAO XXXX\nLesson Exercise Review\nLesson Question!\nCourse Learning Milestones\nThe 8 Key Steps of a Data Mining Project\n\n\n\nData Science Workflow\nThe Importance of Context\nChoosing the Visualization\nEliminating Noise\nChoosing the Highlight\nAesthetic Adjustments\nWhat Story Is Being Told?\nDashboards"
+    "text": "Overview\n\n\n\n\nMotivation\nThe Importance of Context\nSix General Principals\nChoosing the Chart\nLess is More\n\n\n\nHierarchy Among Data\nNot All Data Are Equally Important\nTelling Your Story\nDashboards"
   },
   {
     "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#course-learning-milestones-1",
@@ -1960,14 +1960,14 @@
     "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#summary-1",
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Summary",
-    "text": "Summary\n\n\nMain Takeaways from this lecture:\n\nXXX XXX\n\nXXX\n\nXXX XXX:\n\nXXX"
+    "text": "Summary\n\n\nMain Takeaways from this lecture:\n\nData Communication Principles:\n\nContext matters: Tailor your analysis to the audience and goal.\nFocus on the story: Highlight insights, not the process.\nBeauty and clarity: Simplify visuals, use appropriate colors, and remove unnecessary elements.\n\nVisualization Best Practices:\n\nUse graphs instead of tables where possible.\nAvoid misleading scales and excessive dimensions.\nPrioritize hierarchy and emphasize key data points.\n\nEffective Dashboards:\n\nUtilize tools like flexdashboard to create interactive layouts.\nStructure information logically, adapting to mobile and web use.\nStoryboard layouts help narrate data insights step-by-step.\n\nFinal Message:\n\nLess is more. Reduce complexity to communicate data effectively.\nAlways keep your audience’s decision-making needs at the forefront."
   },
   {
     "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#motivation-1",
     "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#motivation-1",
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Motivation",
-    "text": "Motivation\n\n\n\n\nFlow"
+    "text": "Motivation\n\n\n\n\nCovid-19"
   },
   {
     "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#data-science-workflow",
@@ -1995,7 +1995,7 @@
     "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#context-1",
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Context",
-    "text": "Context\nEvery analysis has a goal and an audience.\n\nIt’s important to separate data exploration from the final analysis. Don’t fall into the temptation of showing everything you did.\nAdapt the report to your audience. Decision-makers aren’t always interested in execution details.\nSo what? Keep a specific learning objective in mind. It will guide which information is relevant for your report.\n\nIsolated numbers don’t tell us much. To make evidence-based decisions, it’s necessary to establish an appropriate basis for comparison for the goal of your report."
+    "text": "Context\nEvery analysis has a goal and an audience.\n\nIt’s important to separate data exploration from the final analysis. Don’t fall into the temptation of showing everything you did.\nAdapt the report to your audience. Decision-makers aren’t always interested in execution details.\nSo what? Keep a specific learning objective in mind. It will guide which information is relevant for your report.\n\n\nIsolated numbers don’t tell us much. To make evidence-based decisions, it’s necessary to establish an appropriate basis for comparison for the goal of your report."
   },
   {
     "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#context-can-come-from-new-information",
@@ -2058,56 +2058,56 @@
     "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#eliminating-noise",
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Eliminating Noise",
-    "text": "Eliminating Noise\nThe more information in your visualization, the greater the cognitive load.\n\n\n\n\nData-Ink Ratio Formula"
+    "text": "Eliminating Noise\n\n\nThe more information in your visualization, the greater the cognitive load.\nYour objective must be to reduce your audience cognitive costs.\n\n\n\nData-Ink Ratio Formula\n\\[\n\\text{Data-Ink Ratio} = \\frac{\\text{Data-Ink}}{\\text{Total ink used to print the graphic}}\n\\]"
   },
   {
     "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#data-ink-ratio",
     "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#data-ink-ratio",
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Data-Ink Ratio",
-    "text": "Data-Ink Ratio\nThe more information in your visualization, the greater the cognitive load.\n\n\n\n\nData-Ink"
+    "text": "Data-Ink Ratio\n\nYour objective must be to reduce your audience cognitive costs.\n\n\n\n\n\nData-Ink"
   },
   {
     "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#step-by-step-cleanup",
     "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#step-by-step-cleanup",
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Step-by-Step Cleanup",
-    "text": "Step-by-Step Cleanup\n\n\n\n\nCleanup 1"
+    "text": "Step-by-Step Cleanup\n\n\n\n\n\nCleanup 1"
   },
   {
     "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#eliminating-the-border",
     "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#eliminating-the-border",
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Eliminating the Border",
-    "text": "Eliminating the Border\n\n\n\n\nCleanup 2"
+    "text": "Eliminating the Border\n\n\n\n\n\nCleanup 2"
   },
   {
     "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#cleaning-the-grids",
     "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#cleaning-the-grids",
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Cleaning the Grids",
-    "text": "Cleaning the Grids\n\n\n\n\nCleanup 3"
+    "text": "Cleaning the Grids\n\n\n\n\n\nCleanup 3"
   },
   {
     "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#removing-the-points",
     "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#removing-the-points",
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Removing the Points",
-    "text": "Removing the Points\n\n\n\n\nCleanup 4"
+    "text": "Removing the Points\n\n\n\n\n\nCleanup 4"
   },
   {
     "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#processing-the-axes",
     "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#processing-the-axes",
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Processing the Axes",
-    "text": "Processing the Axes\n\n\n\n\nCleanup 5"
+    "text": "Processing the Axes\n\n\n\n\n\nCleanup 5"
   },
   {
     "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#adjusting-the-label",
     "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#adjusting-the-label",
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Adjusting the Label",
-    "text": "Adjusting the Label\n\n\n\n\nCleanup 6"
+    "text": "Adjusting the Label\n\n\n\n\n\nCleanup 6"
   },
   {
     "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#adjusting-colors",
@@ -2121,7 +2121,7 @@
     "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#before-and-after",
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Before and After",
-    "text": "Before and After\n\n\n\n\nBefore and After"
+    "text": "Before and After\n\n\n\n\n\nBefore and After"
   },
   {
     "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#count-the-number-3s",
@@ -2184,14 +2184,14 @@
     "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#emphasizing-the-main-point",
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Emphasizing the Main Point",
-    "text": "Emphasizing the Main Point\n\n\n\n\nEmphasis"
+    "text": "Emphasizing the Main Point\n\n\n\n\nEmphasis 1"
   },
   {
     "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#emphasizing-the-main-point-1",
     "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#emphasizing-the-main-point-1",
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Emphasizing the Main Point",
-    "text": "Emphasizing the Main Point\n\n\n\n\nEmphasis 2"
+    "text": "Emphasizing the Main Point\n\n\n\n\n\n\nEmphasis 2\n\n\n\n\n\n\n\n\n\nEmphasis 3"
   },
   {
     "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#emphasizing-the-main-point-2",
@@ -2338,7 +2338,7 @@
     "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#dashboards",
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Dashboards",
-    "text": "Dashboards\n\n\n\n\nflexdashboard-logo\n\n\n\nThe goal of flexdashboard is to facilitate the creation of interactive dashboards with R Markdown."
+    "text": "Dashboards\n\n\n\n\nFlexdashboard\n\n\n\nThe goal of flexdashboard is to facilitate the creation of interactive dashboards with R Markdown."
   },
   {
     "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#flexdashboard-features",
@@ -2352,35 +2352,35 @@
     "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#flexdashboard-installation-and-use",
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Flexdashboard: Installation and Use",
-    "text": "Flexdashboard: Installation and Use\nAfter installing the package, to create a flexdashboard simply open a new R Markdown document with the output format flexdashboard::flex_dashboard. You can do this from within RStudio using: File &gt; New File &gt; R Markdown...:\n\ninstall.packages(\"flexdashboard\")\n\n\n\n\n\nflexdashboard-template"
+    "text": "Flexdashboard: Installation and Use\nAfter installing the package, to create a flexdashboard simply open a new R Markdown document with the output format flexdashboard::flex_dashboard. You can do this from within RStudio using: File &gt; New File &gt; R Markdown...:\n\ninstall.packages(\"flexdashboard\")"
   },
   {
     "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#flexdashboard-layout",
     "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#flexdashboard-layout",
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Flexdashboard: Layout",
-    "text": "Flexdashboard: Layout\nDashboards are divided into columns and rows, with output components delineated using level 3 markdown headers (###). By default, dashboards are laid out in a single column, with charts stacked vertically and sized to fill the available height of the browser. For example:\n\n\n\n\nflexdashboard_layout_01"
+    "text": "Flexdashboard: Layout\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDashboards are divided into columns and rows, with output components delineated using level 3 markdown headers (###).\nBy default, dashboards are laid out in a single column, with charts stacked vertically and sized to fill the available height of the browser."
   },
   {
     "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#flexdashboard-layout-1",
     "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#flexdashboard-layout-1",
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Flexdashboard: Layout",
-    "text": "Flexdashboard: Layout\nDepending on the nature of your dashboard (number of components, ideal component height, etc.), you might prefer a scrolling layout where components occupy their natural height and the browser scrolls when additional vertical space is needed. You can specify this attribute via the vertical_layout: scroll option. For example:\n\n\n\n\nflexdashboard_layout_02"
+    "text": "Flexdashboard: Layout\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDepending on the nature of your dashboard (number of components, ideal component height, etc.), you might prefer a scrolling layout where components occupy their natural height and the browser scrolls when additional vertical space is needed.\nYou can specify this attribute via the vertical_layout: scroll option."
   },
   {
     "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#flexdashboard-layout-2",
     "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#flexdashboard-layout-2",
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Flexdashboard: Layout",
-    "text": "Flexdashboard: Layout\nYou can also choose to orient the dashboards by row instead of by column by specifying orientation: rows. For example:\n\n\n\n\nflexdashboard_layout_03"
+    "text": "Flexdashboard: Layout\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYou can also choose to orient the dashboards by row instead of by column by specifying orientation: rows."
   },
   {
     "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#flexdashboard-storyboard",
     "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#flexdashboard-storyboard",
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Flexdashboard: Storyboard",
-    "text": "Flexdashboard: Storyboard\n\n\n\n\nStoryboard Template\n\n\n\nStoryboards are an alternative to the row and column-based layout schemes. They are suitable for presenting a sequence of data visualizations and related commentary. To create a storyboard layout, add storyboard: true to the dashboard’s preamble. This option includes a set of level 3 dashboard components (###). Each component will receive its own frame in the storyboard, with the section title used as a navigation caption."
+    "text": "Flexdashboard: Storyboard\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStoryboards are an alternative to the row and column-based layout schemes.\nThey are suitable for presenting a sequence of data visualizations and related commentary.\nTo create a storyboard layout, add storyboard: true to the dashboard’s preamble. This option includes a set of level 3 dashboard components (###). Each component will receive its own frame in the storyboard, with the section title used as a navigation caption."
   },
   {
     "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#flexdashboard-additional-material",
@@ -3585,5 +3585,446 @@
     "title": " MGMT 17300: Data Mining Lab ",
     "section": "Evaluating Predictive Model Performance",
     "text": "Evaluating Predictive Model Performance\n\n\n\nWe can plot a scatter plot with the actual mpg values on the x-axis and predicted mpg values on the y-axis.\n\n# Load ggrepel for better label placement\nlibrary(ggrepel)\n\n# Create a scatter plot with residuals labeled and prediction lines\nggplot(plot_data, aes(x = actual, y = predicted, color = model)) +\n  geom_point(alpha = 0.6) +  # Scatter plot of actual vs predicted\n  geom_smooth(method = \"lm\", formula = y ~ x, se = FALSE) +  # Linear trend lines\n  geom_text_repel(\n    aes(label = paste0(\"Residual: \", round(actual - predicted, 2))),  # Residual as label\n    size = 3, \n    max.overlaps = 10,  # Controls the maximum number of overlapping labels\n    box.padding = 0.5,  # Padding around the text box\n    point.padding = 0.2  # Padding around the point\n  ) + \n  labs(\n    x = \"Actual MPG\", \n    y = \"Predicted MPG\", \n    color = \"Model\", \n    title = \"Residuals Between Actual and Predicted MPG by Model\"\n  ) +\n  theme_minimal()"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#dashboard-additional-material",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#dashboard-additional-material",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Dashboard: Additional Material",
+    "text": "Dashboard: Additional Material\n\nFlexdashboard Sample Layouts\nFlexdashboard Examples\nUsing Flexdashboard\nInteractive Web-Based Data Visualization with R\nQuarto Dashboards\nShiny Dashboards"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#dashboards-1",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#dashboards-1",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "Dashboards",
+    "text": "Dashboards\n\n\n\n\nFlexdashboard\n\n\n\nThe goal of flexdashboard is to facilitate the creation of interactive dashboards with R Markdown."
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#what",
+    "href": "lecture_slides/15_lesson_m3dm/15_lesson_m3dm.html#what",
+    "title": " MGMT 17300: Data Mining Lab ",
+    "section": "What?!",
+    "text": "What?!\n\n\nAbout Pie Charts"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#overview",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#overview",
+    "title": " Communicating Data Effectively ",
+    "section": "Overview",
+    "text": "Overview\n\n\n\n\nMotivation\nThe Importance of Context\nSix General Principals\nChoosing the Chart\nLess is More\n\n\n\nHierarchy Among Data\nNot All Data Are Equally Important\nTelling Your Story\nDashboards"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#motivation-1",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#motivation-1",
+    "title": " Communicating Data Effectively ",
+    "section": "Motivation",
+    "text": "Motivation\n\n\n\n\nCovid-19"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#the-forest-and-the-trees",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#the-forest-and-the-trees",
+    "title": " Communicating Data Effectively ",
+    "section": "The Forest and the Trees",
+    "text": "The Forest and the Trees\n\n\n\n\nForest\n\n\n\nWe have explored many implementation details in recent days, focusing on individual aspects of each analysis.\nToday, we want to take a step back to think less about the detail and more about the process.\nAfter all, every data analysis has a purpose. How can we achieve it more effectively?"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#essential-elements-of-data-communication",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#essential-elements-of-data-communication",
+    "title": " Communicating Data Effectively ",
+    "section": "Essential Elements of Data Communication",
+    "text": "Essential Elements of Data Communication\nLet’s break down the data communication process into six general principles:\n\nContext matters\nVisualization derives from data\nSeparate signal from noise\nImpose hierarchy among data\nBeauty also counts\nYour analysis should tell a story"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#context-1",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#context-1",
+    "title": " Communicating Data Effectively ",
+    "section": "Context",
+    "text": "Context\nEvery analysis has a goal and an audience.\n\nIt’s important to separate data exploration from the final analysis. Don’t fall into the temptation of showing everything you did.\nAdapt the report to your audience. Decision-makers aren’t always interested in execution details.\nSo what? Keep a specific learning objective in mind. It will guide which information is relevant for your report.\n\n\nIsolated numbers don’t tell us much. To make evidence-based decisions, it’s necessary to establish an appropriate basis for comparison for the goal of your report."
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#context-can-come-from-new-information",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#context-can-come-from-new-information",
+    "title": " Communicating Data Effectively ",
+    "section": "Context Can Come from New Information…",
+    "text": "Context Can Come from New Information…\n\n\n\n\nContext Add"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#or-reinforce-existing-information",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#or-reinforce-existing-information",
+    "title": " Communicating Data Effectively ",
+    "section": "…or Reinforce Existing Information",
+    "text": "…or Reinforce Existing Information\n\n\n\n\nContext Obs"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#choosing-the-chart-1",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#choosing-the-chart-1",
+    "title": " Communicating Data Effectively ",
+    "section": "Choosing the Chart",
+    "text": "Choosing the Chart\n\nUse graphs instead of tables!\nWhat type of data?\nHow many dimensions?\nMost reports are consumed in 2D media. Showing more than that can confuse the reader.\nBe careful with scales!"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#scales-can-be-misleading",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#scales-can-be-misleading",
+    "title": " Communicating Data Effectively ",
+    "section": "Scales Can Be Misleading",
+    "text": "Scales Can Be Misleading\n\n\n\n\nScale Fail"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#avoid-dual-axes",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#avoid-dual-axes",
+    "title": " Communicating Data Effectively ",
+    "section": "Avoid Dual Axes",
+    "text": "Avoid Dual Axes\n\n\n\n\nDual Axis"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#or-triple-axes",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#or-triple-axes",
+    "title": " Communicating Data Effectively ",
+    "section": "Or Triple Axes!",
+    "text": "Or Triple Axes!\n\n\n\n\nTriple Axis"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#fewer-pie-charts",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#fewer-pie-charts",
+    "title": " Communicating Data Effectively ",
+    "section": "Fewer Pie Charts…",
+    "text": "Fewer Pie Charts…\n\n\n\n\nPie vs Bar"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#what",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#what",
+    "title": " Communicating Data Effectively ",
+    "section": "What?!",
+    "text": "What?!\n\n\nAbout Pie Charts"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#oof",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#oof",
+    "title": " Communicating Data Effectively ",
+    "section": "Oof",
+    "text": "Oof\n\n\n\n\nChart Fail"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#eliminating-noise",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#eliminating-noise",
+    "title": " Communicating Data Effectively ",
+    "section": "Eliminating Noise",
+    "text": "Eliminating Noise\n\n\nThe more information in your visualization, the greater the cognitive load.\nYour objective must be to reduce your audience cognitive costs.\n\n\n\nData-Ink Ratio Formula\n\\[\n\\text{Data-Ink Ratio} = \\frac{\\text{Data-Ink}}{\\text{Total ink used to print the graphic}}\n\\]"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#data-ink-ratio",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#data-ink-ratio",
+    "title": " Communicating Data Effectively ",
+    "section": "Data-Ink Ratio",
+    "text": "Data-Ink Ratio\n\nYour objective must be to reduce your audience cognitive costs.\n\n\n\n\n\nData-Ink"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#step-by-step-cleanup",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#step-by-step-cleanup",
+    "title": " Communicating Data Effectively ",
+    "section": "Step-by-Step Cleanup",
+    "text": "Step-by-Step Cleanup\n\n\n\n\n\nCleanup 1"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#eliminating-the-border",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#eliminating-the-border",
+    "title": " Communicating Data Effectively ",
+    "section": "Eliminating the Border",
+    "text": "Eliminating the Border\n\n\n\n\n\nCleanup 2"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#cleaning-the-grids",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#cleaning-the-grids",
+    "title": " Communicating Data Effectively ",
+    "section": "Cleaning the Grids",
+    "text": "Cleaning the Grids\n\n\n\n\n\nCleanup 3"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#removing-the-points",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#removing-the-points",
+    "title": " Communicating Data Effectively ",
+    "section": "Removing the Points",
+    "text": "Removing the Points\n\n\n\n\n\nCleanup 4"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#processing-the-axes",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#processing-the-axes",
+    "title": " Communicating Data Effectively ",
+    "section": "Processing the Axes",
+    "text": "Processing the Axes\n\n\n\n\n\nCleanup 5"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#adjusting-the-label",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#adjusting-the-label",
+    "title": " Communicating Data Effectively ",
+    "section": "Adjusting the Label",
+    "text": "Adjusting the Label\n\n\n\n\n\nCleanup 6"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#adjusting-colors",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#adjusting-colors",
+    "title": " Communicating Data Effectively ",
+    "section": "Adjusting Colors",
+    "text": "Adjusting Colors\n\n\n\n\nCleanup 7"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#before-and-after",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#before-and-after",
+    "title": " Communicating Data Effectively ",
+    "section": "Before and After",
+    "text": "Before and After\n\n\n\n\n\nBefore and After"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#count-the-number-3s",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#count-the-number-3s",
+    "title": " Communicating Data Effectively ",
+    "section": "Count the Number 3s",
+    "text": "Count the Number 3s\n\n\n\n\nHierarchy 1"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#count-the-number-3s-1",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#count-the-number-3s-1",
+    "title": " Communicating Data Effectively ",
+    "section": "Count the Number 3s",
+    "text": "Count the Number 3s\n\n\n\n\nHierarchy 2"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#ways-to-draw-attention",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#ways-to-draw-attention",
+    "title": " Communicating Data Effectively ",
+    "section": "Ways to Draw Attention",
+    "text": "Ways to Draw Attention\n\n\n\n\nHierarchy 3"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#highlighting-with-colors",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#highlighting-with-colors",
+    "title": " Communicating Data Effectively ",
+    "section": "Highlighting with Colors",
+    "text": "Highlighting with Colors\n\n\n\n\nHierarchy Colors"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#returning-to-our-example",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#returning-to-our-example",
+    "title": " Communicating Data Effectively ",
+    "section": "Returning to Our Example",
+    "text": "Returning to Our Example\n\n\n\n\nCleanup 9"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#returning-to-our-example-1",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#returning-to-our-example-1",
+    "title": " Communicating Data Effectively ",
+    "section": "Returning to Our Example",
+    "text": "Returning to Our Example\n\n\n\n\nCleanup 10"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#use-colors-strategically",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#use-colors-strategically",
+    "title": " Communicating Data Effectively ",
+    "section": "Use Colors Strategically",
+    "text": "Use Colors Strategically\n\n\n\n\nColors"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#emphasizing-the-main-point",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#emphasizing-the-main-point",
+    "title": " Communicating Data Effectively ",
+    "section": "Emphasizing the Main Point",
+    "text": "Emphasizing the Main Point\n\n\n\n\nEmphasis 1"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#emphasizing-the-main-point-1",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#emphasizing-the-main-point-1",
+    "title": " Communicating Data Effectively ",
+    "section": "Emphasizing the Main Point",
+    "text": "Emphasizing the Main Point\n\n\n\n\n\n\nEmphasis 2\n\n\n\n\n\n\n\n\n\nEmphasis 3"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#bringing-it-all-together",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#bringing-it-all-together",
+    "title": " Communicating Data Effectively ",
+    "section": "Bringing It All Together",
+    "text": "Bringing It All Together\nLet’s tell a story starting from the chart below, making step-by-step adaptations we’ve discussed. What is it telling you?\n\n\n\n\nFinal 1"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#bringing-it-all-together-1",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#bringing-it-all-together-1",
+    "title": " Communicating Data Effectively ",
+    "section": "Bringing It All Together",
+    "text": "Bringing It All Together\n\n\n\n\nFinal 2"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#bringing-it-all-together-2",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#bringing-it-all-together-2",
+    "title": " Communicating Data Effectively ",
+    "section": "Bringing It All Together",
+    "text": "Bringing It All Together\n\n\n\n\nFinal 3"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#bringing-it-all-together-3",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#bringing-it-all-together-3",
+    "title": " Communicating Data Effectively ",
+    "section": "Bringing It All Together",
+    "text": "Bringing It All Together\n\n\n\n\nFinal 4"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#bringing-it-all-together-4",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#bringing-it-all-together-4",
+    "title": " Communicating Data Effectively ",
+    "section": "Bringing It All Together",
+    "text": "Bringing It All Together\n\n\n\n\nFinal 5"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#final-narrative",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#final-narrative",
+    "title": " Communicating Data Effectively ",
+    "section": "Final Narrative",
+    "text": "Final Narrative\n\n\n\n\nStory 1"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#final-narrative-1",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#final-narrative-1",
+    "title": " Communicating Data Effectively ",
+    "section": "Final Narrative",
+    "text": "Final Narrative\n\n\n\n\nStory 2"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#final-narrative-2",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#final-narrative-2",
+    "title": " Communicating Data Effectively ",
+    "section": "Final Narrative",
+    "text": "Final Narrative\n\n\n\n\nStory 3"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#final-narrative-3",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#final-narrative-3",
+    "title": " Communicating Data Effectively ",
+    "section": "Final Narrative",
+    "text": "Final Narrative\n\n\n\n\nStory 4"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#final-narrative-4",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#final-narrative-4",
+    "title": " Communicating Data Effectively ",
+    "section": "Final Narrative",
+    "text": "Final Narrative\n\n\n\n\nStory 5"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#final-narrative-5",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#final-narrative-5",
+    "title": " Communicating Data Effectively ",
+    "section": "Final Narrative",
+    "text": "Final Narrative\n\n\n\n\nStory 6"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#final-narrative-6",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#final-narrative-6",
+    "title": " Communicating Data Effectively ",
+    "section": "Final Narrative",
+    "text": "Final Narrative\n\n\n\n\nStory 7"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#final-narrative-7",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#final-narrative-7",
+    "title": " Communicating Data Effectively ",
+    "section": "Final Narrative",
+    "text": "Final Narrative\n\n\n\n\nStory 8"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#before-and-after-1",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#before-and-after-1",
+    "title": " Communicating Data Effectively ",
+    "section": "Before and After",
+    "text": "Before and After\n\n\n\n\nStory 9"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#covid-19-evolution",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#covid-19-evolution",
+    "title": " Communicating Data Effectively ",
+    "section": "COVID-19 Evolution",
+    "text": "COVID-19 Evolution"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#moving-average",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#moving-average",
+    "title": " Communicating Data Effectively ",
+    "section": "Moving Average",
+    "text": "Moving Average"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#deaths-in-new-york",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#deaths-in-new-york",
+    "title": " Communicating Data Effectively ",
+    "section": "Deaths in New York",
+    "text": "Deaths in New York"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#additional-material",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#additional-material",
+    "title": " Communicating Data Effectively ",
+    "section": "Additional Material",
+    "text": "Additional Material\n\nFlowing Data\nInformation is Beautiful\nThe Functional Art\nCOVID in the Financial Times"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#dashboards-1",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#dashboards-1",
+    "title": " Communicating Data Effectively ",
+    "section": "Dashboards",
+    "text": "Dashboards\n\n\n\n\nFlexdashboard\n\n\n\nThe goal of flexdashboard is to facilitate the creation of interactive dashboards with R Markdown."
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#flexdashboard-features",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#flexdashboard-features",
+    "title": " Communicating Data Effectively ",
+    "section": "Flexdashboard: Features",
+    "text": "Flexdashboard: Features\n\nSupport for a wide variety of components, including htmlwidgets; base graphics, structure, and grid; tabular data; gauges and value boxes; and text annotations.\nFlexible and easy to specify layouts based on rows and columns. Components are intelligently resized to fill the browser and adapted for mobile display.\nStoryboard layouts to present sequences of visualizations and related commentary."
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#flexdashboard-installation-and-use",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#flexdashboard-installation-and-use",
+    "title": " Communicating Data Effectively ",
+    "section": "Flexdashboard: Installation and Use",
+    "text": "Flexdashboard: Installation and Use\nAfter installing the package, to create a flexdashboard simply open a new R Markdown document with the output format flexdashboard::flex_dashboard. You can do this from within RStudio using: File &gt; New File &gt; R Markdown...:\n\ninstall.packages(\"flexdashboard\")"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#flexdashboard-layout",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#flexdashboard-layout",
+    "title": " Communicating Data Effectively ",
+    "section": "Flexdashboard: Layout",
+    "text": "Flexdashboard: Layout\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDashboards are divided into columns and rows, with output components delineated using level 3 markdown headers (###).\nBy default, dashboards are laid out in a single column, with charts stacked vertically and sized to fill the available height of the browser."
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#flexdashboard-layout-1",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#flexdashboard-layout-1",
+    "title": " Communicating Data Effectively ",
+    "section": "Flexdashboard: Layout",
+    "text": "Flexdashboard: Layout\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDepending on the nature of your dashboard (number of components, ideal component height, etc.), you might prefer a scrolling layout where components occupy their natural height and the browser scrolls when additional vertical space is needed.\nYou can specify this attribute via the vertical_layout: scroll option."
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#flexdashboard-layout-2",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#flexdashboard-layout-2",
+    "title": " Communicating Data Effectively ",
+    "section": "Flexdashboard: Layout",
+    "text": "Flexdashboard: Layout\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYou can also choose to orient the dashboards by row instead of by column by specifying orientation: rows."
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#flexdashboard-storyboard",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#flexdashboard-storyboard",
+    "title": " Communicating Data Effectively ",
+    "section": "Flexdashboard: Storyboard",
+    "text": "Flexdashboard: Storyboard\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStoryboards are an alternative to the row and column-based layout schemes.\nThey are suitable for presenting a sequence of data visualizations and related commentary.\nTo create a storyboard layout, add storyboard: true to the dashboard’s preamble. This option includes a set of level 3 dashboard components (###). Each component will receive its own frame in the storyboard, with the section title used as a navigation caption."
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#dashboard-additional-material",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#dashboard-additional-material",
+    "title": " Communicating Data Effectively ",
+    "section": "Dashboard: Additional Material",
+    "text": "Dashboard: Additional Material\n\nFlexdashboard Sample Layouts\nFlexdashboard Examples\nUsing Flexdashboard\nInteractive Web-Based Data Visualization with R\nQuarto Dashboards\nShiny Dashboards"
+  },
+  {
+    "objectID": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#summary-1",
+    "href": "lecture_slides/15_lesson_m3dm/communicating_effectively.html#summary-1",
+    "title": " Communicating Data Effectively ",
+    "section": "Summary",
+    "text": "Summary\n\n\nMain Takeaways from this lecture:\n\nData Communication Principles:\n\nContext matters: Tailor your analysis to the audience and goal.\nFocus on the story: Highlight insights, not the process.\nBeauty and clarity: Simplify visuals, use appropriate colors, and remove unnecessary elements.\n\nVisualization Best Practices:\n\nUse graphs instead of tables where possible.\nAvoid misleading scales and excessive dimensions.\nPrioritize hierarchy and emphasize key data points.\n\nEffective Dashboards:\n\nUtilize tools like flexdashboard to create interactive layouts.\nStructure information logically, adapting to mobile and web use.\nStoryboard layouts help narrate data insights step-by-step.\n\nFinal Message:\n\nLess is more. Reduce complexity to communicate data effectively.\nAlways keep your audience’s decision-making needs at the forefront."
   }
 ]
